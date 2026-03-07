@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-07T01:28:17.237Z",
-  "total": 449,
+  "generatedAt": "2026-03-07T02:25:43.173Z",
+  "total": 452,
   "items": [
     {
       "source_system": "MAM",
@@ -389,6 +389,36 @@
       "source_crop_name": "香蕉-越旦",
       "market_code": "241",
       "market_name": "三重區",
+      "suggested_alias": "香蕉越旦",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N05",
+      "source_crop_code": "A4",
+      "source_crop_name": "香蕉-越旦",
+      "market_code": "338",
+      "market_name": "桃農",
+      "suggested_alias": "香蕉越旦",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N04",
+      "source_crop_code": "LA91",
+      "source_crop_name": "甘藍-進口 初秋",
+      "market_code": "338",
+      "market_name": "桃農",
+      "suggested_alias": "甘藍進口初秋",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N05",
+      "source_crop_code": "A4",
+      "source_crop_name": "香蕉-越旦",
+      "market_code": "420",
+      "market_name": "豐原區",
       "suggested_alias": "香蕉越旦",
       "decision": "pending"
     },
