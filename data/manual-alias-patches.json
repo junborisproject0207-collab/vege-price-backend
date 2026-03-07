@@ -1,0 +1,19 @@
+[
+  { "match_name": "茼蒿-山茼蒿", "target_name": "茼蒿" },
+
+  { "match_name": "南瓜-木瓜型 阿成", "target_name": "南瓜" },
+  { "match_name": "南瓜-進口 栗子", "target_name": "南瓜" },
+  { "match_name": "南瓜-栗子 小黑", "target_name": "南瓜" },
+  { "match_name": "南瓜-進口 東昇", "target_name": "南瓜" },
+
+  { "match_name": "小白菜-奶油白", "target_name": "不結球白菜-小白菜" },
+  { "match_name": "油菜-小松菜", "target_name": "油菜" },
+
+  { "match_name": "包心白菜-進口 包頭蓮", "target_name": "結球白菜-包頭蓮" },
+  { "match_name": "包心白菜-進口 其他", "target_name": "結球白菜進口" },
+
+  { "match_name": "蘆筍-進口 綠蘆筍", "target_name": "蘆筍" },
+  { "match_name": "甘藍-進口 紫色", "target_name": "甘藍" },
+  { "match_name": "芋-芋角", "target_name": "芋" },
+  { "match_name": "蘿蔔-甜菜根", "target_name": "甜菜根" }
+]
