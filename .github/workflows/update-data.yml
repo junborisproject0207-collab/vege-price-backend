@@ -1,0 +1,46 @@
+name: Update vege backend data
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 台灣時間每天早上 7:10 = UTC 前一天 23:10
+    - cron: "10 23 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+
+      - name: Run fetch master
+        run: node ./scripts/fetch-master.mjs
+
+      - name: Run build master
+        run: node ./scripts/build-master.mjs
+
+      - name: Run build price daily
+        run: node ./scripts/build-price-daily.mjs
+
+      - name: Run analyze unmatched
+        run: node ./scripts/analyze-unmatched.mjs
+
+      - name: Update version and summary timestamp
+        run: node ./scripts/update-meta.mjs
+
+      - name: Commit and push if changed
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add .
+          git diff --cached --quiet || git commit -m "chore: update backend data"
+          git push
