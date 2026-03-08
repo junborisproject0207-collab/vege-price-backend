@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-03-07T23:48:57.140Z",
-  "unmatched_total_rows": 331,
+  "generatedAt": "2026-03-08T03:24:27.228Z",
+  "unmatched_total_rows": 348,
   "distinct_unmatched_names": 59,
   "distinct_unmatched_codes": 60,
   "top_20_names": [
     {
       "key": "香蕉-越旦",
-      "count": 14
+      "count": 20
     },
     {
       "key": "OT曼尼薩-雙朵",
@@ -81,14 +81,14 @@
       "count": 8
     },
     {
-      "key": "OT帕雷諾-雙朵",
+      "key": "雜柑-黃金檸檬",
       "count": 7
     }
   ],
   "top_20_codes": [
     {
       "key": "A4",
-      "count": 14
+      "count": 20
     },
     {
       "key": "FS632",
@@ -163,14 +163,14 @@
       "count": 8
     },
     {
-      "key": "FS892",
+      "key": "F6",
       "count": 7
     }
   ],
   "suggestions_top_200": [
     {
       "source_crop_name": "香蕉-越旦",
-      "count": 14,
+      "count": 20,
       "normalized_name": "香蕉越旦",
       "suggestion_type": "unknown",
       "suggested_official_code": null,
@@ -321,6 +321,14 @@
       "suggested_name_zh": null
     },
     {
+      "source_crop_name": "雜柑-黃金檸檬",
+      "count": 7,
+      "normalized_name": "雜柑黃金檸檬",
+      "suggestion_type": "unknown",
+      "suggested_official_code": null,
+      "suggested_name_zh": null
+    },
+    {
       "source_crop_name": "OT帕雷諾-雙朵",
       "count": 7,
       "normalized_name": "OT帕雷諾雙朵",
@@ -340,6 +348,14 @@
       "source_crop_name": "OT紅福特-單朵",
       "count": 7,
       "normalized_name": "OT紅福特單朵",
+      "suggestion_type": "unknown",
+      "suggested_official_code": null,
+      "suggested_name_zh": null
+    },
+    {
+      "source_crop_name": "其他-進口",
+      "count": 6,
+      "normalized_name": "其他進口",
       "suggestion_type": "unknown",
       "suggested_official_code": null,
       "suggested_name_zh": null
@@ -369,14 +385,6 @@
       "suggested_name_zh": null
     },
     {
-      "source_crop_name": "雜柑-黃金檸檬",
-      "count": 5,
-      "normalized_name": "雜柑黃金檸檬",
-      "suggestion_type": "unknown",
-      "suggested_official_code": null,
-      "suggested_name_zh": null
-    },
-    {
       "source_crop_name": "OT曼尼薩",
       "count": 5,
       "normalized_name": "OT曼尼薩",
@@ -401,14 +409,6 @@
       "suggested_name_zh": null
     },
     {
-      "source_crop_name": "其他-進口",
-      "count": 4,
-      "normalized_name": "其他進口",
-      "suggestion_type": "unknown",
-      "suggested_official_code": null,
-      "suggested_name_zh": null
-    },
-    {
       "source_crop_name": "OT試金石",
       "count": 4,
       "normalized_name": "OT試金石",
@@ -420,6 +420,30 @@
       "source_crop_name": "OT康卡多-單朵",
       "count": 4,
       "normalized_name": "OT康卡多單朵",
+      "suggestion_type": "unknown",
+      "suggested_official_code": null,
+      "suggested_name_zh": null
+    },
+    {
+      "source_crop_name": "油菜-油菜花",
+      "count": 3,
+      "normalized_name": "油菜油菜花",
+      "suggestion_type": "unknown",
+      "suggested_official_code": null,
+      "suggested_name_zh": null
+    },
+    {
+      "source_crop_name": "包心白菜-進口 包白",
+      "count": 3,
+      "normalized_name": "包心白菜進口包白",
+      "suggestion_type": "unknown",
+      "suggested_official_code": null,
+      "suggested_name_zh": null
+    },
+    {
+      "source_crop_name": "甘藍-進口 初秋",
+      "count": 3,
+      "normalized_name": "甘藍進口初秋",
       "suggestion_type": "unknown",
       "suggested_official_code": null,
       "suggested_name_zh": null
@@ -473,33 +497,33 @@
       "suggested_name_zh": null
     },
     {
+      "source_crop_name": "鳳梨-西瓜鳳梨",
+      "count": 2,
+      "normalized_name": "鳳梨西瓜鳳梨",
+      "suggestion_type": "unknown",
+      "suggested_official_code": null,
+      "suggested_name_zh": null
+    },
+    {
+      "source_crop_name": "南瓜-木瓜型 阿嬌",
+      "count": 2,
+      "normalized_name": "南瓜木瓜型阿嬌",
+      "suggestion_type": "unknown",
+      "suggested_official_code": null,
+      "suggested_name_zh": null
+    },
+    {
+      "source_crop_name": "菠菜-甜菠菜",
+      "count": 2,
+      "normalized_name": "菠菜甜菠菜",
+      "suggestion_type": "unknown",
+      "suggested_official_code": null,
+      "suggested_name_zh": null
+    },
+    {
       "source_crop_name": "珍珠柑",
       "count": 2,
       "normalized_name": "珍珠柑",
-      "suggestion_type": "unknown",
-      "suggested_official_code": null,
-      "suggested_name_zh": null
-    },
-    {
-      "source_crop_name": "甘藍-進口 初秋",
-      "count": 2,
-      "normalized_name": "甘藍進口初秋",
-      "suggestion_type": "unknown",
-      "suggested_official_code": null,
-      "suggested_name_zh": null
-    },
-    {
-      "source_crop_name": "包心白菜-進口 包白",
-      "count": 2,
-      "normalized_name": "包心白菜進口包白",
-      "suggestion_type": "unknown",
-      "suggested_official_code": null,
-      "suggested_name_zh": null
-    },
-    {
-      "source_crop_name": "油菜-油菜花",
-      "count": 2,
-      "normalized_name": "油菜油菜花",
       "suggestion_type": "unknown",
       "suggested_official_code": null,
       "suggested_name_zh": null
@@ -553,25 +577,9 @@
       "suggested_name_zh": null
     },
     {
-      "source_crop_name": "鳳梨-西瓜鳳梨",
-      "count": 1,
-      "normalized_name": "鳳梨西瓜鳳梨",
-      "suggestion_type": "unknown",
-      "suggested_official_code": null,
-      "suggested_name_zh": null
-    },
-    {
       "source_crop_name": "OT競爭者-多朵",
       "count": 1,
       "normalized_name": "OT競爭者多朵",
-      "suggestion_type": "unknown",
-      "suggested_official_code": null,
-      "suggested_name_zh": null
-    },
-    {
-      "source_crop_name": "菠菜-甜菠菜",
-      "count": 1,
-      "normalized_name": "菠菜甜菠菜",
       "suggestion_type": "unknown",
       "suggested_official_code": null,
       "suggested_name_zh": null
@@ -588,14 +596,6 @@
       "source_crop_name": "進口泡盛草",
       "count": 1,
       "normalized_name": "進口泡盛草",
-      "suggestion_type": "unknown",
-      "suggested_official_code": null,
-      "suggested_name_zh": null
-    },
-    {
-      "source_crop_name": "南瓜-木瓜型 阿嬌",
-      "count": 1,
-      "normalized_name": "南瓜木瓜型阿嬌",
       "suggestion_type": "unknown",
       "suggested_official_code": null,
       "suggested_name_zh": null
