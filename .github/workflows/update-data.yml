@@ -3,12 +3,6 @@ name: Update vege backend data
 on:
   workflow_dispatch:
   schedule:
-    # 官方 API 更新時間（台灣時間）
-    # 05:58 / 08:58 / 09:58 / 10:58 / 11:58 / 21:58
-    #
-    # 排在更新後約 15~20 分鐘：
-    # 台灣時間 06:15 / 09:15 / 10:15 / 11:15 / 12:15 / 22:15
-    # UTC      22:15 / 01:15 / 02:15 / 03:15 / 04:15 / 14:15
     - cron: "15 22,1,2,3,4,14 * * *"
 
 permissions:
@@ -41,6 +35,35 @@ jobs:
             fs.appendFileSync(OUTPUT_FILE, `${name}=${value}\n`);
           }
 
+          function normalizeTradeDate(dateStr) {
+            if (!dateStr || typeof dateStr !== "string") return null;
+            const m = dateStr.match(/^(\d{2,3})\.(\d{2})\.(\d{2})$/);
+            if (!m) return null;
+            return `${m[1].padStart(3, "0")}${m[2]}${m[3]}`;
+          }
+
+          function getTradeDateFromRow(row) {
+            return row?.trade_date ?? row?.["交易日期"] ?? null;
+          }
+
+          function getMaxTradeDateFromRecords(records) {
+            let maxRaw = null;
+            let maxNorm = null;
+
+            for (const row of records) {
+              const raw = getTradeDateFromRow(row);
+              const norm = normalizeTradeDate(raw);
+              if (!norm) continue;
+
+              if (!maxNorm || norm > maxNorm) {
+                maxNorm = norm;
+                maxRaw = raw;
+              }
+            }
+
+            return maxRaw;
+          }
+
           function getRepoLatestDate() {
             const file = "./public/prices/latest.json";
             if (!fs.existsSync(file)) return null;
@@ -48,11 +71,11 @@ jobs:
             const json = JSON.parse(fs.readFileSync(file, "utf8"));
 
             if (Array.isArray(json)) {
-              return json[0]?.trade_date ?? null;
+              return getMaxTradeDateFromRecords(json);
             }
 
-            if (json && Array.isArray(json.records) && json.records.length > 0) {
-              return json.records[0]?.trade_date ?? null;
+            if (json && Array.isArray(json.records)) {
+              return getMaxTradeDateFromRecords(json.records);
             }
 
             return null;
@@ -66,9 +89,7 @@ jobs:
 
           async function main() {
             const res = await fetch(API_URL, {
-              headers: {
-                "accept": "application/json"
-              }
+              headers: { accept: "application/json" }
             });
 
             if (!res.ok) {
@@ -77,7 +98,7 @@ jobs:
 
             const apiJson = await res.json();
             const apiRecords = getApiRecords(apiJson);
-            const apiDate = apiRecords[0]?.trade_date ?? null;
+            const apiDate = getMaxTradeDateFromRecords(apiRecords);
             const repoDate = getRepoLatestDate();
 
             console.log("API records length:", apiRecords.length);
@@ -88,7 +109,9 @@ jobs:
               throw new Error("API trade_date not found");
             }
 
-            const shouldUpdate = !repoDate || apiDate > repoDate ? "true" : "false";
+            const apiNorm = normalizeTradeDate(apiDate);
+            const repoNorm = normalizeTradeDate(repoDate);
+            const shouldUpdate = !repoNorm || apiNorm > repoNorm ? "true" : "false";
 
             setOutput("api_trade_date", apiDate);
             setOutput("repo_trade_date", repoDate ?? "");
