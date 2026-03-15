@@ -6,15 +6,9 @@ on:
     # 官方 API 更新時間（台灣時間）
     # 05:58 / 08:58 / 09:58 / 10:58 / 11:58 / 21:58
     #
-    # 為了避免抓到未完成資料，
-    # 排在更新後約 15~20 分鐘。
-    #
-    # 台灣時間：
-    # 06:15 / 09:15 / 10:15 / 11:15 / 12:15 / 22:15
-    #
-    # GitHub Actions 使用 UTC
-    # 換算為：
-    # 22:15 / 01:15 / 02:15 / 03:15 / 04:15 / 14:15
+    # 排在更新後約 15~20 分鐘：
+    # 台灣時間 06:15 / 09:15 / 10:15 / 11:15 / 12:15 / 22:15
+    # UTC      22:15 / 01:15 / 02:15 / 03:15 / 04:15 / 14:15
     - cron: "15 22,1,2,3,4,14 * * *"
 
 permissions:
@@ -33,9 +27,6 @@ jobs:
         with:
           node-version: 20
 
-      # -----------------------------
-      # 檢查 API 是否有更新資料
-      # -----------------------------
       - name: Check if API has newer trade_date
         id: check_update
         shell: bash
@@ -52,30 +43,44 @@ jobs:
 
           function getRepoLatestDate() {
             const file = "./public/prices/latest.json";
-
             if (!fs.existsSync(file)) return null;
 
             const json = JSON.parse(fs.readFileSync(file, "utf8"));
 
-            if (!json || !Array.isArray(json.records) || json.records.length === 0) {
-              return null;
+            if (Array.isArray(json)) {
+              return json[0]?.trade_date ?? null;
             }
 
-            return json.records[0]?.trade_date ?? null;
+            if (json && Array.isArray(json.records) && json.records.length > 0) {
+              return json.records[0]?.trade_date ?? null;
+            }
+
+            return null;
+          }
+
+          function getApiRecords(apiJson) {
+            if (Array.isArray(apiJson)) return apiJson;
+            if (apiJson && Array.isArray(apiJson.records)) return apiJson.records;
+            return [];
           }
 
           async function main() {
-            const res = await fetch(API_URL);
+            const res = await fetch(API_URL, {
+              headers: {
+                "accept": "application/json"
+              }
+            });
 
             if (!res.ok) {
-              throw new Error(`Fetch API failed: ${res.status}`);
+              throw new Error(`Fetch API failed: ${res.status} ${res.statusText}`);
             }
 
             const apiJson = await res.json();
-
-            const apiDate = apiJson?.records?.[0]?.trade_date ?? null;
+            const apiRecords = getApiRecords(apiJson);
+            const apiDate = apiRecords[0]?.trade_date ?? null;
             const repoDate = getRepoLatestDate();
 
+            console.log("API records length:", apiRecords.length);
             console.log("API latest trade_date:", apiDate);
             console.log("Repo latest trade_date:", repoDate);
 
@@ -101,13 +106,10 @@ jobs:
       - name: Skip because no newer data
         if: steps.check_update.outputs.should_update != 'true'
         run: |
-          echo "No newer trade_date from API"
+          echo "No newer trade_date from API."
           echo "API:  ${{ steps.check_update.outputs.api_trade_date }}"
           echo "Repo: ${{ steps.check_update.outputs.repo_trade_date }}"
 
-      # -----------------------------
-      # 抓取與建置資料
-      # -----------------------------
       - name: Run fetch master
         if: steps.check_update.outputs.should_update == 'true'
         run: node ./scripts/fetch-master.mjs
@@ -128,19 +130,16 @@ jobs:
         if: steps.check_update.outputs.should_update == 'true'
         run: node ./scripts/update-meta.mjs
 
-      # -----------------------------
-      # commit 更新
-      # -----------------------------
       - name: Commit and push if changed
         if: steps.check_update.outputs.should_update == 'true'
+        shell: bash
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
           git add .
 
           if git diff --cached --quiet; then
-            echo "No file changes after build"
+            echo "No file changes after build, skip commit."
           else
             git commit -m "chore: update backend data"
             git push
