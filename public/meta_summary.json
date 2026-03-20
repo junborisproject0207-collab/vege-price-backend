@@ -1,9 +1,9 @@
 {
-  "updatedAt": "2026-03-20T03:39:50.438Z",
-  "vegetables_version": 20,
+  "updatedAt": "2026-03-20T22:48:20.585Z",
+  "vegetables_version": 21,
   "vegetables_master_total": 4369,
   "vegetable_alias_total": 5318,
   "vegetable_source_mapping_total": 2142,
-  "latest_price_total": 7544,
-  "latest_unmatched_total": 379
+  "latest_price_total": 7074,
+  "latest_unmatched_total": 439
 }

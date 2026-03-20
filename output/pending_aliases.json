@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-20T03:39:50.267Z",
-  "total": 379,
+  "generatedAt": "2026-03-20T22:48:20.416Z",
+  "total": 439,
   "items": [
     {
       "source_system": "MAM",
@@ -564,6 +564,186 @@
     },
     {
       "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FH511",
+      "source_crop_name": "蝴蝶陸蓮-紅",
+      "market_code": "400",
+      "market_name": "台中市場",
+      "suggested_alias": "蝴蝶陸蓮紅",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS630",
+      "source_crop_name": "OT曼尼薩",
+      "market_code": "400",
+      "market_name": "台中市場",
+      "suggested_alias": "OT曼尼薩",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS631",
+      "source_crop_name": "OT曼尼薩-單朵",
+      "market_code": "400",
+      "market_name": "台中市場",
+      "suggested_alias": "OT曼尼薩單朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS632",
+      "source_crop_name": "OT曼尼薩-雙朵",
+      "market_code": "400",
+      "market_name": "台中市場",
+      "suggested_alias": "OT曼尼薩雙朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS633",
+      "source_crop_name": "OT曼尼薩-三朵",
+      "market_code": "400",
+      "market_name": "台中市場",
+      "suggested_alias": "OT曼尼薩三朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS639",
+      "source_crop_name": "OT曼尼薩-多朵",
+      "market_code": "400",
+      "market_name": "台中市場",
+      "suggested_alias": "OT曼尼薩多朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS870",
+      "source_crop_name": "OT大連",
+      "market_code": "400",
+      "market_name": "台中市場",
+      "suggested_alias": "OT大連",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS871",
+      "source_crop_name": "OT大連-單朵",
+      "market_code": "400",
+      "market_name": "台中市場",
+      "suggested_alias": "OT大連單朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS872",
+      "source_crop_name": "OT大連-雙朵",
+      "market_code": "400",
+      "market_name": "台中市場",
+      "suggested_alias": "OT大連雙朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS873",
+      "source_crop_name": "OT大連-三朵",
+      "market_code": "400",
+      "market_name": "台中市場",
+      "suggested_alias": "OT大連三朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS879",
+      "source_crop_name": "OT大連-多朵",
+      "market_code": "400",
+      "market_name": "台中市場",
+      "suggested_alias": "OT大連多朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS899",
+      "source_crop_name": "OT帕雷諾-多朵",
+      "market_code": "400",
+      "market_name": "台中市場",
+      "suggested_alias": "OT帕雷諾多朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS962",
+      "source_crop_name": "OT試金石-雙朵",
+      "market_code": "400",
+      "market_name": "台中市場",
+      "suggested_alias": "OT試金石雙朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS963",
+      "source_crop_name": "OT試金石-三朵",
+      "market_code": "400",
+      "market_name": "台中市場",
+      "suggested_alias": "OT試金石三朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS969",
+      "source_crop_name": "OT試金石-多朵",
+      "market_code": "400",
+      "market_name": "台中市場",
+      "suggested_alias": "OT試金石多朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS973",
+      "source_crop_name": "OT紅福特-三朵",
+      "market_code": "400",
+      "market_name": "台中市場",
+      "suggested_alias": "OT紅福特三朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS979",
+      "source_crop_name": "OT紅福特-多朵",
+      "market_code": "400",
+      "market_name": "台中市場",
+      "suggested_alias": "OT紅福特多朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS999",
+      "source_crop_name": "OT阿巴雷托-多朵",
+      "market_code": "400",
+      "market_name": "台中市場",
+      "suggested_alias": "OT阿巴雷托多朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
       "crop_type_code": "N05",
       "source_crop_code": "A4",
       "source_crop_name": "香蕉-越旦",
@@ -574,12 +754,752 @@
     },
     {
       "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FH511",
+      "source_crop_name": "蝴蝶陸蓮-紅",
+      "market_code": "514",
+      "market_name": "彰化市場",
+      "suggested_alias": "蝴蝶陸蓮紅",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS630",
+      "source_crop_name": "OT曼尼薩",
+      "market_code": "514",
+      "market_name": "彰化市場",
+      "suggested_alias": "OT曼尼薩",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS631",
+      "source_crop_name": "OT曼尼薩-單朵",
+      "market_code": "514",
+      "market_name": "彰化市場",
+      "suggested_alias": "OT曼尼薩單朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS632",
+      "source_crop_name": "OT曼尼薩-雙朵",
+      "market_code": "514",
+      "market_name": "彰化市場",
+      "suggested_alias": "OT曼尼薩雙朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS633",
+      "source_crop_name": "OT曼尼薩-三朵",
+      "market_code": "514",
+      "market_name": "彰化市場",
+      "suggested_alias": "OT曼尼薩三朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS639",
+      "source_crop_name": "OT曼尼薩-多朵",
+      "market_code": "514",
+      "market_name": "彰化市場",
+      "suggested_alias": "OT曼尼薩多朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS850",
+      "source_crop_name": "OT瑪丹娜",
+      "market_code": "514",
+      "market_name": "彰化市場",
+      "suggested_alias": "OT瑪丹娜",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS870",
+      "source_crop_name": "OT大連",
+      "market_code": "514",
+      "market_name": "彰化市場",
+      "suggested_alias": "OT大連",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS871",
+      "source_crop_name": "OT大連-單朵",
+      "market_code": "514",
+      "market_name": "彰化市場",
+      "suggested_alias": "OT大連單朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS872",
+      "source_crop_name": "OT大連-雙朵",
+      "market_code": "514",
+      "market_name": "彰化市場",
+      "suggested_alias": "OT大連雙朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS873",
+      "source_crop_name": "OT大連-三朵",
+      "market_code": "514",
+      "market_name": "彰化市場",
+      "suggested_alias": "OT大連三朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS879",
+      "source_crop_name": "OT大連-多朵",
+      "market_code": "514",
+      "market_name": "彰化市場",
+      "suggested_alias": "OT大連多朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS893",
+      "source_crop_name": "OT帕雷諾-三朵",
+      "market_code": "514",
+      "market_name": "彰化市場",
+      "suggested_alias": "OT帕雷諾三朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS899",
+      "source_crop_name": "OT帕雷諾-多朵",
+      "market_code": "514",
+      "market_name": "彰化市場",
+      "suggested_alias": "OT帕雷諾多朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS921",
+      "source_crop_name": "OT帕芳多-單朵",
+      "market_code": "514",
+      "market_name": "彰化市場",
+      "suggested_alias": "OT帕芳多單朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS922",
+      "source_crop_name": "OT帕芳多-雙朵",
+      "market_code": "514",
+      "market_name": "彰化市場",
+      "suggested_alias": "OT帕芳多雙朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS963",
+      "source_crop_name": "OT試金石-三朵",
+      "market_code": "514",
+      "market_name": "彰化市場",
+      "suggested_alias": "OT試金石三朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS969",
+      "source_crop_name": "OT試金石-多朵",
+      "market_code": "514",
+      "market_name": "彰化市場",
+      "suggested_alias": "OT試金石多朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS970",
+      "source_crop_name": "OT紅福特",
+      "market_code": "514",
+      "market_name": "彰化市場",
+      "suggested_alias": "OT紅福特",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS971",
+      "source_crop_name": "OT紅福特-單朵",
+      "market_code": "514",
+      "market_name": "彰化市場",
+      "suggested_alias": "OT紅福特單朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS972",
+      "source_crop_name": "OT紅福特-雙朵",
+      "market_code": "514",
+      "market_name": "彰化市場",
+      "suggested_alias": "OT紅福特雙朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS973",
+      "source_crop_name": "OT紅福特-三朵",
+      "market_code": "514",
+      "market_name": "彰化市場",
+      "suggested_alias": "OT紅福特三朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS979",
+      "source_crop_name": "OT紅福特-多朵",
+      "market_code": "514",
+      "market_name": "彰化市場",
+      "suggested_alias": "OT紅福特多朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS993",
+      "source_crop_name": "OT阿巴雷托-三朵",
+      "market_code": "514",
+      "market_name": "彰化市場",
+      "suggested_alias": "OT阿巴雷托三朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
       "crop_type_code": null,
       "source_crop_code": "0X1",
       "source_crop_name": null,
       "market_code": "540",
       "market_name": "南投市",
       "suggested_alias": "",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FH511",
+      "source_crop_name": "蝴蝶陸蓮-紅",
+      "market_code": "700",
+      "market_name": "台南市場",
+      "suggested_alias": "蝴蝶陸蓮紅",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FH513",
+      "source_crop_name": "蝴蝶陸蓮-黃",
+      "market_code": "700",
+      "market_name": "台南市場",
+      "suggested_alias": "蝴蝶陸蓮黃",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FH522",
+      "source_crop_name": "迥香-白",
+      "market_code": "700",
+      "market_name": "台南市場",
+      "suggested_alias": "迥香白",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS630",
+      "source_crop_name": "OT曼尼薩",
+      "market_code": "700",
+      "market_name": "台南市場",
+      "suggested_alias": "OT曼尼薩",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS631",
+      "source_crop_name": "OT曼尼薩-單朵",
+      "market_code": "700",
+      "market_name": "台南市場",
+      "suggested_alias": "OT曼尼薩單朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS632",
+      "source_crop_name": "OT曼尼薩-雙朵",
+      "market_code": "700",
+      "market_name": "台南市場",
+      "suggested_alias": "OT曼尼薩雙朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS633",
+      "source_crop_name": "OT曼尼薩-三朵",
+      "market_code": "700",
+      "market_name": "台南市場",
+      "suggested_alias": "OT曼尼薩三朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS639",
+      "source_crop_name": "OT曼尼薩-多朵",
+      "market_code": "700",
+      "market_name": "台南市場",
+      "suggested_alias": "OT曼尼薩多朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS870",
+      "source_crop_name": "OT大連",
+      "market_code": "700",
+      "market_name": "台南市場",
+      "suggested_alias": "OT大連",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS871",
+      "source_crop_name": "OT大連-單朵",
+      "market_code": "700",
+      "market_name": "台南市場",
+      "suggested_alias": "OT大連單朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS872",
+      "source_crop_name": "OT大連-雙朵",
+      "market_code": "700",
+      "market_name": "台南市場",
+      "suggested_alias": "OT大連雙朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS873",
+      "source_crop_name": "OT大連-三朵",
+      "market_code": "700",
+      "market_name": "台南市場",
+      "suggested_alias": "OT大連三朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS879",
+      "source_crop_name": "OT大連-多朵",
+      "market_code": "700",
+      "market_name": "台南市場",
+      "suggested_alias": "OT大連多朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS899",
+      "source_crop_name": "OT帕雷諾-多朵",
+      "market_code": "700",
+      "market_name": "台南市場",
+      "suggested_alias": "OT帕雷諾多朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS921",
+      "source_crop_name": "OT帕芳多-單朵",
+      "market_code": "700",
+      "market_name": "台南市場",
+      "suggested_alias": "OT帕芳多單朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS922",
+      "source_crop_name": "OT帕芳多-雙朵",
+      "market_code": "700",
+      "market_name": "台南市場",
+      "suggested_alias": "OT帕芳多雙朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS963",
+      "source_crop_name": "OT試金石-三朵",
+      "market_code": "700",
+      "market_name": "台南市場",
+      "suggested_alias": "OT試金石三朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS969",
+      "source_crop_name": "OT試金石-多朵",
+      "market_code": "700",
+      "market_name": "台南市場",
+      "suggested_alias": "OT試金石多朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS970",
+      "source_crop_name": "OT紅福特",
+      "market_code": "700",
+      "market_name": "台南市場",
+      "suggested_alias": "OT紅福特",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS971",
+      "source_crop_name": "OT紅福特-單朵",
+      "market_code": "700",
+      "market_name": "台南市場",
+      "suggested_alias": "OT紅福特單朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS972",
+      "source_crop_name": "OT紅福特-雙朵",
+      "market_code": "700",
+      "market_name": "台南市場",
+      "suggested_alias": "OT紅福特雙朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS973",
+      "source_crop_name": "OT紅福特-三朵",
+      "market_code": "700",
+      "market_name": "台南市場",
+      "suggested_alias": "OT紅福特三朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS979",
+      "source_crop_name": "OT紅福特-多朵",
+      "market_code": "700",
+      "market_name": "台南市場",
+      "suggested_alias": "OT紅福特多朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS993",
+      "source_crop_name": "OT阿巴雷托-三朵",
+      "market_code": "700",
+      "market_name": "台南市場",
+      "suggested_alias": "OT阿巴雷托三朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS999",
+      "source_crop_name": "OT阿巴雷托-多朵",
+      "market_code": "700",
+      "market_name": "台南市場",
+      "suggested_alias": "OT阿巴雷托多朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS630",
+      "source_crop_name": "OT曼尼薩",
+      "market_code": "800",
+      "market_name": "高雄市場",
+      "suggested_alias": "OT曼尼薩",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS631",
+      "source_crop_name": "OT曼尼薩-單朵",
+      "market_code": "800",
+      "market_name": "高雄市場",
+      "suggested_alias": "OT曼尼薩單朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS632",
+      "source_crop_name": "OT曼尼薩-雙朵",
+      "market_code": "800",
+      "market_name": "高雄市場",
+      "suggested_alias": "OT曼尼薩雙朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS633",
+      "source_crop_name": "OT曼尼薩-三朵",
+      "market_code": "800",
+      "market_name": "高雄市場",
+      "suggested_alias": "OT曼尼薩三朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS639",
+      "source_crop_name": "OT曼尼薩-多朵",
+      "market_code": "800",
+      "market_name": "高雄市場",
+      "suggested_alias": "OT曼尼薩多朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS870",
+      "source_crop_name": "OT大連",
+      "market_code": "800",
+      "market_name": "高雄市場",
+      "suggested_alias": "OT大連",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS871",
+      "source_crop_name": "OT大連-單朵",
+      "market_code": "800",
+      "market_name": "高雄市場",
+      "suggested_alias": "OT大連單朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS872",
+      "source_crop_name": "OT大連-雙朵",
+      "market_code": "800",
+      "market_name": "高雄市場",
+      "suggested_alias": "OT大連雙朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS873",
+      "source_crop_name": "OT大連-三朵",
+      "market_code": "800",
+      "market_name": "高雄市場",
+      "suggested_alias": "OT大連三朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS879",
+      "source_crop_name": "OT大連-多朵",
+      "market_code": "800",
+      "market_name": "高雄市場",
+      "suggested_alias": "OT大連多朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS891",
+      "source_crop_name": "OT帕雷諾-單朵",
+      "market_code": "800",
+      "market_name": "高雄市場",
+      "suggested_alias": "OT帕雷諾單朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS892",
+      "source_crop_name": "OT帕雷諾-雙朵",
+      "market_code": "800",
+      "market_name": "高雄市場",
+      "suggested_alias": "OT帕雷諾雙朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS921",
+      "source_crop_name": "OT帕芳多-單朵",
+      "market_code": "800",
+      "market_name": "高雄市場",
+      "suggested_alias": "OT帕芳多單朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS922",
+      "source_crop_name": "OT帕芳多-雙朵",
+      "market_code": "800",
+      "market_name": "高雄市場",
+      "suggested_alias": "OT帕芳多雙朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS960",
+      "source_crop_name": "OT試金石",
+      "market_code": "800",
+      "market_name": "高雄市場",
+      "suggested_alias": "OT試金石",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS963",
+      "source_crop_name": "OT試金石-三朵",
+      "market_code": "800",
+      "market_name": "高雄市場",
+      "suggested_alias": "OT試金石三朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS969",
+      "source_crop_name": "OT試金石-多朵",
+      "market_code": "800",
+      "market_name": "高雄市場",
+      "suggested_alias": "OT試金石多朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS971",
+      "source_crop_name": "OT紅福特-單朵",
+      "market_code": "800",
+      "market_name": "高雄市場",
+      "suggested_alias": "OT紅福特單朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS972",
+      "source_crop_name": "OT紅福特-雙朵",
+      "market_code": "800",
+      "market_name": "高雄市場",
+      "suggested_alias": "OT紅福特雙朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS973",
+      "source_crop_name": "OT紅福特-三朵",
+      "market_code": "800",
+      "market_name": "高雄市場",
+      "suggested_alias": "OT紅福特三朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS979",
+      "source_crop_name": "OT紅福特-多朵",
+      "market_code": "800",
+      "market_name": "高雄市場",
+      "suggested_alias": "OT紅福特多朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS992",
+      "source_crop_name": "OT阿巴雷托-雙朵",
+      "market_code": "800",
+      "market_name": "高雄市場",
+      "suggested_alias": "OT阿巴雷托雙朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS993",
+      "source_crop_name": "OT阿巴雷托-三朵",
+      "market_code": "800",
+      "market_name": "高雄市場",
+      "suggested_alias": "OT阿巴雷托三朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS999",
+      "source_crop_name": "OT阿巴雷托-多朵",
+      "market_code": "800",
+      "market_name": "高雄市場",
+      "suggested_alias": "OT阿巴雷托多朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FY027",
+      "source_crop_name": "虎斑木葉",
+      "market_code": "800",
+      "market_name": "高雄市場",
+      "suggested_alias": "虎斑木葉",
       "decision": "pending"
     },
     {
@@ -3470,326 +4390,6 @@
       "market_code": "700",
       "market_name": "台南市場",
       "suggested_alias": "OT阿巴雷托多朵",
-      "decision": "pending"
-    },
-    {
-      "source_system": "MAM",
-      "crop_type_code": "N06",
-      "source_crop_code": "FH511",
-      "source_crop_name": "蝴蝶陸蓮-紅",
-      "market_code": "800",
-      "market_name": "高雄市場",
-      "suggested_alias": "蝴蝶陸蓮紅",
-      "decision": "pending"
-    },
-    {
-      "source_system": "MAM",
-      "crop_type_code": "N06",
-      "source_crop_code": "FS631",
-      "source_crop_name": "OT曼尼薩-單朵",
-      "market_code": "800",
-      "market_name": "高雄市場",
-      "suggested_alias": "OT曼尼薩單朵",
-      "decision": "pending"
-    },
-    {
-      "source_system": "MAM",
-      "crop_type_code": "N06",
-      "source_crop_code": "FS632",
-      "source_crop_name": "OT曼尼薩-雙朵",
-      "market_code": "800",
-      "market_name": "高雄市場",
-      "suggested_alias": "OT曼尼薩雙朵",
-      "decision": "pending"
-    },
-    {
-      "source_system": "MAM",
-      "crop_type_code": "N06",
-      "source_crop_code": "FS633",
-      "source_crop_name": "OT曼尼薩-三朵",
-      "market_code": "800",
-      "market_name": "高雄市場",
-      "suggested_alias": "OT曼尼薩三朵",
-      "decision": "pending"
-    },
-    {
-      "source_system": "MAM",
-      "crop_type_code": "N06",
-      "source_crop_code": "FS639",
-      "source_crop_name": "OT曼尼薩-多朵",
-      "market_code": "800",
-      "market_name": "高雄市場",
-      "suggested_alias": "OT曼尼薩多朵",
-      "decision": "pending"
-    },
-    {
-      "source_system": "MAM",
-      "crop_type_code": "N06",
-      "source_crop_code": "FS850",
-      "source_crop_name": "OT瑪丹娜",
-      "market_code": "800",
-      "market_name": "高雄市場",
-      "suggested_alias": "OT瑪丹娜",
-      "decision": "pending"
-    },
-    {
-      "source_system": "MAM",
-      "crop_type_code": "N06",
-      "source_crop_code": "FS852",
-      "source_crop_name": "OT瑪丹娜-雙朵",
-      "market_code": "800",
-      "market_name": "高雄市場",
-      "suggested_alias": "OT瑪丹娜雙朵",
-      "decision": "pending"
-    },
-    {
-      "source_system": "MAM",
-      "crop_type_code": "N06",
-      "source_crop_code": "FS871",
-      "source_crop_name": "OT大連-單朵",
-      "market_code": "800",
-      "market_name": "高雄市場",
-      "suggested_alias": "OT大連單朵",
-      "decision": "pending"
-    },
-    {
-      "source_system": "MAM",
-      "crop_type_code": "N06",
-      "source_crop_code": "FS872",
-      "source_crop_name": "OT大連-雙朵",
-      "market_code": "800",
-      "market_name": "高雄市場",
-      "suggested_alias": "OT大連雙朵",
-      "decision": "pending"
-    },
-    {
-      "source_system": "MAM",
-      "crop_type_code": "N06",
-      "source_crop_code": "FS873",
-      "source_crop_name": "OT大連-三朵",
-      "market_code": "800",
-      "market_name": "高雄市場",
-      "suggested_alias": "OT大連三朵",
-      "decision": "pending"
-    },
-    {
-      "source_system": "MAM",
-      "crop_type_code": "N06",
-      "source_crop_code": "FS879",
-      "source_crop_name": "OT大連-多朵",
-      "market_code": "800",
-      "market_name": "高雄市場",
-      "suggested_alias": "OT大連多朵",
-      "decision": "pending"
-    },
-    {
-      "source_system": "MAM",
-      "crop_type_code": "N06",
-      "source_crop_code": "FS891",
-      "source_crop_name": "OT帕雷諾-單朵",
-      "market_code": "800",
-      "market_name": "高雄市場",
-      "suggested_alias": "OT帕雷諾單朵",
-      "decision": "pending"
-    },
-    {
-      "source_system": "MAM",
-      "crop_type_code": "N06",
-      "source_crop_code": "FS892",
-      "source_crop_name": "OT帕雷諾-雙朵",
-      "market_code": "800",
-      "market_name": "高雄市場",
-      "suggested_alias": "OT帕雷諾雙朵",
-      "decision": "pending"
-    },
-    {
-      "source_system": "MAM",
-      "crop_type_code": "N06",
-      "source_crop_code": "FS893",
-      "source_crop_name": "OT帕雷諾-三朵",
-      "market_code": "800",
-      "market_name": "高雄市場",
-      "suggested_alias": "OT帕雷諾三朵",
-      "decision": "pending"
-    },
-    {
-      "source_system": "MAM",
-      "crop_type_code": "N06",
-      "source_crop_code": "FS899",
-      "source_crop_name": "OT帕雷諾-多朵",
-      "market_code": "800",
-      "market_name": "高雄市場",
-      "suggested_alias": "OT帕雷諾多朵",
-      "decision": "pending"
-    },
-    {
-      "source_system": "MAM",
-      "crop_type_code": "N06",
-      "source_crop_code": "FS960",
-      "source_crop_name": "OT試金石",
-      "market_code": "800",
-      "market_name": "高雄市場",
-      "suggested_alias": "OT試金石",
-      "decision": "pending"
-    },
-    {
-      "source_system": "MAM",
-      "crop_type_code": "N06",
-      "source_crop_code": "FS963",
-      "source_crop_name": "OT試金石-三朵",
-      "market_code": "800",
-      "market_name": "高雄市場",
-      "suggested_alias": "OT試金石三朵",
-      "decision": "pending"
-    },
-    {
-      "source_system": "MAM",
-      "crop_type_code": "N06",
-      "source_crop_code": "FS969",
-      "source_crop_name": "OT試金石-多朵",
-      "market_code": "800",
-      "market_name": "高雄市場",
-      "suggested_alias": "OT試金石多朵",
-      "decision": "pending"
-    },
-    {
-      "source_system": "MAM",
-      "crop_type_code": "N06",
-      "source_crop_code": "FS970",
-      "source_crop_name": "OT紅福特",
-      "market_code": "800",
-      "market_name": "高雄市場",
-      "suggested_alias": "OT紅福特",
-      "decision": "pending"
-    },
-    {
-      "source_system": "MAM",
-      "crop_type_code": "N06",
-      "source_crop_code": "FS971",
-      "source_crop_name": "OT紅福特-單朵",
-      "market_code": "800",
-      "market_name": "高雄市場",
-      "suggested_alias": "OT紅福特單朵",
-      "decision": "pending"
-    },
-    {
-      "source_system": "MAM",
-      "crop_type_code": "N06",
-      "source_crop_code": "FS972",
-      "source_crop_name": "OT紅福特-雙朵",
-      "market_code": "800",
-      "market_name": "高雄市場",
-      "suggested_alias": "OT紅福特雙朵",
-      "decision": "pending"
-    },
-    {
-      "source_system": "MAM",
-      "crop_type_code": "N06",
-      "source_crop_code": "FS973",
-      "source_crop_name": "OT紅福特-三朵",
-      "market_code": "800",
-      "market_name": "高雄市場",
-      "suggested_alias": "OT紅福特三朵",
-      "decision": "pending"
-    },
-    {
-      "source_system": "MAM",
-      "crop_type_code": "N06",
-      "source_crop_code": "FS979",
-      "source_crop_name": "OT紅福特-多朵",
-      "market_code": "800",
-      "market_name": "高雄市場",
-      "suggested_alias": "OT紅福特多朵",
-      "decision": "pending"
-    },
-    {
-      "source_system": "MAM",
-      "crop_type_code": "N06",
-      "source_crop_code": "FS992",
-      "source_crop_name": "OT阿巴雷托-雙朵",
-      "market_code": "800",
-      "market_name": "高雄市場",
-      "suggested_alias": "OT阿巴雷托雙朵",
-      "decision": "pending"
-    },
-    {
-      "source_system": "MAM",
-      "crop_type_code": "N06",
-      "source_crop_code": "FS993",
-      "source_crop_name": "OT阿巴雷托-三朵",
-      "market_code": "800",
-      "market_name": "高雄市場",
-      "suggested_alias": "OT阿巴雷托三朵",
-      "decision": "pending"
-    },
-    {
-      "source_system": "MAM",
-      "crop_type_code": "N06",
-      "source_crop_code": "FS999",
-      "source_crop_name": "OT阿巴雷托-多朵",
-      "market_code": "800",
-      "market_name": "高雄市場",
-      "suggested_alias": "OT阿巴雷托多朵",
-      "decision": "pending"
-    },
-    {
-      "source_system": "MAM",
-      "crop_type_code": "N06",
-      "source_crop_code": "FY027",
-      "source_crop_name": "虎斑木葉",
-      "market_code": "800",
-      "market_name": "高雄市場",
-      "suggested_alias": "虎斑木葉",
-      "decision": "pending"
-    },
-    {
-      "source_system": "MAM",
-      "crop_type_code": "N05",
-      "source_crop_code": "919",
-      "source_crop_name": "其他-進口",
-      "market_code": "104",
-      "market_name": "台北二",
-      "suggested_alias": "其他進口",
-      "decision": "pending"
-    },
-    {
-      "source_system": "MAM",
-      "crop_type_code": "N05",
-      "source_crop_code": "A4",
-      "source_crop_name": "香蕉-越旦",
-      "market_code": "104",
-      "market_name": "台北二",
-      "suggested_alias": "香蕉越旦",
-      "decision": "pending"
-    },
-    {
-      "source_system": "MAM",
-      "crop_type_code": "N05",
-      "source_crop_code": "F6",
-      "source_crop_name": "雜柑-黃金檸檬",
-      "market_code": "104",
-      "market_name": "台北二",
-      "suggested_alias": "雜柑黃金檸檬",
-      "decision": "pending"
-    },
-    {
-      "source_system": "MAM",
-      "crop_type_code": "N04",
-      "source_crop_code": "FT12",
-      "source_crop_name": "南瓜-木瓜型 阿嬌",
-      "market_code": "104",
-      "market_name": "台北二",
-      "suggested_alias": "南瓜木瓜型阿嬌",
-      "decision": "pending"
-    },
-    {
-      "source_system": "MAM",
-      "crop_type_code": "N04",
-      "source_crop_code": "FT71",
-      "source_crop_name": "南瓜-栗子 小紅",
-      "market_code": "104",
-      "market_name": "台北二",
-      "suggested_alias": "南瓜栗子小紅",
       "decision": "pending"
     }
   ]
