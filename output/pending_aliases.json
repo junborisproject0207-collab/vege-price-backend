@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-03-25T15:22:08.922Z",
-  "total": 456,
+  "generatedAt": "2026-03-25T22:56:03.921Z",
+  "total": 444,
   "items": [
     {
       "source_system": "MAM",
@@ -4440,126 +4440,6 @@
       "market_code": "800",
       "market_name": "高雄市場",
       "suggested_alias": "OT阿巴雷托多朵",
-      "decision": "pending"
-    },
-    {
-      "source_system": "MAM",
-      "crop_type_code": "N05",
-      "source_crop_code": "A4",
-      "source_crop_name": "香蕉-越旦",
-      "market_code": "104",
-      "market_name": "台北二",
-      "suggested_alias": "香蕉越旦",
-      "decision": "pending"
-    },
-    {
-      "source_system": "MAM",
-      "crop_type_code": "N05",
-      "source_crop_code": "F6",
-      "source_crop_name": "雜柑-黃金檸檬",
-      "market_code": "104",
-      "market_name": "台北二",
-      "suggested_alias": "雜柑黃金檸檬",
-      "decision": "pending"
-    },
-    {
-      "source_system": "MAM",
-      "crop_type_code": "N04",
-      "source_crop_code": "LN3",
-      "source_crop_name": "油菜-油菜花",
-      "market_code": "104",
-      "market_name": "台北二",
-      "suggested_alias": "油菜油菜花",
-      "decision": "pending"
-    },
-    {
-      "source_system": "MAM",
-      "crop_type_code": "N05",
-      "source_crop_code": "919",
-      "source_crop_name": "其他-進口",
-      "market_code": "109",
-      "market_name": "台北一",
-      "suggested_alias": "其他進口",
-      "decision": "pending"
-    },
-    {
-      "source_system": "MAM",
-      "crop_type_code": "N05",
-      "source_crop_code": "A4",
-      "source_crop_name": "香蕉-越旦",
-      "market_code": "109",
-      "market_name": "台北一",
-      "suggested_alias": "香蕉越旦",
-      "decision": "pending"
-    },
-    {
-      "source_system": "MAM",
-      "crop_type_code": "N04",
-      "source_crop_code": "FT12",
-      "source_crop_name": "南瓜-木瓜型 阿嬌",
-      "market_code": "109",
-      "market_name": "台北一",
-      "suggested_alias": "南瓜木瓜型阿嬌",
-      "decision": "pending"
-    },
-    {
-      "source_system": "MAM",
-      "crop_type_code": "N04",
-      "source_crop_code": "LN3",
-      "source_crop_name": "油菜-油菜花",
-      "market_code": "109",
-      "market_name": "台北一",
-      "suggested_alias": "油菜油菜花",
-      "decision": "pending"
-    },
-    {
-      "source_system": "MAM",
-      "crop_type_code": "N05",
-      "source_crop_code": "A4",
-      "source_crop_name": "香蕉-越旦",
-      "market_code": "220",
-      "market_name": "板橋區",
-      "suggested_alias": "香蕉越旦",
-      "decision": "pending"
-    },
-    {
-      "source_system": "MAM",
-      "crop_type_code": "N04",
-      "source_crop_code": "FT12",
-      "source_crop_name": "南瓜-木瓜型 阿嬌",
-      "market_code": "220",
-      "market_name": "板橋區",
-      "suggested_alias": "南瓜木瓜型阿嬌",
-      "decision": "pending"
-    },
-    {
-      "source_system": "MAM",
-      "crop_type_code": "N04",
-      "source_crop_code": "LC91",
-      "source_crop_name": "包心白菜-進口 包白",
-      "market_code": "220",
-      "market_name": "板橋區",
-      "suggested_alias": "包心白菜進口包白",
-      "decision": "pending"
-    },
-    {
-      "source_system": "MAM",
-      "crop_type_code": "N05",
-      "source_crop_code": "919",
-      "source_crop_name": "其他-進口",
-      "market_code": "241",
-      "market_name": "三重區",
-      "suggested_alias": "其他進口",
-      "decision": "pending"
-    },
-    {
-      "source_system": "MAM",
-      "crop_type_code": "N05",
-      "source_crop_code": "A4",
-      "source_crop_name": "香蕉-越旦",
-      "market_code": "241",
-      "market_name": "三重區",
-      "suggested_alias": "香蕉越旦",
       "decision": "pending"
     }
   ]
