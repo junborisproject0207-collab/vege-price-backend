@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-08T15:44:10.083Z",
-  "unmatched_total_rows": 354,
+  "generatedAt": "2026-04-08T23:00:42.393Z",
+  "unmatched_total_rows": 353,
   "distinct_unmatched_names": 57,
   "distinct_unmatched_codes": 57,
   "top_20_names": [
@@ -433,14 +433,6 @@
       "suggested_name_zh": null
     },
     {
-      "source_crop_name": "南瓜-木瓜型 阿嬌",
-      "count": 3,
-      "normalized_name": "南瓜木瓜型阿嬌",
-      "suggestion_type": "unknown",
-      "suggested_official_code": null,
-      "suggested_name_zh": null
-    },
-    {
       "source_crop_name": "油菜-油菜花",
       "count": 3,
       "normalized_name": "油菜油菜花",
@@ -476,6 +468,14 @@
       "source_crop_name": "蝴蝶陸蓮-粉",
       "count": 2,
       "normalized_name": "蝴蝶陸蓮粉",
+      "suggestion_type": "unknown",
+      "suggested_official_code": null,
+      "suggested_name_zh": null
+    },
+    {
+      "source_crop_name": "南瓜-木瓜型 阿嬌",
+      "count": 2,
+      "normalized_name": "南瓜木瓜型阿嬌",
       "suggestion_type": "unknown",
       "suggested_official_code": null,
       "suggested_name_zh": null
