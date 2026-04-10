@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-04-10T04:18:10.153Z",
-  "unmatched_total_rows": 302,
+  "generatedAt": "2026-04-10T22:56:32.721Z",
+  "unmatched_total_rows": 300,
   "distinct_unmatched_names": 62,
   "distinct_unmatched_codes": 63,
   "top_20_names": [
     {
       "key": "香蕉-越旦",
-      "count": 19
+      "count": 18
     },
     {
       "key": "其他-進口",
@@ -88,7 +88,7 @@
   "top_20_codes": [
     {
       "key": "A4",
-      "count": 19
+      "count": 18
     },
     {
       "key": "919",
@@ -170,7 +170,7 @@
   "suggestions_top_200": [
     {
       "source_crop_name": "香蕉-越旦",
-      "count": 19,
+      "count": 18,
       "normalized_name": "香蕉越旦",
       "suggestion_type": "unknown",
       "suggested_official_code": null,
@@ -345,14 +345,6 @@
       "suggested_name_zh": null
     },
     {
-      "source_crop_name": "雜柑-黃金檸檬",
-      "count": 5,
-      "normalized_name": "雜柑黃金檸檬",
-      "suggestion_type": "unknown",
-      "suggested_official_code": null,
-      "suggested_name_zh": null
-    },
-    {
       "source_crop_name": "OT試金石-雙朵",
       "count": 5,
       "normalized_name": "OT試金石雙朵",
@@ -372,6 +364,14 @@
       "source_crop_name": "OT帕雷諾-單朵",
       "count": 5,
       "normalized_name": "OT帕雷諾單朵",
+      "suggestion_type": "unknown",
+      "suggested_official_code": null,
+      "suggested_name_zh": null
+    },
+    {
+      "source_crop_name": "雜柑-黃金檸檬",
+      "count": 4,
+      "normalized_name": "雜柑黃金檸檬",
       "suggestion_type": "unknown",
       "suggested_official_code": null,
       "suggested_name_zh": null

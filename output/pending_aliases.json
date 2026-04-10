@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-04-10T04:18:10.047Z",
-  "total": 302,
+  "generatedAt": "2026-04-10T22:56:32.615Z",
+  "total": 300,
   "items": [
     {
       "source_system": "MAM",
@@ -3000,26 +3000,6 @@
       "market_code": "800",
       "market_name": "高雄市場",
       "suggested_alias": "進口風信子",
-      "decision": "pending"
-    },
-    {
-      "source_system": "MAM",
-      "crop_type_code": "N05",
-      "source_crop_code": "A4",
-      "source_crop_name": "香蕉-越旦",
-      "market_code": "104",
-      "market_name": "台北二",
-      "suggested_alias": "香蕉越旦",
-      "decision": "pending"
-    },
-    {
-      "source_system": "MAM",
-      "crop_type_code": "N05",
-      "source_crop_code": "F6",
-      "source_crop_name": "雜柑-黃金檸檬",
-      "market_code": "104",
-      "market_name": "台北二",
-      "suggested_alias": "雜柑黃金檸檬",
       "decision": "pending"
     }
   ]
