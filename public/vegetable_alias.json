@@ -1,708 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-04-17T23:00:45.299Z",
+  "updatedAt": "2026-04-18T04:05:00.430Z",
   "total": 5318,
   "records": [
-    {
-      "official_code": "00207132001000050",
-      "alias_name": "冬瓜進口"
-    },
-    {
-      "official_code": "00206044004000050",
-      "alias_name": "毛豆進口"
-    },
-    {
-      "official_code": "00206044002000050",
-      "alias_name": "豌豆進口"
-    },
-    {
-      "official_code": "00206044001000050",
-      "alias_name": "菜豆進口"
-    },
-    {
-      "official_code": "00205035005000050",
-      "alias_name": "金針花進口"
-    },
-    {
-      "official_code": "00205002002000150",
-      "alias_name": "青花菜-青花苔進口"
-    },
-    {
-      "official_code": "00205002001000050",
-      "alias_name": "花椰菜進口"
-    },
-    {
-      "official_code": "00204170009000050",
-      "alias_name": "胡蘿蔔進口"
-    },
-    {
-      "official_code": "00204118004000050",
-      "alias_name": "牛蒡進口"
-    },
-    {
-      "official_code": "00204002001999950",
-      "alias_name": "蘿蔔-其它品種進口"
-    },
-    {
-      "official_code": "00203168021000050",
-      "alias_name": "薯蕷進口"
-    },
-    {
-      "official_code": "00203166008000050",
-      "alias_name": "薑進口"
-    },
-    {
-      "official_code": "00203146006000150",
-      "alias_name": "蓮-蓮藕進口"
-    },
-    {
-      "official_code": "00203075018000050",
-      "alias_name": "馬鈴薯進口"
-    },
-    {
-      "official_code": "00203030005000050",
-      "alias_name": "茭白筍進口"
-    },
-    {
-      "official_code": "00203030001000050",
-      "alias_name": "竹筍進口"
-    },
-    {
-      "official_code": "00203014007000050",
-      "alias_name": "芋進口"
-    },
-    {
-      "official_code": "00203013010000050",
-      "alias_name": "蘆筍進口"
-    },
-    {
-      "official_code": "00202029003000050",
-      "alias_name": "蔥進口"
-    },
-    {
-      "official_code": "00202029001000050",
-      "alias_name": "大蒜進口"
-    },
-    {
-      "official_code": "00201170035000050",
-      "alias_name": "香芹菜進口"
-    },
-    {
-      "official_code": "00201170031000050",
-      "alias_name": "芫荽進口"
-    },
-    {
-      "official_code": "00201170030000050",
-      "alias_name": "芹菜進口"
-    },
-    {
-      "official_code": "00201118020000050",
-      "alias_name": "萵苣進口"
-    },
-    {
-      "official_code": "00201098037000050",
-      "alias_name": "菠菜進口"
-    },
-    {
-      "official_code": "00201098036000150",
-      "alias_name": "莧菜-紅莧菜進口"
-    },
-    {
-      "official_code": "00201002004000050",
-      "alias_name": "結球白菜進口"
-    },
-    {
-      "official_code": "00201002002000050",
-      "alias_name": "芥藍進口"
-    },
-    {
-      "official_code": "00201002001000050",
-      "alias_name": "甘藍進口"
-    },
-    {
-      "official_code": "00404035079108353",
-      "alias_name": "姬百合-紅單朵(進口切花)"
-    },
-    {
-      "official_code": "00404035079308053",
-      "alias_name": "香水百合-邁阿密三朵(進口切花)"
-    },
-    {
-      "official_code": "00404035079308003",
-      "alias_name": "香水百合-邁阿密三朵(切花)"
-    },
-    {
-      "official_code": "00404035079208053",
-      "alias_name": "香水百合-邁阿密雙朵(進口切花)"
-    },
-    {
-      "official_code": "00404035079208003",
-      "alias_name": "香水百合-邁阿密雙朵(切花)"
-    },
-    {
-      "official_code": "00404035079108053",
-      "alias_name": "香水百合-邁阿密單朵(進口切花)"
-    },
-    {
-      "official_code": "00404035079108003",
-      "alias_name": "香水百合-邁阿密單朵(切花)"
-    },
-    {
-      "official_code": "00404035079008053",
-      "alias_name": "香水百合-邁阿密(進口切花)"
-    },
-    {
-      "official_code": "00404035079008003",
-      "alias_name": "香水百合-邁阿密(切花)"
-    },
-    {
-      "official_code": "00404035079607953",
-      "alias_name": "香水百合-瑪度沙多朵(進口切花)"
-    },
-    {
-      "official_code": "00404035079607903",
-      "alias_name": "香水百合-瑪度沙多朵(切花)"
-    },
-    {
-      "official_code": "00404035079307953",
-      "alias_name": "香水百合-瑪度沙三朵(進口切花)"
-    },
-    {
-      "official_code": "00404035079307903",
-      "alias_name": "香水百合-瑪度沙三朵(切花)"
-    },
-    {
-      "official_code": "00404035079207903",
-      "alias_name": "香水百合-瑪度沙雙朵(切花)"
-    },
-    {
-      "official_code": "00404035079107903",
-      "alias_name": "香水百合-瑪度沙單朵(切花)"
-    },
-    {
-      "official_code": "00404035079007953",
-      "alias_name": "香水百合-瑪度沙(進口切花)"
-    },
-    {
-      "official_code": "00404035079007903",
-      "alias_name": "香水百合-瑪度沙(切花)"
-    },
-    {
-      "official_code": "00404035079007903",
-      "alias_name": "Medusa"
-    },
-    {
-      "official_code": "00404035079607803",
-      "alias_name": "香水百合-雷夢娜多朵(切花)"
-    },
-    {
-      "official_code": "00404035079307803",
-      "alias_name": "香水百合-雷夢娜三朵(切花)"
-    },
-    {
-      "official_code": "00404035079207803",
-      "alias_name": "香水百合-雷夢娜雙朵(切花)"
-    },
-    {
-      "official_code": "00404035079107803",
-      "alias_name": "香水百合-雷夢娜單朵(切花)"
-    },
-    {
-      "official_code": "00404035079007803",
-      "alias_name": "香水百合-雷夢娜(切花)"
-    },
-    {
-      "official_code": "00404035079607703",
-      "alias_name": "香水百合-賈絲廷娜多朵(切花)"
-    },
-    {
-      "official_code": "00404035079307703",
-      "alias_name": "香水百合-賈絲廷娜三朵(切花)"
-    },
-    {
-      "official_code": "00404035079207703",
-      "alias_name": "香水百合-賈絲廷娜雙朵(切花)"
-    },
-    {
-      "official_code": "00404035079107703",
-      "alias_name": "香水百合-賈絲廷娜單朵(切花)"
-    },
-    {
-      "official_code": "00404035079007703",
-      "alias_name": "香水百合-賈絲廷娜(切花)"
-    },
-    {
-      "official_code": "00404035079607603",
-      "alias_name": "香水百合-新馬可多朵(切花)"
-    },
-    {
-      "official_code": "00404035079307603",
-      "alias_name": "香水百合-新馬可三朵(切花)"
-    },
-    {
-      "official_code": "00404035079207603",
-      "alias_name": "香水百合-新馬可雙朵(切花)"
-    },
-    {
-      "official_code": "00404035079107603",
-      "alias_name": "香水百合-新馬可單朵(切花)"
-    },
-    {
-      "official_code": "00404035079007603",
-      "alias_name": "香水百合-新馬可(切花)"
-    },
-    {
-      "official_code": "00404035079607503",
-      "alias_name": "香水百合-黃晶新娘多朵(切花)"
-    },
-    {
-      "official_code": "00404035079307503",
-      "alias_name": "香水百合-黃晶新娘三朵(切花)"
-    },
-    {
-      "official_code": "00404035079207503",
-      "alias_name": "香水百合-黃晶新娘雙朵(切花)"
-    },
-    {
-      "official_code": "00404035079107503",
-      "alias_name": "香水百合-黃晶新娘單朵(切花)"
-    },
-    {
-      "official_code": "00404035079007503",
-      "alias_name": "香水百合-黃晶新娘(切花)"
-    },
-    {
-      "official_code": "00404035079607403",
-      "alias_name": "香水百合-黃多朵(切花)"
-    },
-    {
-      "official_code": "00404035079307403",
-      "alias_name": "香水百合-黃三朵(切花)"
-    },
-    {
-      "official_code": "00404035079207403",
-      "alias_name": "香水百合-黃雙朵(切花)"
-    },
-    {
-      "official_code": "00404035079107403",
-      "alias_name": "香水百合-黃單朵(切花)"
-    },
-    {
-      "official_code": "00404035079007403",
-      "alias_name": "香水百合-黃(切花)"
-    },
-    {
-      "official_code": "00404035079607303",
-      "alias_name": "香水百合-隆巴地亞多朵(切花)"
-    },
-    {
-      "official_code": "00404035079307303",
-      "alias_name": "香水百合-隆巴地亞三朵(切花)"
-    },
-    {
-      "official_code": "00404035079207303",
-      "alias_name": "香水百合-隆巴地亞雙朵(切花)"
-    },
-    {
-      "official_code": "00404035079108303",
-      "alias_name": "姬百合-紅單朵(切花)"
-    },
-    {
-      "official_code": "00404035079008353",
-      "alias_name": "姬百合-紅(進口切花)"
-    },
-    {
-      "official_code": "00404035079008303",
-      "alias_name": "姬百合-紅(切花)"
-    },
-    {
-      "official_code": "00404035079608253",
-      "alias_name": "姬百合-白多朵(進口切花)"
-    },
-    {
-      "official_code": "00404035079608203",
-      "alias_name": "姬百合-白多朵(切花)"
-    },
-    {
-      "official_code": "00404035079508253",
-      "alias_name": "姬百合-白五朵(進口切花)"
-    },
-    {
-      "official_code": "00404035079508203",
-      "alias_name": "姬百合-白五朵(切花)"
-    },
-    {
-      "official_code": "00404035079408253",
-      "alias_name": "姬百合-白四朵(進口切花)"
-    },
-    {
-      "official_code": "00404035079408203",
-      "alias_name": "姬百合-白四朵(切花)"
-    },
-    {
-      "official_code": "00404035079308253",
-      "alias_name": "姬百合-白三朵(進口切花)"
-    },
-    {
-      "official_code": "00404035079308203",
-      "alias_name": "姬百合-白三朵(切花)"
-    },
-    {
-      "official_code": "00404035079208253",
-      "alias_name": "姬百合-白雙朵(進口切花)"
-    },
-    {
-      "official_code": "00404035079208203",
-      "alias_name": "姬百合-白雙朵(切花)"
-    },
-    {
-      "official_code": "00404035079108253",
-      "alias_name": "姬百合-白單朵(進口切花)"
-    },
-    {
-      "official_code": "00404035079108203",
-      "alias_name": "姬百合-白單朵(切花)"
-    },
-    {
-      "official_code": "00404035079008253",
-      "alias_name": "姬百合-白(進口切花)"
-    },
-    {
-      "official_code": "00404035079008203",
-      "alias_name": "姬百合-白(切花)"
-    },
-    {
-      "official_code": "00404035079608103",
-      "alias_name": "香水百合-羅沙多多朵(切花)"
-    },
-    {
-      "official_code": "00404035079308103",
-      "alias_name": "香水百合-羅沙多三朵(切花)"
-    },
-    {
-      "official_code": "00404035079208103",
-      "alias_name": "香水百合-羅沙多雙朵(切花)"
-    },
-    {
-      "official_code": "00404035079108103",
-      "alias_name": "香水百合-羅沙多單朵(切花)"
-    },
-    {
-      "official_code": "00404035079008103",
-      "alias_name": "香水百合-羅沙多(切花)"
-    },
-    {
-      "official_code": "00404035079608053",
-      "alias_name": "香水百合-邁阿密多朵(進口切花)"
-    },
-    {
-      "official_code": "00404035079608003",
-      "alias_name": "香水百合-邁阿密多朵(切花)"
-    },
-    {
-      "official_code": "00404035079107303",
-      "alias_name": "香水百合-隆巴地亞單朵(切花)"
-    },
-    {
-      "official_code": "00404035079306903",
-      "alias_name": "香水百合-普莎蘿粉三朵(切花)"
-    },
-    {
-      "official_code": "00404035079106453",
-      "alias_name": "香水百合-馬可波羅粉單朵(進口切花)"
-    },
-    {
-      "official_code": "00404035079006003",
-      "alias_name": "香水百合-紅鶴星粉(切花)"
-    },
-    {
-      "official_code": "00404035079305303",
-      "alias_name": "香水百合-拉曼恰三朵(切花)"
-    },
-    {
-      "official_code": "00404035079304753",
-      "alias_name": "香水百合-貝妮妮三朵(進口切花)"
-    },
-    {
-      "official_code": "00404035079304203",
-      "alias_name": "香水百合-百老匯三朵(切花)"
-    },
-    {
-      "official_code": "00404035079103703",
-      "alias_name": "OT百合-羅賓娜單朵(切花)"
-    },
-    {
-      "official_code": "00404035079102803",
-      "alias_name": "OT百合-依多夏單朵(切花)"
-    },
-    {
-      "official_code": "00404035079602053",
-      "alias_name": "LA百合-紅多朵(進口切花)"
-    },
-    {
-      "official_code": "00404035079301303",
-      "alias_name": "百合-蒙特祖瑪三朵(切花)"
-    },
-    {
-      "official_code": "00404035079600403",
-      "alias_name": "百合-皮克多朵(切花)"
-    },
-    {
-      "official_code": "00404144075005903",
-      "alias_name": "劍蘭-雙色金紅(切花)"
-    },
-    {
-      "official_code": "00404144075003453",
-      "alias_name": "劍蘭-粉紅心(進口切花)"
-    },
-    {
-      "official_code": "00404144075000903",
-      "alias_name": "劍蘭-265號(切花)"
-    },
-    {
-      "official_code": "00404144075000903",
-      "alias_name": "曼哈頓"
-    },
-    {
-      "official_code": "00404137071001203",
-      "alias_name": "赫蕉-紅娘垂蕉(切花)"
-    },
-    {
-      "official_code": "00404156062000055",
-      "alias_name": "蚌蘭(進口切葉)"
-    },
-    {
-      "official_code": "00404156062000055",
-      "alias_name": "紫背萬年青"
-    },
-    {
-      "official_code": "00404027057006603",
-      "alias_name": "康乃馨-薄粉(切花)"
-    },
-    {
-      "official_code": "00404027057004153",
-      "alias_name": "康乃馨-紅羽毛(進口切花)"
-    },
-    {
-      "official_code": "00404027057001653",
-      "alias_name": "康乃馨-牛奶白(進口切花)"
-    },
-    {
-      "official_code": "00404143051000003",
-      "alias_name": "蜻蜓鳳梨(切花)"
-    },
-    {
-      "official_code": "00404118045003203",
-      "alias_name": "非洲菊-迷你白(切花)"
-    },
-    {
-      "official_code": "00404118042999900",
-      "alias_name": "大理花-其他品種"
-    },
-    {
-      "official_code": "00404118039007903",
-      "alias_name": "大菊-矮仔黃(切花)"
-    },
-    {
-      "official_code": "00404118039005253",
-      "alias_name": "大菊-粉乒乓(進口切花)"
-    },
-    {
-      "official_code": "00404118039002453",
-      "alias_name": "大菊-白領(進口切花)"
-    },
-    {
-      "official_code": "00404118039000000",
-      "alias_name": "大菊"
-    },
-    {
-      "official_code": "00404118038013903",
-      "alias_name": "小菊-鈕扣菊綠(切花)"
-    },
-    {
-      "official_code": "00404118038011303",
-      "alias_name": "小菊-美麗小粉(切花)"
-    },
-    {
-      "official_code": "00404118038008603",
-      "alias_name": "小菊-金斯不列(切花)"
-    },
-    {
-      "official_code": "00404118038005603",
-      "alias_name": "小菊-多朵秀鳳(切花)"
-    },
-    {
-      "official_code": "00404118038003003",
-      "alias_name": "小菊-小桃紅(切花)"
-    },
-    {
-      "official_code": "00404118038000403",
-      "alias_name": "小菊-湯匙粉(切花)"
-    },
-    {
-      "official_code": "00404013029000000",
-      "alias_name": "伯利恆之星"
-    },
-    {
-      "official_code": "00404014019000905",
-      "alias_name": "海芋-彩色海芋葉(切葉)"
-    },
-    {
-      "official_code": "00404014015006703",
-      "alias_name": "火鶴-黑珍珠(切花)"
-    },
-    {
-      "official_code": "00404014015003003",
-      "alias_name": "火鶴-珊娜塔(切花)"
-    },
-    {
-      "official_code": "00404039013000000",
-      "alias_name": "唐棉"
-    },
-    {
-      "official_code": "00404034002000903",
-      "alias_name": "水仙百合-雙色(切花)"
-    },
-    {
-      "official_code": "00403085045000000",
-      "alias_name": "仙丹花"
-    },
-    {
-      "official_code": "00403167041011303",
-      "alias_name": "玫瑰-翡翠珍珠(切花)"
-    },
-    {
-      "official_code": "00403167041008303",
-      "alias_name": "玫瑰-斯波(切花)"
-    },
-    {
-      "official_code": "00403167041005203",
-      "alias_name": "玫瑰-紅粉情人(切花)"
-    },
-    {
-      "official_code": "00403167041002203",
-      "alias_name": "玫瑰-以色列紅(切花)"
-    },
-    {
-      "official_code": "00403010039000103",
-      "alias_name": "海神花-帝王花(切花)"
-    },
-    {
-      "official_code": "00403018023000000",
-      "alias_name": "玉蘭花"
-    },
-    {
-      "official_code": "00403013009000055",
-      "alias_name": "星點木(進口切葉)"
-    },
-    {
-      "official_code": "00402019026000003",
-      "alias_name": "黑種草(切花)"
-    },
-    {
-      "official_code": "00402159019006103",
-      "alias_name": "洋桔梗-新喜彩粉(切花)"
-    },
-    {
-      "official_code": "00402159019002503",
-      "alias_name": "洋桔梗-羅西娜-彩粉(切花)"
-    },
-    {
-      "official_code": "00402002015000003",
-      "alias_name": "紫羅蘭(切花)"
-    },
-    {
-      "official_code": "00402098005000053",
-      "alias_name": "千日紅(進口切花)"
-    },
-    {
-      "official_code": "00402098005000053",
-      "alias_name": "圓仔花"
-    },
-    {
-      "official_code": "00401179011000753",
-      "alias_name": "蝴蝶蘭-線條(進口切花)"
-    },
-    {
-      "official_code": "00401179006000353",
-      "alias_name": "石斛蘭-白紅心(進口切花)"
-    },
-    {
-      "official_code": "00305000999000000",
-      "alias_name": "其他堅果"
-    },
-    {
-      "official_code": "00304167006000700",
-      "alias_name": "桃-甜蜜桃"
-    },
-    {
-      "official_code": "00303167002000001",
-      "alias_name": "梨-梨穗"
-    },
-    {
-      "official_code": "00302112014999900",
-      "alias_name": "釋迦-其他品種"
-    },
-    {
-      "official_code": "00302143004000300",
-      "alias_name": "鳳梨-香水"
-    },
-    {
-      "official_code": "00302143004000300",
-      "alias_name": "台農11號"
-    },
-    {
-      "official_code": "00301053003999900",
-      "alias_name": "寬皮柑-其他品種"
-    },
-    {
-      "official_code": "00210032025000000",
-      "alias_name": "雲芝"
-    },
-    {
-      "official_code": "00208075004999900",
-      "alias_name": "小果番茄-其它品種"
-    },
-    {
-      "official_code": "00207132007999900",
-      "alias_name": "西瓜-其它品種"
-    },
-    {
-      "official_code": "00206000999000000",
-      "alias_name": "其他豆菜"
-    },
-    {
-      "official_code": "00204118004000000",
-      "alias_name": "牛蒡"
-    },
-    {
-      "official_code": "00203146006000000",
-      "alias_name": "蓮"
-    },
-    {
-      "official_code": "00201132051000000",
-      "alias_name": "龍鬚菜"
-    },
-    {
-      "official_code": "00201132051000000",
-      "alias_name": "隼人瓜嫩梢"
-    },
-    {
-      "official_code": "00201132051000000",
-      "alias_name": "佛手瓜嫩梢"
-    },
-    {
-      "official_code": "00201118025000000",
-      "alias_name": "食用薊"
-    },
-    {
-      "official_code": "00201002004000400",
-      "alias_name": "結球白菜-天津白"
-    },
-    {
-      "official_code": "00100000000000000",
-      "alias_name": "稻米類"
-    },
     {
       "official_code": "00208075001999950",
       "alias_name": "甜椒-其它品種進口"
@@ -21218,6 +20518,706 @@
     {
       "official_code": "00207132002000050",
       "alias_name": "南瓜進口"
+    },
+    {
+      "official_code": "00207132001000050",
+      "alias_name": "冬瓜進口"
+    },
+    {
+      "official_code": "00206044004000050",
+      "alias_name": "毛豆進口"
+    },
+    {
+      "official_code": "00206044002000050",
+      "alias_name": "豌豆進口"
+    },
+    {
+      "official_code": "00206044001000050",
+      "alias_name": "菜豆進口"
+    },
+    {
+      "official_code": "00205035005000050",
+      "alias_name": "金針花進口"
+    },
+    {
+      "official_code": "00205002002000150",
+      "alias_name": "青花菜-青花苔進口"
+    },
+    {
+      "official_code": "00205002001000050",
+      "alias_name": "花椰菜進口"
+    },
+    {
+      "official_code": "00204170009000050",
+      "alias_name": "胡蘿蔔進口"
+    },
+    {
+      "official_code": "00204118004000050",
+      "alias_name": "牛蒡進口"
+    },
+    {
+      "official_code": "00204002001999950",
+      "alias_name": "蘿蔔-其它品種進口"
+    },
+    {
+      "official_code": "00203168021000050",
+      "alias_name": "薯蕷進口"
+    },
+    {
+      "official_code": "00203166008000050",
+      "alias_name": "薑進口"
+    },
+    {
+      "official_code": "00203146006000150",
+      "alias_name": "蓮-蓮藕進口"
+    },
+    {
+      "official_code": "00203075018000050",
+      "alias_name": "馬鈴薯進口"
+    },
+    {
+      "official_code": "00203030005000050",
+      "alias_name": "茭白筍進口"
+    },
+    {
+      "official_code": "00203030001000050",
+      "alias_name": "竹筍進口"
+    },
+    {
+      "official_code": "00203014007000050",
+      "alias_name": "芋進口"
+    },
+    {
+      "official_code": "00203013010000050",
+      "alias_name": "蘆筍進口"
+    },
+    {
+      "official_code": "00202029003000050",
+      "alias_name": "蔥進口"
+    },
+    {
+      "official_code": "00202029001000050",
+      "alias_name": "大蒜進口"
+    },
+    {
+      "official_code": "00201170035000050",
+      "alias_name": "香芹菜進口"
+    },
+    {
+      "official_code": "00201170031000050",
+      "alias_name": "芫荽進口"
+    },
+    {
+      "official_code": "00201170030000050",
+      "alias_name": "芹菜進口"
+    },
+    {
+      "official_code": "00201118020000050",
+      "alias_name": "萵苣進口"
+    },
+    {
+      "official_code": "00201098037000050",
+      "alias_name": "菠菜進口"
+    },
+    {
+      "official_code": "00201098036000150",
+      "alias_name": "莧菜-紅莧菜進口"
+    },
+    {
+      "official_code": "00201002004000050",
+      "alias_name": "結球白菜進口"
+    },
+    {
+      "official_code": "00201002002000050",
+      "alias_name": "芥藍進口"
+    },
+    {
+      "official_code": "00201002001000050",
+      "alias_name": "甘藍進口"
+    },
+    {
+      "official_code": "00404035079108353",
+      "alias_name": "姬百合-紅單朵(進口切花)"
+    },
+    {
+      "official_code": "00404035079308053",
+      "alias_name": "香水百合-邁阿密三朵(進口切花)"
+    },
+    {
+      "official_code": "00404035079308003",
+      "alias_name": "香水百合-邁阿密三朵(切花)"
+    },
+    {
+      "official_code": "00404035079208053",
+      "alias_name": "香水百合-邁阿密雙朵(進口切花)"
+    },
+    {
+      "official_code": "00404035079208003",
+      "alias_name": "香水百合-邁阿密雙朵(切花)"
+    },
+    {
+      "official_code": "00404035079108053",
+      "alias_name": "香水百合-邁阿密單朵(進口切花)"
+    },
+    {
+      "official_code": "00404035079108003",
+      "alias_name": "香水百合-邁阿密單朵(切花)"
+    },
+    {
+      "official_code": "00404035079008053",
+      "alias_name": "香水百合-邁阿密(進口切花)"
+    },
+    {
+      "official_code": "00404035079008003",
+      "alias_name": "香水百合-邁阿密(切花)"
+    },
+    {
+      "official_code": "00404035079607953",
+      "alias_name": "香水百合-瑪度沙多朵(進口切花)"
+    },
+    {
+      "official_code": "00404035079607903",
+      "alias_name": "香水百合-瑪度沙多朵(切花)"
+    },
+    {
+      "official_code": "00404035079307953",
+      "alias_name": "香水百合-瑪度沙三朵(進口切花)"
+    },
+    {
+      "official_code": "00404035079307903",
+      "alias_name": "香水百合-瑪度沙三朵(切花)"
+    },
+    {
+      "official_code": "00404035079207903",
+      "alias_name": "香水百合-瑪度沙雙朵(切花)"
+    },
+    {
+      "official_code": "00404035079107903",
+      "alias_name": "香水百合-瑪度沙單朵(切花)"
+    },
+    {
+      "official_code": "00404035079007953",
+      "alias_name": "香水百合-瑪度沙(進口切花)"
+    },
+    {
+      "official_code": "00404035079007903",
+      "alias_name": "香水百合-瑪度沙(切花)"
+    },
+    {
+      "official_code": "00404035079007903",
+      "alias_name": "Medusa"
+    },
+    {
+      "official_code": "00404035079607803",
+      "alias_name": "香水百合-雷夢娜多朵(切花)"
+    },
+    {
+      "official_code": "00404035079307803",
+      "alias_name": "香水百合-雷夢娜三朵(切花)"
+    },
+    {
+      "official_code": "00404035079207803",
+      "alias_name": "香水百合-雷夢娜雙朵(切花)"
+    },
+    {
+      "official_code": "00404035079107803",
+      "alias_name": "香水百合-雷夢娜單朵(切花)"
+    },
+    {
+      "official_code": "00404035079007803",
+      "alias_name": "香水百合-雷夢娜(切花)"
+    },
+    {
+      "official_code": "00404035079607703",
+      "alias_name": "香水百合-賈絲廷娜多朵(切花)"
+    },
+    {
+      "official_code": "00404035079307703",
+      "alias_name": "香水百合-賈絲廷娜三朵(切花)"
+    },
+    {
+      "official_code": "00404035079207703",
+      "alias_name": "香水百合-賈絲廷娜雙朵(切花)"
+    },
+    {
+      "official_code": "00404035079107703",
+      "alias_name": "香水百合-賈絲廷娜單朵(切花)"
+    },
+    {
+      "official_code": "00404035079007703",
+      "alias_name": "香水百合-賈絲廷娜(切花)"
+    },
+    {
+      "official_code": "00404035079607603",
+      "alias_name": "香水百合-新馬可多朵(切花)"
+    },
+    {
+      "official_code": "00404035079307603",
+      "alias_name": "香水百合-新馬可三朵(切花)"
+    },
+    {
+      "official_code": "00404035079207603",
+      "alias_name": "香水百合-新馬可雙朵(切花)"
+    },
+    {
+      "official_code": "00404035079107603",
+      "alias_name": "香水百合-新馬可單朵(切花)"
+    },
+    {
+      "official_code": "00404035079007603",
+      "alias_name": "香水百合-新馬可(切花)"
+    },
+    {
+      "official_code": "00404035079607503",
+      "alias_name": "香水百合-黃晶新娘多朵(切花)"
+    },
+    {
+      "official_code": "00404035079307503",
+      "alias_name": "香水百合-黃晶新娘三朵(切花)"
+    },
+    {
+      "official_code": "00404035079207503",
+      "alias_name": "香水百合-黃晶新娘雙朵(切花)"
+    },
+    {
+      "official_code": "00404035079107503",
+      "alias_name": "香水百合-黃晶新娘單朵(切花)"
+    },
+    {
+      "official_code": "00404035079007503",
+      "alias_name": "香水百合-黃晶新娘(切花)"
+    },
+    {
+      "official_code": "00404035079607403",
+      "alias_name": "香水百合-黃多朵(切花)"
+    },
+    {
+      "official_code": "00404035079307403",
+      "alias_name": "香水百合-黃三朵(切花)"
+    },
+    {
+      "official_code": "00404035079207403",
+      "alias_name": "香水百合-黃雙朵(切花)"
+    },
+    {
+      "official_code": "00404035079107403",
+      "alias_name": "香水百合-黃單朵(切花)"
+    },
+    {
+      "official_code": "00404035079007403",
+      "alias_name": "香水百合-黃(切花)"
+    },
+    {
+      "official_code": "00404035079607303",
+      "alias_name": "香水百合-隆巴地亞多朵(切花)"
+    },
+    {
+      "official_code": "00404035079307303",
+      "alias_name": "香水百合-隆巴地亞三朵(切花)"
+    },
+    {
+      "official_code": "00404035079207303",
+      "alias_name": "香水百合-隆巴地亞雙朵(切花)"
+    },
+    {
+      "official_code": "00404035079108303",
+      "alias_name": "姬百合-紅單朵(切花)"
+    },
+    {
+      "official_code": "00404035079008353",
+      "alias_name": "姬百合-紅(進口切花)"
+    },
+    {
+      "official_code": "00404035079008303",
+      "alias_name": "姬百合-紅(切花)"
+    },
+    {
+      "official_code": "00404035079608253",
+      "alias_name": "姬百合-白多朵(進口切花)"
+    },
+    {
+      "official_code": "00404035079608203",
+      "alias_name": "姬百合-白多朵(切花)"
+    },
+    {
+      "official_code": "00404035079508253",
+      "alias_name": "姬百合-白五朵(進口切花)"
+    },
+    {
+      "official_code": "00404035079508203",
+      "alias_name": "姬百合-白五朵(切花)"
+    },
+    {
+      "official_code": "00404035079408253",
+      "alias_name": "姬百合-白四朵(進口切花)"
+    },
+    {
+      "official_code": "00404035079408203",
+      "alias_name": "姬百合-白四朵(切花)"
+    },
+    {
+      "official_code": "00404035079308253",
+      "alias_name": "姬百合-白三朵(進口切花)"
+    },
+    {
+      "official_code": "00404035079308203",
+      "alias_name": "姬百合-白三朵(切花)"
+    },
+    {
+      "official_code": "00404035079208253",
+      "alias_name": "姬百合-白雙朵(進口切花)"
+    },
+    {
+      "official_code": "00404035079208203",
+      "alias_name": "姬百合-白雙朵(切花)"
+    },
+    {
+      "official_code": "00404035079108253",
+      "alias_name": "姬百合-白單朵(進口切花)"
+    },
+    {
+      "official_code": "00404035079108203",
+      "alias_name": "姬百合-白單朵(切花)"
+    },
+    {
+      "official_code": "00404035079008253",
+      "alias_name": "姬百合-白(進口切花)"
+    },
+    {
+      "official_code": "00404035079008203",
+      "alias_name": "姬百合-白(切花)"
+    },
+    {
+      "official_code": "00404035079608103",
+      "alias_name": "香水百合-羅沙多多朵(切花)"
+    },
+    {
+      "official_code": "00404035079308103",
+      "alias_name": "香水百合-羅沙多三朵(切花)"
+    },
+    {
+      "official_code": "00404035079208103",
+      "alias_name": "香水百合-羅沙多雙朵(切花)"
+    },
+    {
+      "official_code": "00404035079108103",
+      "alias_name": "香水百合-羅沙多單朵(切花)"
+    },
+    {
+      "official_code": "00404035079008103",
+      "alias_name": "香水百合-羅沙多(切花)"
+    },
+    {
+      "official_code": "00404035079608053",
+      "alias_name": "香水百合-邁阿密多朵(進口切花)"
+    },
+    {
+      "official_code": "00404035079608003",
+      "alias_name": "香水百合-邁阿密多朵(切花)"
+    },
+    {
+      "official_code": "00404035079107303",
+      "alias_name": "香水百合-隆巴地亞單朵(切花)"
+    },
+    {
+      "official_code": "00404035079306903",
+      "alias_name": "香水百合-普莎蘿粉三朵(切花)"
+    },
+    {
+      "official_code": "00404035079106453",
+      "alias_name": "香水百合-馬可波羅粉單朵(進口切花)"
+    },
+    {
+      "official_code": "00404035079006003",
+      "alias_name": "香水百合-紅鶴星粉(切花)"
+    },
+    {
+      "official_code": "00404035079305303",
+      "alias_name": "香水百合-拉曼恰三朵(切花)"
+    },
+    {
+      "official_code": "00404035079304753",
+      "alias_name": "香水百合-貝妮妮三朵(進口切花)"
+    },
+    {
+      "official_code": "00404035079304203",
+      "alias_name": "香水百合-百老匯三朵(切花)"
+    },
+    {
+      "official_code": "00404035079103703",
+      "alias_name": "OT百合-羅賓娜單朵(切花)"
+    },
+    {
+      "official_code": "00404035079102803",
+      "alias_name": "OT百合-依多夏單朵(切花)"
+    },
+    {
+      "official_code": "00404035079602053",
+      "alias_name": "LA百合-紅多朵(進口切花)"
+    },
+    {
+      "official_code": "00404035079301303",
+      "alias_name": "百合-蒙特祖瑪三朵(切花)"
+    },
+    {
+      "official_code": "00404035079600403",
+      "alias_name": "百合-皮克多朵(切花)"
+    },
+    {
+      "official_code": "00404144075005903",
+      "alias_name": "劍蘭-雙色金紅(切花)"
+    },
+    {
+      "official_code": "00404144075003453",
+      "alias_name": "劍蘭-粉紅心(進口切花)"
+    },
+    {
+      "official_code": "00404144075000903",
+      "alias_name": "劍蘭-265號(切花)"
+    },
+    {
+      "official_code": "00404144075000903",
+      "alias_name": "曼哈頓"
+    },
+    {
+      "official_code": "00404137071001203",
+      "alias_name": "赫蕉-紅娘垂蕉(切花)"
+    },
+    {
+      "official_code": "00404156062000055",
+      "alias_name": "蚌蘭(進口切葉)"
+    },
+    {
+      "official_code": "00404156062000055",
+      "alias_name": "紫背萬年青"
+    },
+    {
+      "official_code": "00404027057006603",
+      "alias_name": "康乃馨-薄粉(切花)"
+    },
+    {
+      "official_code": "00404027057004153",
+      "alias_name": "康乃馨-紅羽毛(進口切花)"
+    },
+    {
+      "official_code": "00404027057001653",
+      "alias_name": "康乃馨-牛奶白(進口切花)"
+    },
+    {
+      "official_code": "00404143051000003",
+      "alias_name": "蜻蜓鳳梨(切花)"
+    },
+    {
+      "official_code": "00404118045003203",
+      "alias_name": "非洲菊-迷你白(切花)"
+    },
+    {
+      "official_code": "00404118042999900",
+      "alias_name": "大理花-其他品種"
+    },
+    {
+      "official_code": "00404118039007903",
+      "alias_name": "大菊-矮仔黃(切花)"
+    },
+    {
+      "official_code": "00404118039005253",
+      "alias_name": "大菊-粉乒乓(進口切花)"
+    },
+    {
+      "official_code": "00404118039002453",
+      "alias_name": "大菊-白領(進口切花)"
+    },
+    {
+      "official_code": "00404118039000000",
+      "alias_name": "大菊"
+    },
+    {
+      "official_code": "00404118038013903",
+      "alias_name": "小菊-鈕扣菊綠(切花)"
+    },
+    {
+      "official_code": "00404118038011303",
+      "alias_name": "小菊-美麗小粉(切花)"
+    },
+    {
+      "official_code": "00404118038008603",
+      "alias_name": "小菊-金斯不列(切花)"
+    },
+    {
+      "official_code": "00404118038005603",
+      "alias_name": "小菊-多朵秀鳳(切花)"
+    },
+    {
+      "official_code": "00404118038003003",
+      "alias_name": "小菊-小桃紅(切花)"
+    },
+    {
+      "official_code": "00404118038000403",
+      "alias_name": "小菊-湯匙粉(切花)"
+    },
+    {
+      "official_code": "00404013029000000",
+      "alias_name": "伯利恆之星"
+    },
+    {
+      "official_code": "00404014019000905",
+      "alias_name": "海芋-彩色海芋葉(切葉)"
+    },
+    {
+      "official_code": "00404014015006703",
+      "alias_name": "火鶴-黑珍珠(切花)"
+    },
+    {
+      "official_code": "00404014015003003",
+      "alias_name": "火鶴-珊娜塔(切花)"
+    },
+    {
+      "official_code": "00404039013000000",
+      "alias_name": "唐棉"
+    },
+    {
+      "official_code": "00404034002000903",
+      "alias_name": "水仙百合-雙色(切花)"
+    },
+    {
+      "official_code": "00403085045000000",
+      "alias_name": "仙丹花"
+    },
+    {
+      "official_code": "00403167041011303",
+      "alias_name": "玫瑰-翡翠珍珠(切花)"
+    },
+    {
+      "official_code": "00403167041008303",
+      "alias_name": "玫瑰-斯波(切花)"
+    },
+    {
+      "official_code": "00403167041005203",
+      "alias_name": "玫瑰-紅粉情人(切花)"
+    },
+    {
+      "official_code": "00403167041002203",
+      "alias_name": "玫瑰-以色列紅(切花)"
+    },
+    {
+      "official_code": "00403010039000103",
+      "alias_name": "海神花-帝王花(切花)"
+    },
+    {
+      "official_code": "00403018023000000",
+      "alias_name": "玉蘭花"
+    },
+    {
+      "official_code": "00403013009000055",
+      "alias_name": "星點木(進口切葉)"
+    },
+    {
+      "official_code": "00402019026000003",
+      "alias_name": "黑種草(切花)"
+    },
+    {
+      "official_code": "00402159019006103",
+      "alias_name": "洋桔梗-新喜彩粉(切花)"
+    },
+    {
+      "official_code": "00402159019002503",
+      "alias_name": "洋桔梗-羅西娜-彩粉(切花)"
+    },
+    {
+      "official_code": "00402002015000003",
+      "alias_name": "紫羅蘭(切花)"
+    },
+    {
+      "official_code": "00402098005000053",
+      "alias_name": "千日紅(進口切花)"
+    },
+    {
+      "official_code": "00402098005000053",
+      "alias_name": "圓仔花"
+    },
+    {
+      "official_code": "00401179011000753",
+      "alias_name": "蝴蝶蘭-線條(進口切花)"
+    },
+    {
+      "official_code": "00401179006000353",
+      "alias_name": "石斛蘭-白紅心(進口切花)"
+    },
+    {
+      "official_code": "00305000999000000",
+      "alias_name": "其他堅果"
+    },
+    {
+      "official_code": "00304167006000700",
+      "alias_name": "桃-甜蜜桃"
+    },
+    {
+      "official_code": "00303167002000001",
+      "alias_name": "梨-梨穗"
+    },
+    {
+      "official_code": "00302112014999900",
+      "alias_name": "釋迦-其他品種"
+    },
+    {
+      "official_code": "00302143004000300",
+      "alias_name": "鳳梨-香水"
+    },
+    {
+      "official_code": "00302143004000300",
+      "alias_name": "台農11號"
+    },
+    {
+      "official_code": "00301053003999900",
+      "alias_name": "寬皮柑-其他品種"
+    },
+    {
+      "official_code": "00210032025000000",
+      "alias_name": "雲芝"
+    },
+    {
+      "official_code": "00208075004999900",
+      "alias_name": "小果番茄-其它品種"
+    },
+    {
+      "official_code": "00207132007999900",
+      "alias_name": "西瓜-其它品種"
+    },
+    {
+      "official_code": "00206000999000000",
+      "alias_name": "其他豆菜"
+    },
+    {
+      "official_code": "00204118004000000",
+      "alias_name": "牛蒡"
+    },
+    {
+      "official_code": "00203146006000000",
+      "alias_name": "蓮"
+    },
+    {
+      "official_code": "00201132051000000",
+      "alias_name": "龍鬚菜"
+    },
+    {
+      "official_code": "00201132051000000",
+      "alias_name": "隼人瓜嫩梢"
+    },
+    {
+      "official_code": "00201132051000000",
+      "alias_name": "佛手瓜嫩梢"
+    },
+    {
+      "official_code": "00201118025000000",
+      "alias_name": "食用薊"
+    },
+    {
+      "official_code": "00201002004000400",
+      "alias_name": "結球白菜-天津白"
+    },
+    {
+      "official_code": "00100000000000000",
+      "alias_name": "稻米類"
     },
     {
       "official_code": "00403016050000000",
