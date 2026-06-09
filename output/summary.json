@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-06-09T05:16:50.337Z",
-  "total_price_rows": 7380,
-  "ignored_total": 1275,
-  "processed_total": 6105,
-  "matched_total": 5856,
-  "unmatched_total": 249,
-  "matched_by_source_crop_code": 5631,
-  "matched_by_source_crop_name": 14,
-  "matched_by_alias": 211
+  "generatedAt": "2026-06-09T16:47:32.180Z",
+  "total_price_rows": 7212,
+  "ignored_total": 1881,
+  "processed_total": 5331,
+  "matched_total": 4986,
+  "unmatched_total": 345,
+  "matched_by_source_crop_code": 4782,
+  "matched_by_source_crop_name": 12,
+  "matched_by_alias": 192
 }
