@@ -1,7 +1,627 @@
 {
-  "generatedAt": "2026-07-14T23:10:22.427Z",
-  "total": 321,
+  "generatedAt": "2026-07-15T04:16:39.508Z",
+  "total": 383,
   "items": [
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N05",
+      "source_crop_code": "919",
+      "source_crop_name": "其他-進口",
+      "market_code": "104",
+      "market_name": "台北二",
+      "suggested_alias": "其他進口",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N05",
+      "source_crop_code": "A4",
+      "source_crop_name": "香蕉-越旦",
+      "market_code": "104",
+      "market_name": "台北二",
+      "suggested_alias": "香蕉越旦",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N05",
+      "source_crop_code": "B8",
+      "source_crop_name": "鳳梨-西瓜鳳梨",
+      "market_code": "104",
+      "market_name": "台北二",
+      "suggested_alias": "鳳梨西瓜鳳梨",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N05",
+      "source_crop_code": "F6",
+      "source_crop_name": "雜柑-黃金檸檬",
+      "market_code": "104",
+      "market_name": "台北二",
+      "suggested_alias": "雜柑黃金檸檬",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N04",
+      "source_crop_code": "FT12",
+      "source_crop_name": "南瓜-木瓜型 阿嬌",
+      "market_code": "104",
+      "market_name": "台北二",
+      "suggested_alias": "南瓜木瓜型阿嬌",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N04",
+      "source_crop_code": "FT91",
+      "source_crop_name": "南瓜-進口 木瓜型",
+      "market_code": "104",
+      "market_name": "台北二",
+      "suggested_alias": "南瓜進口木瓜型",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N04",
+      "source_crop_code": "LA92",
+      "source_crop_name": "甘藍-進口 改良種",
+      "market_code": "104",
+      "market_name": "台北二",
+      "suggested_alias": "甘藍進口改良種",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": null,
+      "source_crop_code": "FE800",
+      "source_crop_name": null,
+      "market_code": "105",
+      "market_name": "台北市場",
+      "suggested_alias": "",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": null,
+      "source_crop_code": "FE820",
+      "source_crop_name": null,
+      "market_code": "105",
+      "market_name": "台北市場",
+      "suggested_alias": "",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FH009",
+      "source_crop_name": "萬壽菊",
+      "market_code": "105",
+      "market_name": "台北市場",
+      "suggested_alias": "萬壽菊",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": null,
+      "source_crop_code": "FH010",
+      "source_crop_name": null,
+      "market_code": "105",
+      "market_name": "台北市場",
+      "suggested_alias": "",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": null,
+      "source_crop_code": "FH012",
+      "source_crop_name": null,
+      "market_code": "105",
+      "market_name": "台北市場",
+      "suggested_alias": "",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FH306",
+      "source_crop_name": "白日草",
+      "market_code": "105",
+      "market_name": "台北市場",
+      "suggested_alias": "白日草",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FH522",
+      "source_crop_name": "迥香-白",
+      "market_code": "105",
+      "market_name": "台北市場",
+      "suggested_alias": "迥香白",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS630",
+      "source_crop_name": "OT曼尼薩",
+      "market_code": "105",
+      "market_name": "台北市場",
+      "suggested_alias": "OT曼尼薩",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS631",
+      "source_crop_name": "OT曼尼薩-單朵",
+      "market_code": "105",
+      "market_name": "台北市場",
+      "suggested_alias": "OT曼尼薩單朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS632",
+      "source_crop_name": "OT曼尼薩-雙朵",
+      "market_code": "105",
+      "market_name": "台北市場",
+      "suggested_alias": "OT曼尼薩雙朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS633",
+      "source_crop_name": "OT曼尼薩-三朵",
+      "market_code": "105",
+      "market_name": "台北市場",
+      "suggested_alias": "OT曼尼薩三朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS639",
+      "source_crop_name": "OT曼尼薩-多朵",
+      "market_code": "105",
+      "market_name": "台北市場",
+      "suggested_alias": "OT曼尼薩多朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS870",
+      "source_crop_name": "OT大連",
+      "market_code": "105",
+      "market_name": "台北市場",
+      "suggested_alias": "OT大連",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS871",
+      "source_crop_name": "OT大連-單朵",
+      "market_code": "105",
+      "market_name": "台北市場",
+      "suggested_alias": "OT大連單朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS872",
+      "source_crop_name": "OT大連-雙朵",
+      "market_code": "105",
+      "market_name": "台北市場",
+      "suggested_alias": "OT大連雙朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS873",
+      "source_crop_name": "OT大連-三朵",
+      "market_code": "105",
+      "market_name": "台北市場",
+      "suggested_alias": "OT大連三朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS879",
+      "source_crop_name": "OT大連-多朵",
+      "market_code": "105",
+      "market_name": "台北市場",
+      "suggested_alias": "OT大連多朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS892",
+      "source_crop_name": "OT帕雷諾-雙朵",
+      "market_code": "105",
+      "market_name": "台北市場",
+      "suggested_alias": "OT帕雷諾雙朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS893",
+      "source_crop_name": "OT帕雷諾-三朵",
+      "market_code": "105",
+      "market_name": "台北市場",
+      "suggested_alias": "OT帕雷諾三朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS899",
+      "source_crop_name": "OT帕雷諾-多朵",
+      "market_code": "105",
+      "market_name": "台北市場",
+      "suggested_alias": "OT帕雷諾多朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS960",
+      "source_crop_name": "OT試金石",
+      "market_code": "105",
+      "market_name": "台北市場",
+      "suggested_alias": "OT試金石",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS963",
+      "source_crop_name": "OT試金石-三朵",
+      "market_code": "105",
+      "market_name": "台北市場",
+      "suggested_alias": "OT試金石三朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS969",
+      "source_crop_name": "OT試金石-多朵",
+      "market_code": "105",
+      "market_name": "台北市場",
+      "suggested_alias": "OT試金石多朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS972",
+      "source_crop_name": "OT紅福特-雙朵",
+      "market_code": "105",
+      "market_name": "台北市場",
+      "suggested_alias": "OT紅福特雙朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS973",
+      "source_crop_name": "OT紅福特-三朵",
+      "market_code": "105",
+      "market_name": "台北市場",
+      "suggested_alias": "OT紅福特三朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "FS979",
+      "source_crop_name": "OT紅福特-多朵",
+      "market_code": "105",
+      "market_name": "台北市場",
+      "suggested_alias": "OT紅福特多朵",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N06",
+      "source_crop_code": "IH090",
+      "source_crop_name": "進口針墊花",
+      "market_code": "105",
+      "market_name": "台北市場",
+      "suggested_alias": "進口針墊花",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N05",
+      "source_crop_code": "919",
+      "source_crop_name": "其他-進口",
+      "market_code": "109",
+      "market_name": "台北一",
+      "suggested_alias": "其他進口",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N05",
+      "source_crop_code": "A4",
+      "source_crop_name": "香蕉-越旦",
+      "market_code": "109",
+      "market_name": "台北一",
+      "suggested_alias": "香蕉越旦",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N05",
+      "source_crop_code": "B8",
+      "source_crop_name": "鳳梨-西瓜鳳梨",
+      "market_code": "109",
+      "market_name": "台北一",
+      "suggested_alias": "鳳梨西瓜鳳梨",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N05",
+      "source_crop_code": "F6",
+      "source_crop_name": "雜柑-黃金檸檬",
+      "market_code": "109",
+      "market_name": "台北一",
+      "suggested_alias": "雜柑黃金檸檬",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N04",
+      "source_crop_code": "FT12",
+      "source_crop_name": "南瓜-木瓜型 阿嬌",
+      "market_code": "109",
+      "market_name": "台北一",
+      "suggested_alias": "南瓜木瓜型阿嬌",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N04",
+      "source_crop_code": "FT90",
+      "source_crop_name": "南瓜-進口 其他",
+      "market_code": "109",
+      "market_name": "台北一",
+      "suggested_alias": "南瓜進口其他",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N04",
+      "source_crop_code": "FT91",
+      "source_crop_name": "南瓜-進口 木瓜型",
+      "market_code": "109",
+      "market_name": "台北一",
+      "suggested_alias": "南瓜進口木瓜型",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N04",
+      "source_crop_code": "LA92",
+      "source_crop_name": "甘藍-進口 改良種",
+      "market_code": "109",
+      "market_name": "台北一",
+      "suggested_alias": "甘藍進口改良種",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N05",
+      "source_crop_code": "A4",
+      "source_crop_name": "香蕉-越旦",
+      "market_code": "220",
+      "market_name": "板橋區",
+      "suggested_alias": "香蕉越旦",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N05",
+      "source_crop_code": "B8",
+      "source_crop_name": "鳳梨-西瓜鳳梨",
+      "market_code": "220",
+      "market_name": "板橋區",
+      "suggested_alias": "鳳梨西瓜鳳梨",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N05",
+      "source_crop_code": "F6",
+      "source_crop_name": "雜柑-黃金檸檬",
+      "market_code": "220",
+      "market_name": "板橋區",
+      "suggested_alias": "雜柑黃金檸檬",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N04",
+      "source_crop_code": "FA2",
+      "source_crop_name": "樊花",
+      "market_code": "220",
+      "market_name": "板橋區",
+      "suggested_alias": "樊花",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N04",
+      "source_crop_code": "FT12",
+      "source_crop_name": "南瓜-木瓜型 阿嬌",
+      "market_code": "220",
+      "market_name": "板橋區",
+      "suggested_alias": "南瓜木瓜型阿嬌",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N04",
+      "source_crop_code": "FT91",
+      "source_crop_name": "南瓜-進口 木瓜型",
+      "market_code": "220",
+      "market_name": "板橋區",
+      "suggested_alias": "南瓜進口木瓜型",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N04",
+      "source_crop_code": "LA92",
+      "source_crop_name": "甘藍-進口 改良種",
+      "market_code": "220",
+      "market_name": "板橋區",
+      "suggested_alias": "甘藍進口改良種",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N05",
+      "source_crop_code": "919",
+      "source_crop_name": "其他-進口",
+      "market_code": "241",
+      "market_name": "三重區",
+      "suggested_alias": "其他進口",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N05",
+      "source_crop_code": "A4",
+      "source_crop_name": "香蕉-越旦",
+      "market_code": "241",
+      "market_name": "三重區",
+      "suggested_alias": "香蕉越旦",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N05",
+      "source_crop_code": "B8",
+      "source_crop_name": "鳳梨-西瓜鳳梨",
+      "market_code": "241",
+      "market_name": "三重區",
+      "suggested_alias": "鳳梨西瓜鳳梨",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N05",
+      "source_crop_code": "F6",
+      "source_crop_name": "雜柑-黃金檸檬",
+      "market_code": "241",
+      "market_name": "三重區",
+      "suggested_alias": "雜柑黃金檸檬",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N04",
+      "source_crop_code": "FA2",
+      "source_crop_name": "樊花",
+      "market_code": "241",
+      "market_name": "三重區",
+      "suggested_alias": "樊花",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N04",
+      "source_crop_code": "FT12",
+      "source_crop_name": "南瓜-木瓜型 阿嬌",
+      "market_code": "241",
+      "market_name": "三重區",
+      "suggested_alias": "南瓜木瓜型阿嬌",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N04",
+      "source_crop_code": "FT91",
+      "source_crop_name": "南瓜-進口 木瓜型",
+      "market_code": "241",
+      "market_name": "三重區",
+      "suggested_alias": "南瓜進口木瓜型",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N04",
+      "source_crop_code": "LA92",
+      "source_crop_name": "甘藍-進口 改良種",
+      "market_code": "241",
+      "market_name": "三重區",
+      "suggested_alias": "甘藍進口改良種",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N05",
+      "source_crop_code": "A4",
+      "source_crop_name": "香蕉-越旦",
+      "market_code": "338",
+      "market_name": "桃農",
+      "suggested_alias": "香蕉越旦",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N04",
+      "source_crop_code": "LA92",
+      "source_crop_name": "甘藍-進口 改良種",
+      "market_code": "338",
+      "market_name": "桃農",
+      "suggested_alias": "甘藍進口改良種",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N04",
+      "source_crop_code": "FT91",
+      "source_crop_name": "南瓜-進口 木瓜型",
+      "market_code": "420",
+      "market_name": "豐原區",
+      "suggested_alias": "南瓜進口木瓜型",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N04",
+      "source_crop_code": "FT12",
+      "source_crop_name": "南瓜-木瓜型 阿嬌",
+      "market_code": "800",
+      "market_name": "高雄市",
+      "suggested_alias": "南瓜木瓜型阿嬌",
+      "decision": "pending"
+    },
+    {
+      "source_system": "MAM",
+      "crop_type_code": "N04",
+      "source_crop_code": "LA97",
+      "source_crop_name": "甘藍-進口 改良尖",
+      "market_code": "800",
+      "market_name": "高雄市",
+      "suggested_alias": "甘藍進口改良尖",
+      "decision": "pending"
+    },
     {
       "source_system": "MAM",
       "crop_type_code": "N05",
