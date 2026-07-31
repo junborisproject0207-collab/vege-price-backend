@@ -1,67 +1,27 @@
 {
-  "generatedAt": "2026-07-30T04:19:05.195Z",
-  "unmatched_total_rows": 497,
-  "distinct_unmatched_names": 58,
-  "distinct_unmatched_codes": 72,
+  "generatedAt": "2026-07-31T04:39:06.736Z",
+  "unmatched_total_rows": 466,
+  "distinct_unmatched_names": 57,
+  "distinct_unmatched_codes": 70,
   "top_20_names": [
     {
       "key": "甘藍-進口 改良種",
-      "count": 24
+      "count": 28
     },
     {
       "key": "香蕉-越旦",
-      "count": 18
+      "count": 21
+    },
+    {
+      "key": "雜柑-黃金檸檬",
+      "count": 16
     },
     {
       "key": "鳳梨-西瓜鳳梨",
       "count": 15
     },
     {
-      "key": "雜柑-黃金檸檬",
-      "count": 14
-    },
-    {
-      "key": "OT曼尼薩-雙朵",
-      "count": 14
-    },
-    {
-      "key": "OT曼尼薩-三朵",
-      "count": 14
-    },
-    {
-      "key": "OT曼尼薩-多朵",
-      "count": 14
-    },
-    {
-      "key": "OT大連-雙朵",
-      "count": 14
-    },
-    {
-      "key": "OT大連-三朵",
-      "count": 14
-    },
-    {
-      "key": "OT大連-多朵",
-      "count": 14
-    },
-    {
-      "key": "OT帕雷諾-三朵",
-      "count": 14
-    },
-    {
-      "key": "OT試金石-三朵",
-      "count": 14
-    },
-    {
-      "key": "OT試金石-多朵",
-      "count": 14
-    },
-    {
-      "key": "OT紅福特-三朵",
-      "count": 14
-    },
-    {
-      "key": "OT紅福特-多朵",
+      "key": "南瓜-木瓜型 阿嬌",
       "count": 14
     },
     {
@@ -69,85 +29,81 @@
       "count": 12
     },
     {
+      "key": "OT曼尼薩-雙朵",
+      "count": 12
+    },
+    {
+      "key": "OT曼尼薩-三朵",
+      "count": 12
+    },
+    {
+      "key": "OT曼尼薩-多朵",
+      "count": 12
+    },
+    {
+      "key": "OT大連-雙朵",
+      "count": 12
+    },
+    {
+      "key": "OT大連-三朵",
+      "count": 12
+    },
+    {
+      "key": "OT大連-多朵",
+      "count": 12
+    },
+    {
+      "key": "OT帕雷諾-三朵",
+      "count": 12
+    },
+    {
+      "key": "OT試金石-三朵",
+      "count": 12
+    },
+    {
+      "key": "OT試金石-多朵",
+      "count": 12
+    },
+    {
+      "key": "OT紅福特-三朵",
+      "count": 12
+    },
+    {
+      "key": "OT紅福特-多朵",
+      "count": 12
+    },
+    {
+      "key": "其他-進口",
+      "count": 12
+    },
+    {
       "key": "OT大連",
-      "count": 12
-    },
-    {
-      "key": "OT帕雷諾-雙朵",
-      "count": 12
-    },
-    {
-      "key": "南瓜-木瓜型 阿嬌",
       "count": 11
     },
     {
-      "key": "OT競爭者-多朵",
+      "key": "OT帕雷諾-雙朵",
       "count": 11
     }
   ],
   "top_20_codes": [
     {
       "key": "LA92",
-      "count": 24
+      "count": 28
     },
     {
       "key": "A4",
-      "count": 18
+      "count": 21
+    },
+    {
+      "key": "F6",
+      "count": 16
     },
     {
       "key": "B8",
       "count": 15
     },
     {
-      "key": "F6",
-      "count": 14
-    },
-    {
-      "key": "FE800",
-      "count": 14
-    },
-    {
-      "key": "FS632",
-      "count": 14
-    },
-    {
-      "key": "FS633",
-      "count": 14
-    },
-    {
-      "key": "FS639",
-      "count": 14
-    },
-    {
-      "key": "FS872",
-      "count": 14
-    },
-    {
-      "key": "FS873",
-      "count": 14
-    },
-    {
-      "key": "FS879",
-      "count": 14
-    },
-    {
-      "key": "FS893",
-      "count": 14
-    },
-    {
-      "key": "FS963",
-      "count": 14
-    },
-    {
-      "key": "FS969",
-      "count": 14
-    },
-    {
-      "key": "FS973",
-      "count": 14
-    },
-    {
-      "key": "FS979",
+      "key": "FT12",
       "count": 14
     },
     {
@@ -155,22 +111,66 @@
       "count": 12
     },
     {
+      "key": "FS632",
+      "count": 12
+    },
+    {
+      "key": "FS633",
+      "count": 12
+    },
+    {
+      "key": "FS639",
+      "count": 12
+    },
+    {
+      "key": "FS872",
+      "count": 12
+    },
+    {
+      "key": "FS873",
+      "count": 12
+    },
+    {
+      "key": "FS879",
+      "count": 12
+    },
+    {
+      "key": "FS893",
+      "count": 12
+    },
+    {
+      "key": "FS963",
+      "count": 12
+    },
+    {
+      "key": "FS969",
+      "count": 12
+    },
+    {
+      "key": "FS973",
+      "count": 12
+    },
+    {
+      "key": "FS979",
+      "count": 12
+    },
+    {
+      "key": "919",
+      "count": 12
+    },
+    {
+      "key": "FE800",
+      "count": 11
+    },
+    {
       "key": "FS870",
-      "count": 12
-    },
-    {
-      "key": "FS892",
-      "count": 12
-    },
-    {
-      "key": "FT12",
       "count": 11
     }
   ],
   "suggestions_top_200": [
     {
       "source_crop_name": "甘藍-進口 改良種",
-      "count": 24,
+      "count": 28,
       "normalized_name": "甘藍進口改良種",
       "suggestion_type": "unknown",
       "suggested_official_code": null,
@@ -178,8 +178,16 @@
     },
     {
       "source_crop_name": "香蕉-越旦",
-      "count": 18,
+      "count": 21,
       "normalized_name": "香蕉越旦",
+      "suggestion_type": "unknown",
+      "suggested_official_code": null,
+      "suggested_name_zh": null
+    },
+    {
+      "source_crop_name": "雜柑-黃金檸檬",
+      "count": 16,
+      "normalized_name": "雜柑黃金檸檬",
       "suggestion_type": "unknown",
       "suggested_official_code": null,
       "suggested_name_zh": null
@@ -193,97 +201,9 @@
       "suggested_name_zh": null
     },
     {
-      "source_crop_name": "雜柑-黃金檸檬",
+      "source_crop_name": "南瓜-木瓜型 阿嬌",
       "count": 14,
-      "normalized_name": "雜柑黃金檸檬",
-      "suggestion_type": "unknown",
-      "suggested_official_code": null,
-      "suggested_name_zh": null
-    },
-    {
-      "source_crop_name": "OT曼尼薩-雙朵",
-      "count": 14,
-      "normalized_name": "OT曼尼薩雙朵",
-      "suggestion_type": "unknown",
-      "suggested_official_code": null,
-      "suggested_name_zh": null
-    },
-    {
-      "source_crop_name": "OT曼尼薩-三朵",
-      "count": 14,
-      "normalized_name": "OT曼尼薩三朵",
-      "suggestion_type": "unknown",
-      "suggested_official_code": null,
-      "suggested_name_zh": null
-    },
-    {
-      "source_crop_name": "OT曼尼薩-多朵",
-      "count": 14,
-      "normalized_name": "OT曼尼薩多朵",
-      "suggestion_type": "unknown",
-      "suggested_official_code": null,
-      "suggested_name_zh": null
-    },
-    {
-      "source_crop_name": "OT大連-雙朵",
-      "count": 14,
-      "normalized_name": "OT大連雙朵",
-      "suggestion_type": "unknown",
-      "suggested_official_code": null,
-      "suggested_name_zh": null
-    },
-    {
-      "source_crop_name": "OT大連-三朵",
-      "count": 14,
-      "normalized_name": "OT大連三朵",
-      "suggestion_type": "unknown",
-      "suggested_official_code": null,
-      "suggested_name_zh": null
-    },
-    {
-      "source_crop_name": "OT大連-多朵",
-      "count": 14,
-      "normalized_name": "OT大連多朵",
-      "suggestion_type": "unknown",
-      "suggested_official_code": null,
-      "suggested_name_zh": null
-    },
-    {
-      "source_crop_name": "OT帕雷諾-三朵",
-      "count": 14,
-      "normalized_name": "OT帕雷諾三朵",
-      "suggestion_type": "unknown",
-      "suggested_official_code": null,
-      "suggested_name_zh": null
-    },
-    {
-      "source_crop_name": "OT試金石-三朵",
-      "count": 14,
-      "normalized_name": "OT試金石三朵",
-      "suggestion_type": "unknown",
-      "suggested_official_code": null,
-      "suggested_name_zh": null
-    },
-    {
-      "source_crop_name": "OT試金石-多朵",
-      "count": 14,
-      "normalized_name": "OT試金石多朵",
-      "suggestion_type": "unknown",
-      "suggested_official_code": null,
-      "suggested_name_zh": null
-    },
-    {
-      "source_crop_name": "OT紅福特-三朵",
-      "count": 14,
-      "normalized_name": "OT紅福特三朵",
-      "suggestion_type": "unknown",
-      "suggested_official_code": null,
-      "suggested_name_zh": null
-    },
-    {
-      "source_crop_name": "OT紅福特-多朵",
-      "count": 14,
-      "normalized_name": "OT紅福特多朵",
+      "normalized_name": "南瓜木瓜型阿嬌",
       "suggestion_type": "unknown",
       "suggested_official_code": null,
       "suggested_name_zh": null
@@ -297,8 +217,104 @@
       "suggested_name_zh": null
     },
     {
-      "source_crop_name": "OT大連",
+      "source_crop_name": "OT曼尼薩-雙朵",
       "count": 12,
+      "normalized_name": "OT曼尼薩雙朵",
+      "suggestion_type": "unknown",
+      "suggested_official_code": null,
+      "suggested_name_zh": null
+    },
+    {
+      "source_crop_name": "OT曼尼薩-三朵",
+      "count": 12,
+      "normalized_name": "OT曼尼薩三朵",
+      "suggestion_type": "unknown",
+      "suggested_official_code": null,
+      "suggested_name_zh": null
+    },
+    {
+      "source_crop_name": "OT曼尼薩-多朵",
+      "count": 12,
+      "normalized_name": "OT曼尼薩多朵",
+      "suggestion_type": "unknown",
+      "suggested_official_code": null,
+      "suggested_name_zh": null
+    },
+    {
+      "source_crop_name": "OT大連-雙朵",
+      "count": 12,
+      "normalized_name": "OT大連雙朵",
+      "suggestion_type": "unknown",
+      "suggested_official_code": null,
+      "suggested_name_zh": null
+    },
+    {
+      "source_crop_name": "OT大連-三朵",
+      "count": 12,
+      "normalized_name": "OT大連三朵",
+      "suggestion_type": "unknown",
+      "suggested_official_code": null,
+      "suggested_name_zh": null
+    },
+    {
+      "source_crop_name": "OT大連-多朵",
+      "count": 12,
+      "normalized_name": "OT大連多朵",
+      "suggestion_type": "unknown",
+      "suggested_official_code": null,
+      "suggested_name_zh": null
+    },
+    {
+      "source_crop_name": "OT帕雷諾-三朵",
+      "count": 12,
+      "normalized_name": "OT帕雷諾三朵",
+      "suggestion_type": "unknown",
+      "suggested_official_code": null,
+      "suggested_name_zh": null
+    },
+    {
+      "source_crop_name": "OT試金石-三朵",
+      "count": 12,
+      "normalized_name": "OT試金石三朵",
+      "suggestion_type": "unknown",
+      "suggested_official_code": null,
+      "suggested_name_zh": null
+    },
+    {
+      "source_crop_name": "OT試金石-多朵",
+      "count": 12,
+      "normalized_name": "OT試金石多朵",
+      "suggestion_type": "unknown",
+      "suggested_official_code": null,
+      "suggested_name_zh": null
+    },
+    {
+      "source_crop_name": "OT紅福特-三朵",
+      "count": 12,
+      "normalized_name": "OT紅福特三朵",
+      "suggestion_type": "unknown",
+      "suggested_official_code": null,
+      "suggested_name_zh": null
+    },
+    {
+      "source_crop_name": "OT紅福特-多朵",
+      "count": 12,
+      "normalized_name": "OT紅福特多朵",
+      "suggestion_type": "unknown",
+      "suggested_official_code": null,
+      "suggested_name_zh": null
+    },
+    {
+      "source_crop_name": "其他-進口",
+      "count": 12,
+      "normalized_name": "其他進口",
+      "suggestion_type": "unknown",
+      "suggested_official_code": null,
+      "suggested_name_zh": null
+    },
+    {
+      "source_crop_name": "OT大連",
+      "count": 11,
       "normalized_name": "OT大連",
       "suggestion_type": "unknown",
       "suggested_official_code": null,
@@ -306,16 +322,16 @@
     },
     {
       "source_crop_name": "OT帕雷諾-雙朵",
-      "count": 12,
+      "count": 11,
       "normalized_name": "OT帕雷諾雙朵",
       "suggestion_type": "unknown",
       "suggested_official_code": null,
       "suggested_name_zh": null
     },
     {
-      "source_crop_name": "南瓜-木瓜型 阿嬌",
+      "source_crop_name": "OT帕雷諾-多朵",
       "count": 11,
-      "normalized_name": "南瓜木瓜型阿嬌",
+      "normalized_name": "OT帕雷諾多朵",
       "suggestion_type": "unknown",
       "suggested_official_code": null,
       "suggested_name_zh": null
@@ -329,33 +345,17 @@
       "suggested_name_zh": null
     },
     {
+      "source_crop_name": "白日草",
+      "count": 10,
+      "normalized_name": "白日草",
+      "suggestion_type": "unknown",
+      "suggested_official_code": null,
+      "suggested_name_zh": null
+    },
+    {
       "source_crop_name": "OT紅福特-雙朵",
-      "count": 11,
+      "count": 10,
       "normalized_name": "OT紅福特雙朵",
-      "suggestion_type": "unknown",
-      "suggested_official_code": null,
-      "suggested_name_zh": null
-    },
-    {
-      "source_crop_name": "專利染色水燭花",
-      "count": 11,
-      "normalized_name": "專利染色水燭花",
-      "suggestion_type": "unknown",
-      "suggested_official_code": null,
-      "suggested_name_zh": null
-    },
-    {
-      "source_crop_name": "其他-進口",
-      "count": 10,
-      "normalized_name": "其他進口",
-      "suggestion_type": "unknown",
-      "suggested_official_code": null,
-      "suggested_name_zh": null
-    },
-    {
-      "source_crop_name": "OT帕雷諾-多朵",
-      "count": 10,
-      "normalized_name": "OT帕雷諾多朵",
       "suggestion_type": "unknown",
       "suggested_official_code": null,
       "suggested_name_zh": null
@@ -369,33 +369,17 @@
       "suggested_name_zh": null
     },
     {
-      "source_crop_name": "OT曼尼薩-單朵",
-      "count": 8,
-      "normalized_name": "OT曼尼薩單朵",
-      "suggestion_type": "unknown",
-      "suggested_official_code": null,
-      "suggested_name_zh": null
-    },
-    {
-      "source_crop_name": "白日草",
-      "count": 7,
-      "normalized_name": "白日草",
-      "suggestion_type": "unknown",
-      "suggested_official_code": null,
-      "suggested_name_zh": null
-    },
-    {
       "source_crop_name": "甘藍-進口 初秋",
-      "count": 7,
+      "count": 9,
       "normalized_name": "甘藍進口初秋",
       "suggestion_type": "unknown",
       "suggested_official_code": null,
       "suggested_name_zh": null
     },
     {
-      "source_crop_name": "OT試金石-雙朵",
-      "count": 7,
-      "normalized_name": "OT試金石雙朵",
+      "source_crop_name": "專利染色水燭花",
+      "count": 9,
+      "normalized_name": "專利染色水燭花",
       "suggestion_type": "unknown",
       "suggested_official_code": null,
       "suggested_name_zh": null
@@ -409,57 +393,33 @@
       "suggested_name_zh": null
     },
     {
-      "source_crop_name": "進口針墊花",
-      "count": 6,
-      "normalized_name": "進口針墊花",
+      "source_crop_name": "OT帕雷諾",
+      "count": 7,
+      "normalized_name": "OT帕雷諾",
       "suggestion_type": "unknown",
       "suggested_official_code": null,
       "suggested_name_zh": null
     },
     {
-      "source_crop_name": "OT帕雷諾-單朵",
-      "count": 6,
-      "normalized_name": "OT帕雷諾單朵",
+      "source_crop_name": "OT曼尼薩-單朵",
+      "count": 7,
+      "normalized_name": "OT曼尼薩單朵",
       "suggestion_type": "unknown",
       "suggested_official_code": null,
       "suggested_name_zh": null
     },
     {
       "source_crop_name": "萬壽菊",
-      "count": 5,
+      "count": 6,
       "normalized_name": "萬壽菊",
       "suggestion_type": "unknown",
       "suggested_official_code": null,
       "suggested_name_zh": null
     },
     {
-      "source_crop_name": "萬代蘭-巨輪混色",
+      "source_crop_name": "南瓜-進口 木瓜型",
       "count": 5,
-      "normalized_name": "萬代蘭巨輪混色",
-      "suggestion_type": "unknown",
-      "suggested_official_code": null,
-      "suggested_name_zh": null
-    },
-    {
-      "source_crop_name": "進口臘梅",
-      "count": 5,
-      "normalized_name": "進口臘梅",
-      "suggestion_type": "unknown",
-      "suggested_official_code": null,
-      "suggested_name_zh": null
-    },
-    {
-      "source_crop_name": "南瓜-進口 其他",
-      "count": 5,
-      "normalized_name": "南瓜進口其他",
-      "suggestion_type": "unknown",
-      "suggested_official_code": null,
-      "suggested_name_zh": null
-    },
-    {
-      "source_crop_name": "OT瑪丹娜-多朵",
-      "count": 5,
-      "normalized_name": "OT瑪丹娜多朵",
+      "normalized_name": "南瓜進口木瓜型",
       "suggestion_type": "unknown",
       "suggested_official_code": null,
       "suggested_name_zh": null
@@ -473,105 +433,81 @@
       "suggested_name_zh": null
     },
     {
-      "source_crop_name": "進口高山羊齒",
+      "source_crop_name": "OT試金石-雙朵",
       "count": 5,
-      "normalized_name": "進口高山羊齒",
+      "normalized_name": "OT試金石雙朵",
       "suggestion_type": "unknown",
       "suggested_official_code": null,
       "suggested_name_zh": null
     },
     {
-      "source_crop_name": "進口帝王花",
+      "source_crop_name": "南瓜-進口 其他",
       "count": 4,
-      "normalized_name": "進口帝王花",
+      "normalized_name": "南瓜進口其他",
       "suggestion_type": "unknown",
       "suggested_official_code": null,
       "suggested_name_zh": null
     },
     {
-      "source_crop_name": "南瓜-進口 木瓜型",
+      "source_crop_name": "進口針墊花",
       "count": 3,
-      "normalized_name": "南瓜進口木瓜型",
+      "normalized_name": "進口針墊花",
       "suggestion_type": "unknown",
       "suggested_official_code": null,
       "suggested_name_zh": null
     },
     {
-      "source_crop_name": "OT帕雷諾",
+      "source_crop_name": "進口臘梅",
       "count": 3,
-      "normalized_name": "OT帕雷諾",
+      "normalized_name": "進口臘梅",
       "suggestion_type": "unknown",
       "suggested_official_code": null,
       "suggested_name_zh": null
     },
     {
-      "source_crop_name": "OT瑪丹娜-三朵",
-      "count": 2,
-      "normalized_name": "OT瑪丹娜三朵",
-      "suggestion_type": "unknown",
-      "suggested_official_code": null,
-      "suggested_name_zh": null
-    },
-    {
-      "source_crop_name": "甘藍-進口 其他",
-      "count": 2,
-      "normalized_name": "甘藍進口其他",
+      "source_crop_name": "OT帕雷諾-單朵",
+      "count": 3,
+      "normalized_name": "OT帕雷諾單朵",
       "suggestion_type": "unknown",
       "suggested_official_code": null,
       "suggested_name_zh": null
     },
     {
       "source_crop_name": "OT紅福特-單朵",
-      "count": 2,
+      "count": 3,
       "normalized_name": "OT紅福特單朵",
       "suggestion_type": "unknown",
       "suggested_official_code": null,
       "suggested_name_zh": null
     },
     {
-      "source_crop_name": "進口切葉類",
-      "count": 1,
-      "normalized_name": "進口切葉類",
+      "source_crop_name": "萬代蘭-巨輪混色",
+      "count": 2,
+      "normalized_name": "萬代蘭巨輪混色",
       "suggestion_type": "unknown",
       "suggested_official_code": null,
       "suggested_name_zh": null
     },
     {
-      "source_crop_name": "蘆筍-進口 白蘆筍",
-      "count": 1,
-      "normalized_name": "蘆筍進口白蘆筍",
-      "suggestion_type": "unknown",
-      "suggested_official_code": null,
-      "suggested_name_zh": null
-    },
-    {
-      "source_crop_name": "包心白菜-進口 包白",
-      "count": 1,
-      "normalized_name": "包心白菜進口包白",
+      "source_crop_name": "進口花材",
+      "count": 2,
+      "normalized_name": "進口花材",
       "suggestion_type": "unknown",
       "suggested_official_code": null,
       "suggested_name_zh": null
     },
     {
       "source_crop_name": "OT競爭者",
-      "count": 1,
+      "count": 2,
       "normalized_name": "OT競爭者",
       "suggestion_type": "unknown",
       "suggested_official_code": null,
       "suggested_name_zh": null
     },
     {
-      "source_crop_name": "進口風鈴花",
-      "count": 1,
-      "normalized_name": "進口風鈴花",
-      "suggestion_type": "unknown",
-      "suggested_official_code": null,
-      "suggested_name_zh": null
-    },
-    {
-      "source_crop_name": "虎斑木葉",
-      "count": 1,
-      "normalized_name": "虎斑木葉",
+      "source_crop_name": "進口卡斯比亞-無葉",
+      "count": 2,
+      "normalized_name": "進口卡斯比亞無葉",
       "suggestion_type": "unknown",
       "suggested_official_code": null,
       "suggested_name_zh": null
@@ -585,22 +521,6 @@
       "suggested_name_zh": null
     },
     {
-      "source_crop_name": "進口牡丹花",
-      "count": 1,
-      "normalized_name": "進口牡丹花",
-      "suggestion_type": "unknown",
-      "suggested_official_code": null,
-      "suggested_name_zh": null
-    },
-    {
-      "source_crop_name": "進口大飛燕草",
-      "count": 1,
-      "normalized_name": "進口大飛燕草",
-      "suggestion_type": "unknown",
-      "suggested_official_code": null,
-      "suggested_name_zh": null
-    },
-    {
       "source_crop_name": "進口泡盛草",
       "count": 1,
       "normalized_name": "進口泡盛草",
@@ -609,25 +529,97 @@
       "suggested_name_zh": null
     },
     {
-      "source_crop_name": "進口虎頭蘭-大輪",
+      "source_crop_name": "進口小蒼蘭-白色",
       "count": 1,
-      "normalized_name": "進口虎頭蘭大輪",
+      "normalized_name": "進口小蒼蘭白色",
       "suggestion_type": "unknown",
       "suggested_official_code": null,
       "suggested_name_zh": null
     },
     {
-      "source_crop_name": "孔雀竹竽",
+      "source_crop_name": "進口龍膽",
       "count": 1,
-      "normalized_name": "孔雀竹竽",
+      "normalized_name": "進口龍膽",
       "suggestion_type": "unknown",
       "suggested_official_code": null,
       "suggested_name_zh": null
     },
     {
-      "source_crop_name": "嘉德麗蘭",
+      "source_crop_name": "進口棉花",
       "count": 1,
-      "normalized_name": "嘉德麗蘭",
+      "normalized_name": "進口棉花",
+      "suggestion_type": "unknown",
+      "suggested_official_code": null,
+      "suggested_name_zh": null
+    },
+    {
+      "source_crop_name": "進口帝王花",
+      "count": 1,
+      "normalized_name": "進口帝王花",
+      "suggestion_type": "unknown",
+      "suggested_official_code": null,
+      "suggested_name_zh": null
+    },
+    {
+      "source_crop_name": "進口切葉類",
+      "count": 1,
+      "normalized_name": "進口切葉類",
+      "suggestion_type": "unknown",
+      "suggested_official_code": null,
+      "suggested_name_zh": null
+    },
+    {
+      "source_crop_name": "OT試金石-單朵",
+      "count": 1,
+      "normalized_name": "OT試金石單朵",
+      "suggestion_type": "unknown",
+      "suggested_official_code": null,
+      "suggested_name_zh": null
+    },
+    {
+      "source_crop_name": "蘆筍-進口 白蘆筍",
+      "count": 1,
+      "normalized_name": "蘆筍進口白蘆筍",
+      "suggestion_type": "unknown",
+      "suggested_official_code": null,
+      "suggested_name_zh": null
+    },
+    {
+      "source_crop_name": "OT瑪丹娜-三朵",
+      "count": 1,
+      "normalized_name": "OT瑪丹娜三朵",
+      "suggestion_type": "unknown",
+      "suggested_official_code": null,
+      "suggested_name_zh": null
+    },
+    {
+      "source_crop_name": "OT瑪丹娜-多朵",
+      "count": 1,
+      "normalized_name": "OT瑪丹娜多朵",
+      "suggestion_type": "unknown",
+      "suggested_official_code": null,
+      "suggested_name_zh": null
+    },
+    {
+      "source_crop_name": "甘藍-進口 其他",
+      "count": 1,
+      "normalized_name": "甘藍進口其他",
+      "suggestion_type": "unknown",
+      "suggested_official_code": null,
+      "suggested_name_zh": null
+    },
+    {
+      "source_crop_name": "包心白菜-進口 包白",
+      "count": 1,
+      "normalized_name": "包心白菜進口包白",
+      "suggestion_type": "unknown",
+      "suggested_official_code": null,
+      "suggested_name_zh": null
+    },
+    {
+      "source_crop_name": "進口風鈴花",
+      "count": 1,
+      "normalized_name": "進口風鈴花",
       "suggestion_type": "unknown",
       "suggested_official_code": null,
       "suggested_name_zh": null
