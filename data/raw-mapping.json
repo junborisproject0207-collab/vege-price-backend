@@ -248,6 +248,24 @@
     "ALIAS_CNAME": "",
     "SRC_SYS_ID": "FFR",
     "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
+    "SRC_ID": "258",
+    "SRC_CNAME": "類地毯草"
+  },
+  {
+    "CROP_UID": "01003000999000000",
+    "CNAME": "其他景觀作物",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "FFR",
+    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
+    "SRC_ID": "257",
+    "SRC_CNAME": "草皮類"
+  },
+  {
+    "CROP_UID": "01003000999000000",
+    "CNAME": "其他景觀作物",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "FFR",
+    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
     "SRC_ID": "256",
     "SRC_CNAME": "臺北草"
   },
@@ -610,6 +628,15 @@
     "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
     "SRC_ID": "587",
     "SRC_CNAME": "再生綠肥"
+  },
+  {
+    "CROP_UID": "01002000999000000",
+    "CNAME": "其他綠肥作物",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "FFR",
+    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
+    "SRC_ID": "534",
+    "SRC_CNAME": "滿江紅"
   },
   {
     "CROP_UID": "01002000999000000",
@@ -2871,6 +2898,15 @@
     "SRC_CNAME": "其他短期特用"
   },
   {
+    "CROP_UID": "00610108001000000",
+    "CNAME": "無患子",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "FFR",
+    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
+    "SRC_ID": "361",
+    "SRC_CNAME": "無患子"
+  },
+  {
     "CROP_UID": "00609155004000050",
     "CNAME": "洛神進口",
     "ALIAS_CNAME": "",
@@ -3285,6 +3321,15 @@
     "SRC_CNAME": "契作茶"
   },
   {
+    "CROP_UID": "00608182013000000",
+    "CNAME": "七葉蘭",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "FFR",
+    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
+    "SRC_ID": "9B2",
+    "SRC_CNAME": "七葉蘭(香蘭)"
+  },
+  {
     "CROP_UID": "00608179010000000",
     "CNAME": "香草",
     "ALIAS_CNAME": "",
@@ -3310,6 +3355,15 @@
     "SRC_NAME": "溯源農糧產品追溯系統",
     "SRC_ID": "002001066",
     "SRC_CNAME": "芳香萬壽菊"
+  },
+  {
+    "CROP_UID": "00608077014000000",
+    "CNAME": "迷迭香",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "FFR",
+    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
+    "SRC_ID": "9AI",
+    "SRC_CNAME": "迷迭香"
   },
   {
     "CROP_UID": "00608077002000000",
@@ -3391,6 +3445,15 @@
     "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
     "SRC_ID": "312",
     "SRC_CNAME": "紫蘇"
+  },
+  {
+    "CROP_UID": "00608072012000000",
+    "CNAME": "胡椒",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "FFR",
+    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
+    "SRC_ID": "358",
+    "SRC_CNAME": "胡椒"
   },
   {
     "CROP_UID": "00608030005000000",
@@ -3618,60 +3681,6 @@
     "SRC_CNAME": "薯茛"
   },
   {
-    "CROP_UID": "00606166006000000",
-    "CNAME": "薑黃",
-    "ALIAS_CNAME": "",
-    "SRC_SYS_ID": "PQR",
-    "SRC_NAME": "溯源農糧產品追溯系統",
-    "SRC_ID": "002004065",
-    "SRC_CNAME": "薑黃"
-  },
-  {
-    "CROP_UID": "00606166006000000",
-    "CNAME": "薑黃",
-    "ALIAS_CNAME": "",
-    "SRC_SYS_ID": "PMG",
-    "SRC_NAME": "農業產銷班組織體系資料服務系統",
-    "SRC_ID": "490",
-    "SRC_CNAME": "薑黃"
-  },
-  {
-    "CROP_UID": "00606166006000000",
-    "CNAME": "薑黃",
-    "ALIAS_CNAME": "",
-    "SRC_SYS_ID": "MAM",
-    "SRC_NAME": "農產品批發市場交易行情站",
-    "SRC_ID": "SP5",
-    "SRC_CNAME": "薑薑黃"
-  },
-  {
-    "CROP_UID": "00606166006000000",
-    "CNAME": "薑黃",
-    "ALIAS_CNAME": "",
-    "SRC_SYS_ID": "FFR",
-    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
-    "SRC_ID": "830",
-    "SRC_CNAME": "薑黃"
-  },
-  {
-    "CROP_UID": "00606166006000000",
-    "CNAME": "薑黃",
-    "ALIAS_CNAME": "",
-    "SRC_SYS_ID": "FFR",
-    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
-    "SRC_ID": "4BJ",
-    "SRC_CNAME": "薑黃(契作)"
-  },
-  {
-    "CROP_UID": "00606166006000000",
-    "CNAME": "薑黃",
-    "ALIAS_CNAME": "",
-    "SRC_SYS_ID": "FFR",
-    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
-    "SRC_ID": "4AY",
-    "SRC_CNAME": "薑黃"
-  },
-  {
     "CROP_UID": "00606161005000000",
     "CNAME": "大菁",
     "ALIAS_CNAME": "",
@@ -3852,6 +3861,15 @@
     "SRC_CNAME": "苧麻"
   },
   {
+    "CROP_UID": "00605106009000000",
+    "CNAME": "黃藤",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "FFR",
+    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
+    "SRC_ID": "355",
+    "SRC_CNAME": "黃藤"
+  },
+  {
     "CROP_UID": "00605097006000000",
     "CNAME": "圓藺草",
     "ALIAS_CNAME": "",
@@ -3994,6 +4012,15 @@
     "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
     "SRC_ID": "327",
     "SRC_CNAME": "亞麻"
+  },
+  {
+    "CROP_UID": "00605039010000000",
+    "CNAME": "牛角瓜",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "FFR",
+    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
+    "SRC_ID": "363",
+    "SRC_CNAME": "牛角瓜"
   },
   {
     "CROP_UID": "00605030001000000",
@@ -4644,6 +4671,24 @@
     "SRC_CNAME": "契作油茶(第7期)"
   },
   {
+    "CROP_UID": "00602006006000000",
+    "CNAME": "蓖麻",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "FFR",
+    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
+    "SRC_ID": "842",
+    "SRC_CNAME": "蓖麻"
+  },
+  {
+    "CROP_UID": "00602006005000000",
+    "CNAME": "印加果",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "FFR",
+    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
+    "SRC_ID": "69C",
+    "SRC_CNAME": "印加果"
+  },
+  {
     "CROP_UID": "00602000999000000",
     "CNAME": "其他油料作物",
     "ALIAS_CNAME": "",
@@ -4669,6 +4714,33 @@
     "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
     "SRC_ID": "304",
     "SRC_CNAME": "油菜子"
+  },
+  {
+    "CROP_UID": "00601179070000000",
+    "CNAME": "台灣白及",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "FFR",
+    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
+    "SRC_ID": "843",
+    "SRC_CNAME": "台灣白及(白芨)"
+  },
+  {
+    "CROP_UID": "00601179067000000",
+    "CNAME": "貓鬚草",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "FFR",
+    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
+    "SRC_ID": "837",
+    "SRC_CNAME": "化石草(貓鬚草)"
+  },
+  {
+    "CROP_UID": "00601179066000000",
+    "CNAME": "天麻",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "FFR",
+    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
+    "SRC_ID": "836",
+    "SRC_CNAME": "天麻"
   },
   {
     "CROP_UID": "00601179039000000",
@@ -4714,15 +4786,6 @@
     "SRC_NAME": "溯源農糧產品追溯系統",
     "SRC_ID": "002001073",
     "SRC_CNAME": "小葉藜"
-  },
-  {
-    "CROP_UID": "00601171017000000",
-    "CNAME": "杜虹花",
-    "ALIAS_CNAME": "",
-    "SRC_SYS_ID": "FFR",
-    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
-    "SRC_ID": "9AN",
-    "SRC_CNAME": "紫珠"
   },
   {
     "CROP_UID": "00601170020000000",
@@ -4822,6 +4885,60 @@
     "SRC_NAME": "溯源農糧產品追溯系統",
     "SRC_ID": "005001043",
     "SRC_CNAME": "白薯莨"
+  },
+  {
+    "CROP_UID": "00601166072000000",
+    "CNAME": "薑黃",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "PQR",
+    "SRC_NAME": "溯源農糧產品追溯系統",
+    "SRC_ID": "002004065",
+    "SRC_CNAME": "薑黃"
+  },
+  {
+    "CROP_UID": "00601166072000000",
+    "CNAME": "薑黃",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "PMG",
+    "SRC_NAME": "農業產銷班組織體系資料服務系統",
+    "SRC_ID": "490",
+    "SRC_CNAME": "薑黃"
+  },
+  {
+    "CROP_UID": "00601166072000000",
+    "CNAME": "薑黃",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "MAM",
+    "SRC_NAME": "農產品批發市場交易行情站",
+    "SRC_ID": "SP5",
+    "SRC_CNAME": "薑薑黃"
+  },
+  {
+    "CROP_UID": "00601166072000000",
+    "CNAME": "薑黃",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "FFR",
+    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
+    "SRC_ID": "830",
+    "SRC_CNAME": "薑黃"
+  },
+  {
+    "CROP_UID": "00601166072000000",
+    "CNAME": "薑黃",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "FFR",
+    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
+    "SRC_ID": "4BJ",
+    "SRC_CNAME": "薑黃(契作)"
+  },
+  {
+    "CROP_UID": "00601166072000000",
+    "CNAME": "薑黃",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "FFR",
+    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
+    "SRC_ID": "4AY",
+    "SRC_CNAME": "薑黃"
   },
   {
     "CROP_UID": "00601166047000000",
@@ -5157,6 +5274,24 @@
     "SRC_CNAME": "香椿"
   },
   {
+    "CROP_UID": "00601118071000000",
+    "CNAME": "黃花蜜菜",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "FFR",
+    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
+    "SRC_ID": "9AM",
+    "SRC_CNAME": "黃花蜜菜"
+  },
+  {
+    "CROP_UID": "00601118069000000",
+    "CNAME": "雞鵤刺",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "FFR",
+    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
+    "SRC_ID": "839",
+    "SRC_CNAME": "雞鵤刺"
+  },
+  {
     "CROP_UID": "00601118017000000",
     "CNAME": "艾草",
     "ALIAS_CNAME": "",
@@ -5346,6 +5481,15 @@
     "SRC_CNAME": "法國綠莧"
   },
   {
+    "CROP_UID": "00601088061000000",
+    "CNAME": "杜虹花",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "FFR",
+    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
+    "SRC_ID": "9AN",
+    "SRC_CNAME": "紫珠"
+  },
+  {
     "CROP_UID": "00601085060000000",
     "CNAME": "百花蛇舌草",
     "ALIAS_CNAME": "",
@@ -5452,6 +5596,24 @@
     "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
     "SRC_ID": "354",
     "SRC_CNAME": "羊奶頭(天仙果)"
+  },
+  {
+    "CROP_UID": "00601079062000000",
+    "CNAME": "澳洲茶樹",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "FFR",
+    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
+    "SRC_ID": "353",
+    "SRC_CNAME": "澳洲茶樹"
+  },
+  {
+    "CROP_UID": "00601077065000000",
+    "CNAME": "到手香",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "FFR",
+    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
+    "SRC_ID": "364",
+    "SRC_CNAME": "到手香(左手香)"
   },
   {
     "CROP_UID": "00601077007000000",
@@ -5598,6 +5760,15 @@
     "SRC_CNAME": "草石蠶"
   },
   {
+    "CROP_UID": "00601075064000000",
+    "CNAME": "黃水茄",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "FFR",
+    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
+    "SRC_ID": "360",
+    "SRC_CNAME": "黃水茄"
+  },
+  {
     "CROP_UID": "00601075029000000",
     "CNAME": "枸杞",
     "ALIAS_CNAME": "",
@@ -5632,6 +5803,24 @@
     "SRC_NAME": "溯源農糧產品追溯系統",
     "SRC_ID": "005001005",
     "SRC_CNAME": "桑黃"
+  },
+  {
+    "CROP_UID": "00601044068000000",
+    "CNAME": "小槐花",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "FFR",
+    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
+    "SRC_ID": "838",
+    "SRC_CNAME": "小槐花(抹草)"
+  },
+  {
+    "CROP_UID": "00601044063000000",
+    "CNAME": "決明",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "FFR",
+    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
+    "SRC_ID": "357",
+    "SRC_CNAME": "決明"
   },
   {
     "CROP_UID": "00601044022000000",
@@ -6352,6 +6541,33 @@
     "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
     "SRC_ID": "4AL",
     "SRC_CNAME": "臺灣紅蔾"
+  },
+  {
+    "CROP_UID": "00502030010000000",
+    "CNAME": "油芒",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "FFR",
+    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
+    "SRC_ID": "032",
+    "SRC_CNAME": "油芒"
+  },
+  {
+    "CROP_UID": "00502030009000000",
+    "CNAME": "黍",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "PFB",
+    "SRC_NAME": "農產業天然災害現金救助系統",
+    "SRC_ID": "007",
+    "SRC_CNAME": "黍"
+  },
+  {
+    "CROP_UID": "00502030009000000",
+    "CNAME": "黍",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "FFR",
+    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
+    "SRC_ID": "007",
+    "SRC_CNAME": "黍"
   },
   {
     "CROP_UID": "00502030008100000",
@@ -7218,6 +7434,15 @@
     "SRC_CNAME": "穀類"
   },
   {
+    "CROP_UID": "00501044007000000",
+    "CNAME": "鷹嘴豆",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "FFR",
+    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
+    "SRC_ID": "134",
+    "SRC_CNAME": "鷹嘴豆(雪蓮子)"
+  },
+  {
     "CROP_UID": "00501044006000000",
     "CNAME": "樹豆",
     "ALIAS_CNAME": "",
@@ -7923,10 +8148,82 @@
     "CROP_UID": "00405000000000000",
     "CNAME": "其他花卉類",
     "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "PFB",
+    "SRC_NAME": "農產業天然災害現金救助系統",
+    "SRC_ID": "940",
+    "SRC_CNAME": "其他長期切花"
+  },
+  {
+    "CROP_UID": "00405000000000000",
+    "CNAME": "其他花卉類",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "PFB",
+    "SRC_NAME": "農產業天然災害現金救助系統",
+    "SRC_ID": "922",
+    "SRC_CNAME": "種籽類"
+  },
+  {
+    "CROP_UID": "00405000000000000",
+    "CNAME": "其他花卉類",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "PFB",
+    "SRC_NAME": "農產業天然災害現金救助系統",
+    "SRC_ID": "921",
+    "SRC_CNAME": "球根類"
+  },
+  {
+    "CROP_UID": "00405000000000000",
+    "CNAME": "其他花卉類",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "PFB",
+    "SRC_NAME": "農產業天然災害現金救助系統",
+    "SRC_ID": "920",
+    "SRC_CNAME": "其他短期切花"
+  },
+  {
+    "CROP_UID": "00405000000000000",
+    "CNAME": "其他花卉類",
+    "ALIAS_CNAME": "",
     "SRC_SYS_ID": "PAR",
     "SRC_NAME": "農糧情調查作業資訊系統",
     "SRC_ID": "418",
     "SRC_CNAME": "其他花卉"
+  },
+  {
+    "CROP_UID": "00405000000000000",
+    "CNAME": "其他花卉類",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "FFR",
+    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
+    "SRC_ID": "940",
+    "SRC_CNAME": "其他長期切花"
+  },
+  {
+    "CROP_UID": "00405000000000000",
+    "CNAME": "其他花卉類",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "FFR",
+    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
+    "SRC_ID": "922",
+    "SRC_CNAME": "種籽類"
+  },
+  {
+    "CROP_UID": "00405000000000000",
+    "CNAME": "其他花卉類",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "FFR",
+    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
+    "SRC_ID": "921",
+    "SRC_CNAME": "球根類"
+  },
+  {
+    "CROP_UID": "00405000000000000",
+    "CNAME": "其他花卉類",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "FFR",
+    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
+    "SRC_ID": "920",
+    "SRC_CNAME": "其他短期切花"
   },
   {
     "CROP_UID": "00404171088000053",
@@ -9169,6 +9466,24 @@
     "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
     "SRC_ID": "362",
     "SRC_CNAME": "菖蒲"
+  },
+  {
+    "CROP_UID": "00404118106000000",
+    "CNAME": "菊花",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "PFB",
+    "SRC_NAME": "農產業天然災害現金救助系統",
+    "SRC_ID": "901",
+    "SRC_CNAME": "菊花"
+  },
+  {
+    "CROP_UID": "00404118106000000",
+    "CNAME": "菊花",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "FFR",
+    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
+    "SRC_ID": "901",
+    "SRC_CNAME": "菊花"
   },
   {
     "CROP_UID": "00404118050000000",
@@ -21519,6 +21834,15 @@
     "SRC_CNAME": "連翹"
   },
   {
+    "CROP_UID": "00403016051000000",
+    "CNAME": "馬拉巴栗",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "FFR",
+    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
+    "SRC_ID": "242",
+    "SRC_CNAME": "馬拉巴栗"
+  },
+  {
     "CROP_UID": "00403013010000000",
     "CNAME": "五彩千年木",
     "ALIAS_CNAME": "",
@@ -26118,6 +26442,15 @@
     "SRC_CNAME": "荔枝"
   },
   {
+    "CROP_UID": "00304053018000000",
+    "CNAME": "白柿",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "FFR",
+    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
+    "SRC_ID": "680",
+    "SRC_CNAME": "白柿"
+  },
+  {
     "CROP_UID": "00304006005000000",
     "CNAME": "油柑",
     "ALIAS_CNAME": "",
@@ -27783,6 +28116,15 @@
     "SRC_CNAME": "葡萄                "
   },
   {
+    "CROP_UID": "00302127035000000",
+    "CNAME": "龍貢",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "FFR",
+    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
+    "SRC_ID": "684",
+    "SRC_CNAME": "龍貢果(蘭撒果)"
+  },
+  {
     "CROP_UID": "00302126023000000",
     "CNAME": "楊梅",
     "ALIAS_CNAME": "",
@@ -28575,6 +28917,15 @@
     "SRC_CNAME": "無花果"
   },
   {
+    "CROP_UID": "00302079034000000",
+    "CNAME": "巴西櫻桃",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "FFR",
+    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
+    "SRC_ID": "681",
+    "SRC_CNAME": "巴西櫻桃"
+  },
+  {
     "CROP_UID": "00302079007000000",
     "CNAME": "嘉寶果",
     "ALIAS_CNAME": "",
@@ -28978,6 +29329,15 @@
     "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
     "SRC_ID": "623",
     "SRC_CNAME": "番石榴"
+  },
+  {
+    "CROP_UID": "00302075033000000",
+    "CNAME": "酸漿果",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "FFR",
+    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
+    "SRC_ID": "4BX",
+    "SRC_CNAME": "酸漿(燈籠果)"
   },
   {
     "CROP_UID": "00302064016999900",
@@ -29709,6 +30069,15 @@
     "SRC_CNAME": "火龍果  白肉"
   },
   {
+    "CROP_UID": "00302011033000000",
+    "CNAME": "金星果",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "FFR",
+    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
+    "SRC_ID": "672",
+    "SRC_CNAME": "牛奶果"
+  },
+  {
     "CROP_UID": "00302011028000000",
     "CNAME": "人心果",
     "ALIAS_CNAME": "",
@@ -29833,6 +30202,15 @@
     "SRC_NAME": "農產品批發市場交易行情站",
     "SRC_ID": "G1",
     "SRC_CNAME": "蛋黃果  (仙桃)"
+  },
+  {
+    "CROP_UID": "00302006035000000",
+    "CNAME": "西印度醋栗",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "FFR",
+    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
+    "SRC_ID": "682",
+    "SRC_CNAME": "西印度醋栗"
   },
   {
     "CROP_UID": "00302000000000000",
@@ -30481,6 +30859,15 @@
     "SRC_NAME": "農糧產品產銷供應鏈整合服務平台",
     "SRC_ID": "E",
     "SRC_CNAME": "甜橙"
+  },
+  {
+    "CROP_UID": "00301053003001700",
+    "CNAME": "寬皮柑-珍珠柑",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "FFR",
+    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
+    "SRC_ID": "677",
+    "SRC_CNAME": "珍珠柑"
   },
   {
     "CROP_UID": "00301053003001500",
@@ -31779,6 +32166,15 @@
     "SRC_CNAME": "海菜"
   },
   {
+    "CROP_UID": "00299098005000000",
+    "CNAME": "鹽角草",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "FFR",
+    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
+    "SRC_ID": "4BW",
+    "SRC_CNAME": "海蓬子"
+  },
+  {
     "CROP_UID": "00299084001000000",
     "CNAME": "海帶",
     "ALIAS_CNAME": "",
@@ -31833,6 +32229,24 @@
     "SRC_CNAME": "其他長期蔬菜"
   },
   {
+    "CROP_UID": "00299000997000000",
+    "CNAME": "其他短期蔬菜",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "PFB",
+    "SRC_NAME": "農產業天然災害現金救助系統",
+    "SRC_ID": "470",
+    "SRC_CNAME": "其他短期葉菜"
+  },
+  {
+    "CROP_UID": "00299000997000000",
+    "CNAME": "其他短期蔬菜",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "FFR",
+    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
+    "SRC_ID": "4BE",
+    "SRC_CNAME": "短期葉菜類"
+  },
+  {
     "CROP_UID": "00299000996000000",
     "CNAME": "採種用蔬菜",
     "ALIAS_CNAME": "",
@@ -31849,6 +32263,42 @@
     "SRC_NAME": "農糧情調查作業資訊系統",
     "SRC_ID": "57",
     "SRC_CNAME": "採種用蔬菜"
+  },
+  {
+    "CROP_UID": "00299000996000000",
+    "CNAME": "採種用蔬菜",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "FFR",
+    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
+    "SRC_ID": "9B0",
+    "SRC_CNAME": "契作採種蔬菜(花椰)"
+  },
+  {
+    "CROP_UID": "00299000996000000",
+    "CNAME": "採種用蔬菜",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "FFR",
+    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
+    "SRC_ID": "9AZ",
+    "SRC_CNAME": "契作採種蔬菜(青花)"
+  },
+  {
+    "CROP_UID": "00299000996000000",
+    "CNAME": "採種用蔬菜",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "FFR",
+    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
+    "SRC_ID": "9AY",
+    "SRC_CNAME": "契作採種蔬菜(西瓜)"
+  },
+  {
+    "CROP_UID": "00299000996000000",
+    "CNAME": "採種用蔬菜",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "FFR",
+    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
+    "SRC_ID": "4BG",
+    "SRC_CNAME": "契作採種用蔬菜(非戰略品項)"
   },
   {
     "CROP_UID": "00299000996000000",
@@ -34648,6 +35098,15 @@
     "SRC_NAME": "農產品批發市場交易行情站",
     "SRC_ID": "FK94",
     "SRC_CNAME": "甜椒進口 彩色種"
+  },
+  {
+    "CROP_UID": "00208075001000200",
+    "CNAME": "甜椒-彩色種甜椒",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "SAP",
+    "SRC_NAME": "農產品產地價格查詢系統",
+    "SRC_ID": "26110",
+    "SRC_CNAME": "甜椒(彩椒)"
   },
   {
     "CROP_UID": "00208075001000200",
@@ -38950,6 +39409,15 @@
     "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
     "SRC_ID": "420",
     "SRC_CNAME": "豆薯"
+  },
+  {
+    "CROP_UID": "00204036011000000",
+    "CNAME": "幾內亞竹芋",
+    "ALIAS_CNAME": "",
+    "SRC_SYS_ID": "FFR",
+    "SRC_NAME": "全國糧政跨區即時申辦服務作業平台",
+    "SRC_ID": "4BV",
+    "SRC_CNAME": "幾內亞竹芋"
   },
   {
     "CROP_UID": "00204002003000000",
