@@ -1,770 +1,8 @@
 {
   "version": 1,
-  "updatedAt": "2026-11-25T23:05:00.394Z",
+  "updatedAt": "2026-11-26T09:30:21.451Z",
   "total": 2142,
   "records": [
-    {
-      "official_code": "00202029006000000",
-      "source_system": "MAM",
-      "source_crop_code": "SD1",
-      "source_crop_name": "洋蔥    本產"
-    },
-    {
-      "official_code": "00202029005000000",
-      "source_system": "MAM",
-      "source_crop_code": "SG4",
-      "source_crop_name": "大蒜    蔥蒜"
-    },
-    {
-      "official_code": "00202029004000000",
-      "source_system": "MAM",
-      "source_crop_code": "SE5",
-      "source_crop_name": "青蔥    紅蔥頭"
-    },
-    {
-      "official_code": "00202029004000000",
-      "source_system": "MAM",
-      "source_crop_code": "SE4",
-      "source_crop_name": "青蔥    珠蔥"
-    },
-    {
-      "official_code": "00202029003000400",
-      "source_system": "MAM",
-      "source_crop_code": "SE6",
-      "source_crop_name": "青蔥    粉蔥"
-    },
-    {
-      "official_code": "00202029003000300",
-      "source_system": "MAM",
-      "source_crop_code": "SE3",
-      "source_crop_name": "青蔥    大蔥"
-    },
-    {
-      "official_code": "00202029003000200",
-      "source_system": "MAM",
-      "source_crop_code": "SE2",
-      "source_crop_name": "青蔥    北蔥"
-    },
-    {
-      "official_code": "00202029003000100",
-      "source_system": "MAM",
-      "source_crop_code": "SE1",
-      "source_crop_name": "青蔥    日蔥"
-    },
-    {
-      "official_code": "00202029003000050",
-      "source_system": "MAM",
-      "source_crop_code": "SE9",
-      "source_crop_name": "青蔥    進口"
-    },
-    {
-      "official_code": "00202029002000200",
-      "source_system": "MAM",
-      "source_crop_code": "SG7",
-      "source_crop_name": "大蒜    蒜瓣"
-    },
-    {
-      "official_code": "00202029002000100",
-      "source_system": "MAM",
-      "source_crop_code": "SG6",
-      "source_crop_name": "大蒜    蒜仁"
-    },
-    {
-      "official_code": "00202029002000000",
-      "source_system": "MAM",
-      "source_crop_code": "SG5",
-      "source_crop_name": "大蒜    蒜頭"
-    },
-    {
-      "official_code": "00202029001000300",
-      "source_system": "MAM",
-      "source_crop_code": "SG3",
-      "source_crop_name": "大蒜    蒜苔"
-    },
-    {
-      "official_code": "00202029001000200",
-      "source_system": "MAM",
-      "source_crop_code": "SG2",
-      "source_crop_name": "大蒜    軟梗"
-    },
-    {
-      "official_code": "00202029001000100",
-      "source_system": "MAM",
-      "source_crop_code": "SG1",
-      "source_crop_name": "大蒜    硬梗"
-    },
-    {
-      "official_code": "00202029001000050",
-      "source_system": "MAM",
-      "source_crop_code": "SG9",
-      "source_crop_name": "大蒜    進口"
-    },
-    {
-      "official_code": "00201181052000000",
-      "source_system": "MAM",
-      "source_crop_code": "LX2",
-      "source_crop_name": "蕨菜    山蘇"
-    },
-    {
-      "official_code": "00201170035000050",
-      "source_system": "MAM",
-      "source_crop_code": "LV9",
-      "source_crop_name": "巴西利  進口"
-    },
-    {
-      "official_code": "00201170035000000",
-      "source_system": "MAM",
-      "source_crop_code": "LV1",
-      "source_crop_name": "巴西利"
-    },
-    {
-      "official_code": "00201170033000000",
-      "source_system": "MAM",
-      "source_crop_code": "LS1",
-      "source_crop_name": "茴香"
-    },
-    {
-      "official_code": "00201170031000050",
-      "source_system": "MAM",
-      "source_crop_code": "LP9",
-      "source_crop_name": "芫荽    進口"
-    },
-    {
-      "official_code": "00201170031000000",
-      "source_system": "MAM",
-      "source_crop_code": "LP1",
-      "source_crop_name": "芫荽"
-    },
-    {
-      "official_code": "00201170030000400",
-      "source_system": "MAM",
-      "source_crop_code": "LG3",
-      "source_crop_name": "芹菜    西洋芹菜"
-    },
-    {
-      "official_code": "00201170030000300",
-      "source_system": "MAM",
-      "source_crop_code": "LG4",
-      "source_crop_name": "芹菜    山芹菜"
-    },
-    {
-      "official_code": "00201170030000200",
-      "source_system": "MAM",
-      "source_crop_code": "LG2",
-      "source_crop_name": "芹菜    白梗"
-    },
-    {
-      "official_code": "00201170030000100",
-      "source_system": "MAM",
-      "source_crop_code": "LG5",
-      "source_crop_name": "芹菜    芹菜管"
-    },
-    {
-      "official_code": "00201170030000100",
-      "source_system": "MAM",
-      "source_crop_code": "LG1",
-      "source_crop_name": "芹菜    青梗"
-    },
-    {
-      "official_code": "00201170030000050",
-      "source_system": "MAM",
-      "source_crop_code": "LG9",
-      "source_crop_name": "芹菜    進口"
-    },
-    {
-      "official_code": "00201170030000000",
-      "source_system": "MAM",
-      "source_crop_code": "LG8",
-      "source_crop_name": "芹菜    水耕"
-    },
-    {
-      "official_code": "00201154053000000",
-      "source_system": "MAM",
-      "source_crop_code": "LX1",
-      "source_crop_name": "蕨菜    過貓"
-    },
-    {
-      "official_code": "00201132051000000",
-      "source_system": "MAM",
-      "source_crop_code": "LT1",
-      "source_crop_name": "海菜    龍鬚菜"
-    },
-    {
-      "official_code": "00201129041000000",
-      "source_system": "MAM",
-      "source_crop_code": "LZ2",
-      "source_crop_name": "藤川七  川七葉"
-    },
-    {
-      "official_code": "00201129040000200",
-      "source_system": "MAM",
-      "source_crop_code": "LE2",
-      "source_crop_name": "皇宮菜  大葉"
-    },
-    {
-      "official_code": "00201129040000100",
-      "source_system": "MAM",
-      "source_crop_code": "LE1",
-      "source_crop_name": "皇宮菜  小葉"
-    },
-    {
-      "official_code": "00201118028000000",
-      "source_system": "MAM",
-      "source_crop_code": "LQ2",
-      "source_crop_name": "紅鳳菜  白鳳菜"
-    },
-    {
-      "official_code": "00201118027000000",
-      "source_system": "MAM",
-      "source_crop_code": "LQ1",
-      "source_crop_name": "紅鳳菜  紅鳳菜"
-    },
-    {
-      "official_code": "00201118026000000",
-      "source_system": "MAM",
-      "source_crop_code": "LL8",
-      "source_crop_name": "茼蒿    水耕"
-    },
-    {
-      "official_code": "00201118026000000",
-      "source_system": "MAM",
-      "source_crop_code": "LL1",
-      "source_crop_name": "茼蒿"
-    },
-    {
-      "official_code": "00201118026000000",
-      "source_system": "MAM",
-      "source_crop_code": "LL0",
-      "source_crop_name": "茼蒿    其他"
-    },
-    {
-      "official_code": "00201118021000000",
-      "source_system": "MAM",
-      "source_crop_code": "LY5",
-      "source_crop_name": "珍珠菜"
-    },
-    {
-      "official_code": "00201118020999950",
-      "source_system": "MAM",
-      "source_crop_code": "LI90",
-      "source_crop_name": "萵苣菜進口 其他"
-    },
-    {
-      "official_code": "00201118020999900",
-      "source_system": "MAM",
-      "source_crop_code": "LI0",
-      "source_crop_name": "萵苣菜  其他"
-    },
-    {
-      "official_code": "00201118020000900",
-      "source_system": "MAM",
-      "source_crop_code": "LI72",
-      "source_crop_name": "萵苣菜綠捲"
-    },
-    {
-      "official_code": "00201118020000900",
-      "source_system": "MAM",
-      "source_crop_code": "LI71",
-      "source_crop_name": "萵苣菜紅捲"
-    },
-    {
-      "official_code": "00201118020000900",
-      "source_system": "MAM",
-      "source_crop_code": "LI7",
-      "source_crop_name": "萵苣菜紅捲綠捲"
-    },
-    {
-      "official_code": "00201118020000850",
-      "source_system": "MAM",
-      "source_crop_code": "LI95",
-      "source_crop_name": "萵苣菜進口 油麥菜"
-    },
-    {
-      "official_code": "00201118020000800",
-      "source_system": "MAM",
-      "source_crop_code": "LI5",
-      "source_crop_name": "萵苣菜  油麥菜"
-    },
-    {
-      "official_code": "00201118020000750",
-      "source_system": "MAM",
-      "source_crop_code": "LI94",
-      "source_crop_name": "萵苣菜進口 本島尖"
-    },
-    {
-      "official_code": "00201118020000700",
-      "source_system": "MAM",
-      "source_crop_code": "LI4",
-      "source_crop_name": "萵苣菜  本島尖葉"
-    },
-    {
-      "official_code": "00201118020000650",
-      "source_system": "MAM",
-      "source_crop_code": "LI93",
-      "source_crop_name": "萵苣菜進口 本島圓"
-    },
-    {
-      "official_code": "00201118020000600",
-      "source_system": "MAM",
-      "source_crop_code": "LI3",
-      "source_crop_name": "萵苣菜  本島圓葉"
-    },
-    {
-      "official_code": "00201118020000550",
-      "source_system": "MAM",
-      "source_crop_code": "LI91",
-      "source_crop_name": "萵苣菜進口 廣東萵"
-    },
-    {
-      "official_code": "00201118020000500",
-      "source_system": "MAM",
-      "source_crop_code": "LI1",
-      "source_crop_name": "萵苣菜  廣東菜"
-    },
-    {
-      "official_code": "00201118020000350",
-      "source_system": "MAM",
-      "source_crop_code": "LI96",
-      "source_crop_name": "萵苣菜進口 蘿美"
-    },
-    {
-      "official_code": "00201118020000300",
-      "source_system": "MAM",
-      "source_crop_code": "LI6",
-      "source_crop_name": "萵苣菜  蘿美"
-    },
-    {
-      "official_code": "00201118020000150",
-      "source_system": "MAM",
-      "source_crop_code": "LI92",
-      "source_crop_name": "萵苣菜進口 結球萵"
-    },
-    {
-      "official_code": "00201118020000100",
-      "source_system": "MAM",
-      "source_crop_code": "LI2",
-      "source_crop_name": "萵苣菜  結球萵"
-    },
-    {
-      "official_code": "00201118020000050",
-      "source_system": "MAM",
-      "source_crop_code": "LI9",
-      "source_crop_name": "萵苣菜  進口"
-    },
-    {
-      "official_code": "00201118020000000",
-      "source_system": "MAM",
-      "source_crop_code": "LI8",
-      "source_crop_name": "萵苣菜水耕"
-    },
-    {
-      "official_code": "00201098038000000",
-      "source_system": "MAM",
-      "source_crop_code": "LU1",
-      "source_crop_name": "菾菜    茄茉菜"
-    },
-    {
-      "official_code": "00201098037000200",
-      "source_system": "MAM",
-      "source_crop_code": "LH2",
-      "source_crop_name": "菠菜    角葉"
-    },
-    {
-      "official_code": "00201098037000100",
-      "source_system": "MAM",
-      "source_crop_code": "LH1",
-      "source_crop_name": "菠菜    圓葉"
-    },
-    {
-      "official_code": "00201098037000050",
-      "source_system": "MAM",
-      "source_crop_code": "LH9",
-      "source_crop_name": "菠菜    進口"
-    },
-    {
-      "official_code": "00201098036000200",
-      "source_system": "MAM",
-      "source_crop_code": "LM2",
-      "source_crop_name": "莧菜    白莧菜"
-    },
-    {
-      "official_code": "00201098036000150",
-      "source_system": "MAM",
-      "source_crop_code": "IY055",
-      "source_crop_name": "進口紅莧菜"
-    },
-    {
-      "official_code": "00201098036000100",
-      "source_system": "MAM",
-      "source_crop_code": "LM1",
-      "source_crop_name": "莧菜    紅莧菜"
-    },
-    {
-      "official_code": "00201098036000100",
-      "source_system": "MAM",
-      "source_crop_code": "FY055",
-      "source_crop_name": "紅莧菜"
-    },
-    {
-      "official_code": "00201098036000000",
-      "source_system": "MAM",
-      "source_crop_code": "LM8",
-      "source_crop_name": "莧菜    水耕"
-    },
-    {
-      "official_code": "00201092043000000",
-      "source_system": "MAM",
-      "source_crop_code": "LO1",
-      "source_crop_name": "甘薯葉"
-    },
-    {
-      "official_code": "00201092042999900",
-      "source_system": "MAM",
-      "source_crop_code": "LF0",
-      "source_crop_name": "蕹菜    其他"
-    },
-    {
-      "official_code": "00201092042000400",
-      "source_system": "MAM",
-      "source_crop_code": "LF3",
-      "source_crop_name": "蕹菜    水蕹菜"
-    },
-    {
-      "official_code": "00201092042000200",
-      "source_system": "MAM",
-      "source_crop_code": "LF2",
-      "source_crop_name": "蕹菜    小葉"
-    },
-    {
-      "official_code": "00201092042000100",
-      "source_system": "MAM",
-      "source_crop_code": "LF1",
-      "source_crop_name": "蕹菜    大葉"
-    },
-    {
-      "official_code": "00201092042000000",
-      "source_system": "MAM",
-      "source_crop_code": "LF8",
-      "source_crop_name": "蕹菜    水耕"
-    },
-    {
-      "official_code": "00201087049000000",
-      "source_system": "MAM",
-      "source_crop_code": "LY4",
-      "source_crop_name": "人參葉"
-    },
-    {
-      "official_code": "00201087048000000",
-      "source_system": "MAM",
-      "source_crop_code": "LY3",
-      "source_crop_name": "豬母菜"
-    },
-    {
-      "official_code": "00201077045000000",
-      "source_system": "MAM",
-      "source_crop_code": "LP2",
-      "source_crop_name": "九層塔"
-    },
-    {
-      "official_code": "00201075057000000",
-      "source_system": "MAM",
-      "source_crop_code": "LY2",
-      "source_crop_name": "黑甜仔菜"
-    },
-    {
-      "official_code": "00201029039000400",
-      "source_system": "MAM",
-      "source_crop_code": "SF2",
-      "source_crop_name": "韭菜    韭菜黃"
-    },
-    {
-      "official_code": "00201029039000300",
-      "source_system": "MAM",
-      "source_crop_code": "SF3",
-      "source_crop_name": "韭菜    韭菜花"
-    },
-    {
-      "official_code": "00201029039000200",
-      "source_system": "MAM",
-      "source_crop_code": "SF4",
-      "source_crop_name": "韭菜    青頭"
-    },
-    {
-      "official_code": "00201029039000100",
-      "source_system": "MAM",
-      "source_crop_code": "SF1",
-      "source_crop_name": "韭菜    白頭"
-    },
-    {
-      "official_code": "00201002018000000",
-      "source_system": "MAM",
-      "source_crop_code": "LY1",
-      "source_crop_name": "西洋菜"
-    },
-    {
-      "official_code": "00201002016000000",
-      "source_system": "MAM",
-      "source_crop_code": "LZ1",
-      "source_crop_name": "薺菜"
-    },
-    {
-      "official_code": "00201002008000000",
-      "source_system": "MAM",
-      "source_crop_code": "LR1",
-      "source_crop_name": "塌棵菜"
-    },
-    {
-      "official_code": "00201002007000000",
-      "source_system": "MAM",
-      "source_crop_code": "LN1",
-      "source_crop_name": "油菜"
-    },
-    {
-      "official_code": "00201002006000400",
-      "source_system": "MAM",
-      "source_crop_code": "LD8",
-      "source_crop_name": "青江白菜水耕"
-    },
-    {
-      "official_code": "00201002006000400",
-      "source_system": "MAM",
-      "source_crop_code": "LD2",
-      "source_crop_name": "青江白菜大梗"
-    },
-    {
-      "official_code": "00201002006000400",
-      "source_system": "MAM",
-      "source_crop_code": "LD1",
-      "source_crop_name": "青江白菜小梗"
-    },
-    {
-      "official_code": "00201002006000300",
-      "source_system": "MAM",
-      "source_crop_code": "LB12",
-      "source_crop_name": "小白菜  土白菜"
-    },
-    {
-      "official_code": "00201002006000300",
-      "source_system": "MAM",
-      "source_crop_code": "LB11",
-      "source_crop_name": "小白菜  土白菜"
-    },
-    {
-      "official_code": "00201002006000300",
-      "source_system": "MAM",
-      "source_crop_code": "LB1",
-      "source_crop_name": "小白菜  土白菜"
-    },
-    {
-      "official_code": "00201002006000200",
-      "source_system": "MAM",
-      "source_crop_code": "LB22",
-      "source_crop_name": "小白菜  蚵仔白"
-    },
-    {
-      "official_code": "00201002006000200",
-      "source_system": "MAM",
-      "source_crop_code": "LB21",
-      "source_crop_name": "小白菜  蚵仔白"
-    },
-    {
-      "official_code": "00201002006000200",
-      "source_system": "MAM",
-      "source_crop_code": "LB2",
-      "source_crop_name": "小白菜  蚵仔白"
-    },
-    {
-      "official_code": "00201002006000100",
-      "source_system": "MAM",
-      "source_crop_code": "LB8",
-      "source_crop_name": "小白菜  水耕"
-    },
-    {
-      "official_code": "00201002006000100",
-      "source_system": "MAM",
-      "source_crop_code": "LB0",
-      "source_crop_name": "小白菜  其他"
-    },
-    {
-      "official_code": "00201002005999900",
-      "source_system": "MAM",
-      "source_crop_code": "SS0",
-      "source_crop_name": "大心菜  其他"
-    },
-    {
-      "official_code": "00201002005000600",
-      "source_system": "MAM",
-      "source_crop_code": "SS1",
-      "source_crop_name": "大心菜  帶葉"
-    },
-    {
-      "official_code": "00201002005000500",
-      "source_system": "MAM",
-      "source_crop_code": "LJ5",
-      "source_crop_name": "芥菜    翡翠娃娃菜"
-    },
-    {
-      "official_code": "00201002005000400",
-      "source_system": "MAM",
-      "source_crop_code": "OB1",
-      "source_crop_name": "雪里紅"
-    },
-    {
-      "official_code": "00201002005000300",
-      "source_system": "MAM",
-      "source_crop_code": "LJ4",
-      "source_crop_name": "芥菜    小芥菜"
-    },
-    {
-      "official_code": "00201002005000200",
-      "source_system": "MAM",
-      "source_crop_code": "OL1",
-      "source_crop_name": "朴菜"
-    },
-    {
-      "official_code": "00201002005000200",
-      "source_system": "MAM",
-      "source_crop_code": "LJ3",
-      "source_crop_name": "芥菜    大芥菜"
-    },
-    {
-      "official_code": "00201002005000100",
-      "source_system": "MAM",
-      "source_crop_code": "LJ1",
-      "source_crop_name": "芥菜    芥菜仁"
-    },
-    {
-      "official_code": "00201002005000000",
-      "source_system": "MAM",
-      "source_crop_code": "LJ8",
-      "source_crop_name": "芥菜水耕"
-    },
-    {
-      "official_code": "00201002004999900",
-      "source_system": "MAM",
-      "source_crop_code": "LC0",
-      "source_crop_name": "包心白  其他"
-    },
-    {
-      "official_code": "00201002004000600",
-      "source_system": "MAM",
-      "source_crop_code": "LC7",
-      "source_crop_name": "包心白  大土"
-    },
-    {
-      "official_code": "00201002004000500",
-      "source_system": "MAM",
-      "source_crop_code": "LC6",
-      "source_crop_name": "包心白  冬白芽"
-    },
-    {
-      "official_code": "00201002004000400",
-      "source_system": "MAM",
-      "source_crop_code": "LC5",
-      "source_crop_name": "包心白  天津白"
-    },
-    {
-      "official_code": "00201002004000300",
-      "source_system": "MAM",
-      "source_crop_code": "LC3",
-      "source_crop_name": "包心白  包頭蓮"
-    },
-    {
-      "official_code": "00201002004000200",
-      "source_system": "MAM",
-      "source_crop_code": "LC2",
-      "source_crop_name": "包心白  成功白"
-    },
-    {
-      "official_code": "00201002004000100",
-      "source_system": "MAM",
-      "source_crop_code": "LC1",
-      "source_crop_name": "包心白  包白"
-    },
-    {
-      "official_code": "00201002004000050",
-      "source_system": "MAM",
-      "source_crop_code": "LC9",
-      "source_crop_name": "包心白  進口"
-    },
-    {
-      "official_code": "00201002002999900",
-      "source_system": "MAM",
-      "source_crop_code": "LK0",
-      "source_crop_name": "芥藍菜  其他"
-    },
-    {
-      "official_code": "00201002002000300",
-      "source_system": "MAM",
-      "source_crop_code": "LK1",
-      "source_crop_name": "芥藍菜  蒲公"
-    },
-    {
-      "official_code": "00201002002000050",
-      "source_system": "MAM",
-      "source_crop_code": "LK9",
-      "source_crop_name": "芥藍菜  進口"
-    },
-    {
-      "official_code": "00201002002000000",
-      "source_system": "MAM",
-      "source_crop_code": "LK8",
-      "source_crop_name": "芥藍菜  水耕"
-    },
-    {
-      "official_code": "00201002002000000",
-      "source_system": "MAM",
-      "source_crop_code": "LK2",
-      "source_crop_name": "芥藍菜"
-    },
-    {
-      "official_code": "00201002001999900",
-      "source_system": "MAM",
-      "source_crop_code": "LA3",
-      "source_crop_name": "甘藍    甜甘藍"
-    },
-    {
-      "official_code": "00201002001999900",
-      "source_system": "MAM",
-      "source_crop_code": "LA0",
-      "source_crop_name": "甘藍    其他"
-    },
-    {
-      "official_code": "00201002001000500",
-      "source_system": "MAM",
-      "source_crop_code": "LA7",
-      "source_crop_name": "甘藍 改良尖"
-    },
-    {
-      "official_code": "00201002001000400",
-      "source_system": "MAM",
-      "source_crop_code": "LA5",
-      "source_crop_name": "甘藍    甘藍心"
-    },
-    {
-      "official_code": "00201002001000300",
-      "source_system": "MAM",
-      "source_crop_code": "LA4",
-      "source_crop_name": "甘藍    紫色"
-    },
-    {
-      "official_code": "00201002001000200",
-      "source_system": "MAM",
-      "source_crop_code": "LA2",
-      "source_crop_name": "甘藍    改良種"
-    },
-    {
-      "official_code": "00201002001000100",
-      "source_system": "MAM",
-      "source_crop_code": "LA1",
-      "source_crop_name": "甘藍    初秋"
-    },
-    {
-      "official_code": "00201002001000050",
-      "source_system": "MAM",
-      "source_crop_code": "LA9",
-      "source_crop_name": "甘藍    進口"
-    },
     {
       "official_code": "01003118003000000",
       "source_system": "MAM",
@@ -12854,6 +12092,768 @@
       "source_system": "MAM",
       "source_crop_code": "SD9",
       "source_crop_name": "洋蔥    進口"
+    },
+    {
+      "official_code": "00202029006000000",
+      "source_system": "MAM",
+      "source_crop_code": "SD1",
+      "source_crop_name": "洋蔥    本產"
+    },
+    {
+      "official_code": "00202029005000000",
+      "source_system": "MAM",
+      "source_crop_code": "SG4",
+      "source_crop_name": "大蒜    蔥蒜"
+    },
+    {
+      "official_code": "00202029004000000",
+      "source_system": "MAM",
+      "source_crop_code": "SE5",
+      "source_crop_name": "青蔥    紅蔥頭"
+    },
+    {
+      "official_code": "00202029004000000",
+      "source_system": "MAM",
+      "source_crop_code": "SE4",
+      "source_crop_name": "青蔥    珠蔥"
+    },
+    {
+      "official_code": "00202029003000400",
+      "source_system": "MAM",
+      "source_crop_code": "SE6",
+      "source_crop_name": "青蔥    粉蔥"
+    },
+    {
+      "official_code": "00202029003000300",
+      "source_system": "MAM",
+      "source_crop_code": "SE3",
+      "source_crop_name": "青蔥    大蔥"
+    },
+    {
+      "official_code": "00202029003000200",
+      "source_system": "MAM",
+      "source_crop_code": "SE2",
+      "source_crop_name": "青蔥    北蔥"
+    },
+    {
+      "official_code": "00202029003000100",
+      "source_system": "MAM",
+      "source_crop_code": "SE1",
+      "source_crop_name": "青蔥    日蔥"
+    },
+    {
+      "official_code": "00202029003000050",
+      "source_system": "MAM",
+      "source_crop_code": "SE9",
+      "source_crop_name": "青蔥    進口"
+    },
+    {
+      "official_code": "00202029002000200",
+      "source_system": "MAM",
+      "source_crop_code": "SG7",
+      "source_crop_name": "大蒜    蒜瓣"
+    },
+    {
+      "official_code": "00202029002000100",
+      "source_system": "MAM",
+      "source_crop_code": "SG6",
+      "source_crop_name": "大蒜    蒜仁"
+    },
+    {
+      "official_code": "00202029002000000",
+      "source_system": "MAM",
+      "source_crop_code": "SG5",
+      "source_crop_name": "大蒜    蒜頭"
+    },
+    {
+      "official_code": "00202029001000300",
+      "source_system": "MAM",
+      "source_crop_code": "SG3",
+      "source_crop_name": "大蒜    蒜苔"
+    },
+    {
+      "official_code": "00202029001000200",
+      "source_system": "MAM",
+      "source_crop_code": "SG2",
+      "source_crop_name": "大蒜    軟梗"
+    },
+    {
+      "official_code": "00202029001000100",
+      "source_system": "MAM",
+      "source_crop_code": "SG1",
+      "source_crop_name": "大蒜    硬梗"
+    },
+    {
+      "official_code": "00202029001000050",
+      "source_system": "MAM",
+      "source_crop_code": "SG9",
+      "source_crop_name": "大蒜    進口"
+    },
+    {
+      "official_code": "00201181052000000",
+      "source_system": "MAM",
+      "source_crop_code": "LX2",
+      "source_crop_name": "蕨菜    山蘇"
+    },
+    {
+      "official_code": "00201170035000050",
+      "source_system": "MAM",
+      "source_crop_code": "LV9",
+      "source_crop_name": "巴西利  進口"
+    },
+    {
+      "official_code": "00201170035000000",
+      "source_system": "MAM",
+      "source_crop_code": "LV1",
+      "source_crop_name": "巴西利"
+    },
+    {
+      "official_code": "00201170033000000",
+      "source_system": "MAM",
+      "source_crop_code": "LS1",
+      "source_crop_name": "茴香"
+    },
+    {
+      "official_code": "00201170031000050",
+      "source_system": "MAM",
+      "source_crop_code": "LP9",
+      "source_crop_name": "芫荽    進口"
+    },
+    {
+      "official_code": "00201170031000000",
+      "source_system": "MAM",
+      "source_crop_code": "LP1",
+      "source_crop_name": "芫荽"
+    },
+    {
+      "official_code": "00201170030000400",
+      "source_system": "MAM",
+      "source_crop_code": "LG3",
+      "source_crop_name": "芹菜    西洋芹菜"
+    },
+    {
+      "official_code": "00201170030000300",
+      "source_system": "MAM",
+      "source_crop_code": "LG4",
+      "source_crop_name": "芹菜    山芹菜"
+    },
+    {
+      "official_code": "00201170030000200",
+      "source_system": "MAM",
+      "source_crop_code": "LG2",
+      "source_crop_name": "芹菜    白梗"
+    },
+    {
+      "official_code": "00201170030000100",
+      "source_system": "MAM",
+      "source_crop_code": "LG5",
+      "source_crop_name": "芹菜    芹菜管"
+    },
+    {
+      "official_code": "00201170030000100",
+      "source_system": "MAM",
+      "source_crop_code": "LG1",
+      "source_crop_name": "芹菜    青梗"
+    },
+    {
+      "official_code": "00201170030000050",
+      "source_system": "MAM",
+      "source_crop_code": "LG9",
+      "source_crop_name": "芹菜    進口"
+    },
+    {
+      "official_code": "00201170030000000",
+      "source_system": "MAM",
+      "source_crop_code": "LG8",
+      "source_crop_name": "芹菜    水耕"
+    },
+    {
+      "official_code": "00201154053000000",
+      "source_system": "MAM",
+      "source_crop_code": "LX1",
+      "source_crop_name": "蕨菜    過貓"
+    },
+    {
+      "official_code": "00201132051000000",
+      "source_system": "MAM",
+      "source_crop_code": "LT1",
+      "source_crop_name": "海菜    龍鬚菜"
+    },
+    {
+      "official_code": "00201129041000000",
+      "source_system": "MAM",
+      "source_crop_code": "LZ2",
+      "source_crop_name": "藤川七  川七葉"
+    },
+    {
+      "official_code": "00201129040000200",
+      "source_system": "MAM",
+      "source_crop_code": "LE2",
+      "source_crop_name": "皇宮菜  大葉"
+    },
+    {
+      "official_code": "00201129040000100",
+      "source_system": "MAM",
+      "source_crop_code": "LE1",
+      "source_crop_name": "皇宮菜  小葉"
+    },
+    {
+      "official_code": "00201118028000000",
+      "source_system": "MAM",
+      "source_crop_code": "LQ2",
+      "source_crop_name": "紅鳳菜  白鳳菜"
+    },
+    {
+      "official_code": "00201118027000000",
+      "source_system": "MAM",
+      "source_crop_code": "LQ1",
+      "source_crop_name": "紅鳳菜  紅鳳菜"
+    },
+    {
+      "official_code": "00201118026000000",
+      "source_system": "MAM",
+      "source_crop_code": "LL8",
+      "source_crop_name": "茼蒿    水耕"
+    },
+    {
+      "official_code": "00201118026000000",
+      "source_system": "MAM",
+      "source_crop_code": "LL1",
+      "source_crop_name": "茼蒿"
+    },
+    {
+      "official_code": "00201118026000000",
+      "source_system": "MAM",
+      "source_crop_code": "LL0",
+      "source_crop_name": "茼蒿    其他"
+    },
+    {
+      "official_code": "00201118021000000",
+      "source_system": "MAM",
+      "source_crop_code": "LY5",
+      "source_crop_name": "珍珠菜"
+    },
+    {
+      "official_code": "00201118020999950",
+      "source_system": "MAM",
+      "source_crop_code": "LI90",
+      "source_crop_name": "萵苣菜進口 其他"
+    },
+    {
+      "official_code": "00201118020999900",
+      "source_system": "MAM",
+      "source_crop_code": "LI0",
+      "source_crop_name": "萵苣菜  其他"
+    },
+    {
+      "official_code": "00201118020000900",
+      "source_system": "MAM",
+      "source_crop_code": "LI72",
+      "source_crop_name": "萵苣菜綠捲"
+    },
+    {
+      "official_code": "00201118020000900",
+      "source_system": "MAM",
+      "source_crop_code": "LI71",
+      "source_crop_name": "萵苣菜紅捲"
+    },
+    {
+      "official_code": "00201118020000900",
+      "source_system": "MAM",
+      "source_crop_code": "LI7",
+      "source_crop_name": "萵苣菜紅捲綠捲"
+    },
+    {
+      "official_code": "00201118020000850",
+      "source_system": "MAM",
+      "source_crop_code": "LI95",
+      "source_crop_name": "萵苣菜進口 油麥菜"
+    },
+    {
+      "official_code": "00201118020000800",
+      "source_system": "MAM",
+      "source_crop_code": "LI5",
+      "source_crop_name": "萵苣菜  油麥菜"
+    },
+    {
+      "official_code": "00201118020000750",
+      "source_system": "MAM",
+      "source_crop_code": "LI94",
+      "source_crop_name": "萵苣菜進口 本島尖"
+    },
+    {
+      "official_code": "00201118020000700",
+      "source_system": "MAM",
+      "source_crop_code": "LI4",
+      "source_crop_name": "萵苣菜  本島尖葉"
+    },
+    {
+      "official_code": "00201118020000650",
+      "source_system": "MAM",
+      "source_crop_code": "LI93",
+      "source_crop_name": "萵苣菜進口 本島圓"
+    },
+    {
+      "official_code": "00201118020000600",
+      "source_system": "MAM",
+      "source_crop_code": "LI3",
+      "source_crop_name": "萵苣菜  本島圓葉"
+    },
+    {
+      "official_code": "00201118020000550",
+      "source_system": "MAM",
+      "source_crop_code": "LI91",
+      "source_crop_name": "萵苣菜進口 廣東萵"
+    },
+    {
+      "official_code": "00201118020000500",
+      "source_system": "MAM",
+      "source_crop_code": "LI1",
+      "source_crop_name": "萵苣菜  廣東菜"
+    },
+    {
+      "official_code": "00201118020000350",
+      "source_system": "MAM",
+      "source_crop_code": "LI96",
+      "source_crop_name": "萵苣菜進口 蘿美"
+    },
+    {
+      "official_code": "00201118020000300",
+      "source_system": "MAM",
+      "source_crop_code": "LI6",
+      "source_crop_name": "萵苣菜  蘿美"
+    },
+    {
+      "official_code": "00201118020000150",
+      "source_system": "MAM",
+      "source_crop_code": "LI92",
+      "source_crop_name": "萵苣菜進口 結球萵"
+    },
+    {
+      "official_code": "00201118020000100",
+      "source_system": "MAM",
+      "source_crop_code": "LI2",
+      "source_crop_name": "萵苣菜  結球萵"
+    },
+    {
+      "official_code": "00201118020000050",
+      "source_system": "MAM",
+      "source_crop_code": "LI9",
+      "source_crop_name": "萵苣菜  進口"
+    },
+    {
+      "official_code": "00201118020000000",
+      "source_system": "MAM",
+      "source_crop_code": "LI8",
+      "source_crop_name": "萵苣菜水耕"
+    },
+    {
+      "official_code": "00201098038000000",
+      "source_system": "MAM",
+      "source_crop_code": "LU1",
+      "source_crop_name": "菾菜    茄茉菜"
+    },
+    {
+      "official_code": "00201098037000200",
+      "source_system": "MAM",
+      "source_crop_code": "LH2",
+      "source_crop_name": "菠菜    角葉"
+    },
+    {
+      "official_code": "00201098037000100",
+      "source_system": "MAM",
+      "source_crop_code": "LH1",
+      "source_crop_name": "菠菜    圓葉"
+    },
+    {
+      "official_code": "00201098037000050",
+      "source_system": "MAM",
+      "source_crop_code": "LH9",
+      "source_crop_name": "菠菜    進口"
+    },
+    {
+      "official_code": "00201098036000200",
+      "source_system": "MAM",
+      "source_crop_code": "LM2",
+      "source_crop_name": "莧菜    白莧菜"
+    },
+    {
+      "official_code": "00201098036000150",
+      "source_system": "MAM",
+      "source_crop_code": "IY055",
+      "source_crop_name": "進口紅莧菜"
+    },
+    {
+      "official_code": "00201098036000100",
+      "source_system": "MAM",
+      "source_crop_code": "LM1",
+      "source_crop_name": "莧菜    紅莧菜"
+    },
+    {
+      "official_code": "00201098036000100",
+      "source_system": "MAM",
+      "source_crop_code": "FY055",
+      "source_crop_name": "紅莧菜"
+    },
+    {
+      "official_code": "00201098036000000",
+      "source_system": "MAM",
+      "source_crop_code": "LM8",
+      "source_crop_name": "莧菜    水耕"
+    },
+    {
+      "official_code": "00201092043000000",
+      "source_system": "MAM",
+      "source_crop_code": "LO1",
+      "source_crop_name": "甘薯葉"
+    },
+    {
+      "official_code": "00201092042999900",
+      "source_system": "MAM",
+      "source_crop_code": "LF0",
+      "source_crop_name": "蕹菜    其他"
+    },
+    {
+      "official_code": "00201092042000400",
+      "source_system": "MAM",
+      "source_crop_code": "LF3",
+      "source_crop_name": "蕹菜    水蕹菜"
+    },
+    {
+      "official_code": "00201092042000200",
+      "source_system": "MAM",
+      "source_crop_code": "LF2",
+      "source_crop_name": "蕹菜    小葉"
+    },
+    {
+      "official_code": "00201092042000100",
+      "source_system": "MAM",
+      "source_crop_code": "LF1",
+      "source_crop_name": "蕹菜    大葉"
+    },
+    {
+      "official_code": "00201092042000000",
+      "source_system": "MAM",
+      "source_crop_code": "LF8",
+      "source_crop_name": "蕹菜    水耕"
+    },
+    {
+      "official_code": "00201087049000000",
+      "source_system": "MAM",
+      "source_crop_code": "LY4",
+      "source_crop_name": "人參葉"
+    },
+    {
+      "official_code": "00201087048000000",
+      "source_system": "MAM",
+      "source_crop_code": "LY3",
+      "source_crop_name": "豬母菜"
+    },
+    {
+      "official_code": "00201077045000000",
+      "source_system": "MAM",
+      "source_crop_code": "LP2",
+      "source_crop_name": "九層塔"
+    },
+    {
+      "official_code": "00201075057000000",
+      "source_system": "MAM",
+      "source_crop_code": "LY2",
+      "source_crop_name": "黑甜仔菜"
+    },
+    {
+      "official_code": "00201029039000400",
+      "source_system": "MAM",
+      "source_crop_code": "SF2",
+      "source_crop_name": "韭菜    韭菜黃"
+    },
+    {
+      "official_code": "00201029039000300",
+      "source_system": "MAM",
+      "source_crop_code": "SF3",
+      "source_crop_name": "韭菜    韭菜花"
+    },
+    {
+      "official_code": "00201029039000200",
+      "source_system": "MAM",
+      "source_crop_code": "SF4",
+      "source_crop_name": "韭菜    青頭"
+    },
+    {
+      "official_code": "00201029039000100",
+      "source_system": "MAM",
+      "source_crop_code": "SF1",
+      "source_crop_name": "韭菜    白頭"
+    },
+    {
+      "official_code": "00201002018000000",
+      "source_system": "MAM",
+      "source_crop_code": "LY1",
+      "source_crop_name": "西洋菜"
+    },
+    {
+      "official_code": "00201002016000000",
+      "source_system": "MAM",
+      "source_crop_code": "LZ1",
+      "source_crop_name": "薺菜"
+    },
+    {
+      "official_code": "00201002008000000",
+      "source_system": "MAM",
+      "source_crop_code": "LR1",
+      "source_crop_name": "塌棵菜"
+    },
+    {
+      "official_code": "00201002007000000",
+      "source_system": "MAM",
+      "source_crop_code": "LN1",
+      "source_crop_name": "油菜"
+    },
+    {
+      "official_code": "00201002006000400",
+      "source_system": "MAM",
+      "source_crop_code": "LD8",
+      "source_crop_name": "青江白菜水耕"
+    },
+    {
+      "official_code": "00201002006000400",
+      "source_system": "MAM",
+      "source_crop_code": "LD2",
+      "source_crop_name": "青江白菜大梗"
+    },
+    {
+      "official_code": "00201002006000400",
+      "source_system": "MAM",
+      "source_crop_code": "LD1",
+      "source_crop_name": "青江白菜小梗"
+    },
+    {
+      "official_code": "00201002006000300",
+      "source_system": "MAM",
+      "source_crop_code": "LB12",
+      "source_crop_name": "小白菜  土白菜"
+    },
+    {
+      "official_code": "00201002006000300",
+      "source_system": "MAM",
+      "source_crop_code": "LB11",
+      "source_crop_name": "小白菜  土白菜"
+    },
+    {
+      "official_code": "00201002006000300",
+      "source_system": "MAM",
+      "source_crop_code": "LB1",
+      "source_crop_name": "小白菜  土白菜"
+    },
+    {
+      "official_code": "00201002006000200",
+      "source_system": "MAM",
+      "source_crop_code": "LB22",
+      "source_crop_name": "小白菜  蚵仔白"
+    },
+    {
+      "official_code": "00201002006000200",
+      "source_system": "MAM",
+      "source_crop_code": "LB21",
+      "source_crop_name": "小白菜  蚵仔白"
+    },
+    {
+      "official_code": "00201002006000200",
+      "source_system": "MAM",
+      "source_crop_code": "LB2",
+      "source_crop_name": "小白菜  蚵仔白"
+    },
+    {
+      "official_code": "00201002006000100",
+      "source_system": "MAM",
+      "source_crop_code": "LB8",
+      "source_crop_name": "小白菜  水耕"
+    },
+    {
+      "official_code": "00201002006000100",
+      "source_system": "MAM",
+      "source_crop_code": "LB0",
+      "source_crop_name": "小白菜  其他"
+    },
+    {
+      "official_code": "00201002005999900",
+      "source_system": "MAM",
+      "source_crop_code": "SS0",
+      "source_crop_name": "大心菜  其他"
+    },
+    {
+      "official_code": "00201002005000600",
+      "source_system": "MAM",
+      "source_crop_code": "SS1",
+      "source_crop_name": "大心菜  帶葉"
+    },
+    {
+      "official_code": "00201002005000500",
+      "source_system": "MAM",
+      "source_crop_code": "LJ5",
+      "source_crop_name": "芥菜    翡翠娃娃菜"
+    },
+    {
+      "official_code": "00201002005000400",
+      "source_system": "MAM",
+      "source_crop_code": "OB1",
+      "source_crop_name": "雪里紅"
+    },
+    {
+      "official_code": "00201002005000300",
+      "source_system": "MAM",
+      "source_crop_code": "LJ4",
+      "source_crop_name": "芥菜    小芥菜"
+    },
+    {
+      "official_code": "00201002005000200",
+      "source_system": "MAM",
+      "source_crop_code": "OL1",
+      "source_crop_name": "朴菜"
+    },
+    {
+      "official_code": "00201002005000200",
+      "source_system": "MAM",
+      "source_crop_code": "LJ3",
+      "source_crop_name": "芥菜    大芥菜"
+    },
+    {
+      "official_code": "00201002005000100",
+      "source_system": "MAM",
+      "source_crop_code": "LJ1",
+      "source_crop_name": "芥菜    芥菜仁"
+    },
+    {
+      "official_code": "00201002005000000",
+      "source_system": "MAM",
+      "source_crop_code": "LJ8",
+      "source_crop_name": "芥菜水耕"
+    },
+    {
+      "official_code": "00201002004999900",
+      "source_system": "MAM",
+      "source_crop_code": "LC0",
+      "source_crop_name": "包心白  其他"
+    },
+    {
+      "official_code": "00201002004000600",
+      "source_system": "MAM",
+      "source_crop_code": "LC7",
+      "source_crop_name": "包心白  大土"
+    },
+    {
+      "official_code": "00201002004000500",
+      "source_system": "MAM",
+      "source_crop_code": "LC6",
+      "source_crop_name": "包心白  冬白芽"
+    },
+    {
+      "official_code": "00201002004000400",
+      "source_system": "MAM",
+      "source_crop_code": "LC5",
+      "source_crop_name": "包心白  天津白"
+    },
+    {
+      "official_code": "00201002004000300",
+      "source_system": "MAM",
+      "source_crop_code": "LC3",
+      "source_crop_name": "包心白  包頭蓮"
+    },
+    {
+      "official_code": "00201002004000200",
+      "source_system": "MAM",
+      "source_crop_code": "LC2",
+      "source_crop_name": "包心白  成功白"
+    },
+    {
+      "official_code": "00201002004000100",
+      "source_system": "MAM",
+      "source_crop_code": "LC1",
+      "source_crop_name": "包心白  包白"
+    },
+    {
+      "official_code": "00201002004000050",
+      "source_system": "MAM",
+      "source_crop_code": "LC9",
+      "source_crop_name": "包心白  進口"
+    },
+    {
+      "official_code": "00201002002999900",
+      "source_system": "MAM",
+      "source_crop_code": "LK0",
+      "source_crop_name": "芥藍菜  其他"
+    },
+    {
+      "official_code": "00201002002000300",
+      "source_system": "MAM",
+      "source_crop_code": "LK1",
+      "source_crop_name": "芥藍菜  蒲公"
+    },
+    {
+      "official_code": "00201002002000050",
+      "source_system": "MAM",
+      "source_crop_code": "LK9",
+      "source_crop_name": "芥藍菜  進口"
+    },
+    {
+      "official_code": "00201002002000000",
+      "source_system": "MAM",
+      "source_crop_code": "LK8",
+      "source_crop_name": "芥藍菜  水耕"
+    },
+    {
+      "official_code": "00201002002000000",
+      "source_system": "MAM",
+      "source_crop_code": "LK2",
+      "source_crop_name": "芥藍菜"
+    },
+    {
+      "official_code": "00201002001999900",
+      "source_system": "MAM",
+      "source_crop_code": "LA3",
+      "source_crop_name": "甘藍    甜甘藍"
+    },
+    {
+      "official_code": "00201002001999900",
+      "source_system": "MAM",
+      "source_crop_code": "LA0",
+      "source_crop_name": "甘藍    其他"
+    },
+    {
+      "official_code": "00201002001000500",
+      "source_system": "MAM",
+      "source_crop_code": "LA7",
+      "source_crop_name": "甘藍 改良尖"
+    },
+    {
+      "official_code": "00201002001000400",
+      "source_system": "MAM",
+      "source_crop_code": "LA5",
+      "source_crop_name": "甘藍    甘藍心"
+    },
+    {
+      "official_code": "00201002001000300",
+      "source_system": "MAM",
+      "source_crop_code": "LA4",
+      "source_crop_name": "甘藍    紫色"
+    },
+    {
+      "official_code": "00201002001000200",
+      "source_system": "MAM",
+      "source_crop_code": "LA2",
+      "source_crop_name": "甘藍    改良種"
+    },
+    {
+      "official_code": "00201002001000100",
+      "source_system": "MAM",
+      "source_crop_code": "LA1",
+      "source_crop_name": "甘藍    初秋"
+    },
+    {
+      "official_code": "00201002001000050",
+      "source_system": "MAM",
+      "source_crop_code": "LA9",
+      "source_crop_name": "甘藍    進口"
     }
   ]
 }
